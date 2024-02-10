@@ -2,35 +2,44 @@
 
 * [Introduction](README.md)
 
-## Book: Sacrilegious Theosis
+## My Books
 
-* [Chapters](book-sacrilegious-theosis/chapters/README.md)
-  * [Chapter 1: Introduction](book-sacrilegious-theosis/chapters/chapter-1-introduction.md)
-  * [Chapter 2: Seemings](book-sacrilegious-theosis/chapters/chapter-2-seemings.md)
-* [Appendix](book-sacrilegious-theosis/appendix.md)
+* [Sacrilegious Theosis](my-books/sacrilegious-theosis/README.md)
+  * [Drafts](my-books/sacrilegious-theosis/drafts/README.md)
+    * [Draft 1](my-books/sacrilegious-theosis/drafts/draft-1/README.md)
+      * [Chapters](my-books/sacrilegious-theosis/drafts/draft-1/chapters/README.md)
+        * [Chapter 1: Introduction](my-books/sacrilegious-theosis/drafts/draft-1/chapters/chapter-1-introduction.md)
+        * [Chapter 2: Seemings](my-books/sacrilegious-theosis/drafts/draft-1/chapters/chapter-2-seemings.md)
+      * [Appendix](my-books/sacrilegious-theosis/drafts/draft-1/appendix.md)
+  * [Latest Version](my-books/sacrilegious-theosis/latest-version.md)
 
-## Philosophy Study Notes
+## Study Notes
 
-* [Non-Western](philosophy-study-notes/non-western/README.md)
-  * [Indian](philosophy-study-notes/non-western/indian/README.md)
-    * [Hinduism](philosophy-study-notes/non-western/indian/hinduism/README.md)
-      * [Bhagbad Gita](philosophy-study-notes/non-western/indian/hinduism/bhagbad-gita/README.md)
-        * [The Great Work](philosophy-study-notes/non-western/indian/hinduism/bhagbad-gita/the-great-work.md)
-* [Western](philosophy-study-notes/western/README.md)
-  * [Ethics](philosophy-study-notes/western/ethics/README.md)
-    * [Way of Life](philosophy-study-notes/western/ethics/way-of-life/README.md)
-      * [True Will](philosophy-study-notes/western/ethics/way-of-life/true-will/README.md)
-        * [Page 1](philosophy-study-notes/western/ethics/way-of-life/true-will/page-1.md)
-
-## Self-Help Study Notes
-
-* [Memory](self-help-study-notes/memory/README.md)
-  * [Victorious Mind](self-help-study-notes/memory/victorious-mind.md)
-* [Meditation](self-help-study-notes/meditation.md)
-
-## miscellaneous
-
-* [Meditation Practice Records](miscellaneous/meditation-practice-records/README.md)
-  * [Years](miscellaneous/meditation-practice-records/years/README.md)
-    * [2024](miscellaneous/meditation-practice-records/years/2024.md)
-* [Memorable Readings](miscellaneous/memorable-readings.md)
+* [Philosophy](study-notes/philosophy/README.md)
+  * [Non-Western](study-notes/philosophy/non-western/README.md)
+    * [Indian](study-notes/philosophy/non-western/indian/README.md)
+      * [Hinduism](study-notes/philosophy/non-western/indian/hinduism/README.md)
+        * [Bhagbad Gita](study-notes/philosophy/non-western/indian/hinduism/bhagbad-gita/README.md)
+          * [The Great Work](study-notes/philosophy/non-western/indian/hinduism/bhagbad-gita/the-great-work.md)
+      * [Buddhism](study-notes/philosophy/non-western/indian/buddhism.md)
+  * [Western](study-notes/philosophy/western/README.md)
+    * [Axiology](study-notes/philosophy/western/axiology/README.md)
+      * [Ethics](study-notes/philosophy/western/axiology/ethics/README.md)
+        * [Way of Life](study-notes/philosophy/western/axiology/ethics/way-of-life/README.md)
+          * [True Will](study-notes/philosophy/western/axiology/ethics/way-of-life/true-will.md)
+          * [Religious](study-notes/philosophy/western/axiology/ethics/way-of-life/religious.md)
+* [Self-Help](study-notes/self-help/README.md)
+  * [Meditation](study-notes/self-help/meditation.md)
+  * [Learning](study-notes/self-help/learning/README.md)
+    * [Deep Work](study-notes/self-help/learning/deep-work.md)
+    * [Memory](study-notes/self-help/learning/memory/README.md)
+      * [Victorious Mind](study-notes/self-help/learning/memory/victorious-mind.md)
+    * [Feynman Technique](study-notes/self-help/learning/feynman-technique.md)
+    * [Integrity](study-notes/self-help/learning/integrity/README.md)
+      * [Thoughts](study-notes/self-help/learning/integrity/thoughts.md)
+* [Religion](study-notes/religion/README.md)
+  * [Mainstream](study-notes/religion/mainstream/README.md)
+    * [Buddhism](study-notes/religion/mainstream/buddhism.md)
+    * [Hinduism](study-notes/religion/mainstream/hinduism.md)
+  * [Non-Mainstream](study-notes/religion/non-mainstream/README.md)
+    * [Thelema](study-notes/religion/non-mainstream/thelema.md)

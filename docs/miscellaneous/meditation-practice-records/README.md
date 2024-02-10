@@ -1,2 +1,0 @@
-# Meditation Practice Records
-

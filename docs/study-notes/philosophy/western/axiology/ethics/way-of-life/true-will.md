@@ -2,5 +2,5 @@
 
 See: &#x20;
 
-[bhagbad-gita](../../../../non-western/indian/hinduism/bhagbad-gita/ "mention")
+[bhagavad-gita](../../../../non-western/indian/hinduism/bhagavad-gita/ "mention")
 

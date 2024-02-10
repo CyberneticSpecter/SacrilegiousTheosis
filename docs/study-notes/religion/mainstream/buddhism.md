@@ -2,4 +2,4 @@
 
 See:
 
-[buddhism.md](buddhism.md "mention")
+[buddhism.md](../../philosophy/non-western/indian/buddhism.md "mention")

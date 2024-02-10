@@ -33,7 +33,7 @@ Summary from  [The Great Work of Your Life - Stephen Cope](https://www.amazon.co
    2. Effort (\~1-4 hrs per day)
    3. Motivational (without some extrinsic motivation, people generally aren't inclined towards actual deliberate practice)
 9. Phases of mastery:
-   1. Playful -- interest
+   1. Playful interest
    2. Start Deliberate Practice
    3. Prep for \~10 years (full-time commitment)
    4. Innovate - new knowledge

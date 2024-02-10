@@ -44,6 +44,7 @@
     * [Feynman Technique](study-notes/self-help/memory/feynman-technique.md)
   * [Integrity](study-notes/self-help/integrity/README.md)
     * [Thoughts on Self-Integrity](study-notes/self-help/integrity/thoughts-on-self-integrity.md)
+  * [Misc Hacks](study-notes/self-help/misc-hacks.md)
 * [Religion](study-notes/religion/README.md)
   * [Mainstream](study-notes/religion/mainstream/README.md)
     * [Buddhism](study-notes/religion/mainstream/buddhism.md)

@@ -1,0 +1,7 @@
+# Misc Hacks
+
+1. **Meta Self-Control:**  Expect self-control failures and intervene early when possible. eg. stop from starting to watch a TV series since switching mid-way is difficult …. strategically design experiences to have fewer temptations. More [here](https://riikkaiivanainen.medium.com/the-secret-life-of-people-with-high-self-control-its-easier-than-you-think-7dd26fb5282c).
+2. Change scenes, stand, **move around** - cheat fatigue (stand 50%, 25% sit, 25% walk). Somewhere from [this channel](https://www.youtube.com/@riandoris).
+3. **Minimize multi-tasking**. Focus on the task in the present. Somewhere from [this channel](https://www.youtube.com/@riandoris).
+4. When taking breaks - **stare at walls** or something equivalent - "bore yourself" so that "boring things" that you have to do appear more interesting relatively. Somewhere from [this channel](https://www.youtube.com/@riandoris).
+5. **Hinge Creation:** create "hinges" throughout the day when you do certain critical activities (e.g., sleep) on which everything else hangs  (for example, bad sleep - can ruin the rest of the day or make it much less productive). Set <= 6 "alarms" for hinges for specific critical activities that you want to develop as habits and maintain consistently (e.g., morning meditation, workout, sleep). Each hinge can also denote a "phase shift" for your work pattern. For more, see [here](https://www.youtube.com/watch?v=hApnn1vnWi0).

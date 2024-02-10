@@ -35,12 +35,12 @@ Must be honest about issues, actions, consequences, motives - moral integrity is
 
 > First and foremost, it forces you to be honest about your intentions and about the effects of your actions. Honesty here is a simple principle: you don't add any after-the-fact rationalizations to cover up what you actually did, nor do you try to subtract from the actual facts through denial. Because you're applying this honesty to areas where the normal reaction is to be embarrassed about or afraid of the truth, it's more than a simple registering of the facts. It also requires moral integrity. This is why the Buddha stressed morality as a precondition for wisdom, and declared the highest moral principle to be the precept against lying. If you don't make a habit of admitting uncomfortable truths, the truth as a whole will elude you.
 
-* Lying to others is a slippery slope to self-deception which perturbs wisdom.
+* Lying to others is a slippery slope to self-deception, which, in turn, perturbs wisdom.
 
 #### Three Emptiness:
 
 1. Emptiness as Meditation Approach (MN 121)
-2. Emptiness as Attribute (non-self of phenomenal) (SN 35.85)
+2. Emptiness as Attribute (non-self of all phenomena) (SN 35.85)
 3. Emptiness as State of Concentration
 
 #### First Emptiness

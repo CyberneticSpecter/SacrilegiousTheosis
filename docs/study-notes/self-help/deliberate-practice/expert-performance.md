@@ -1,8 +1,8 @@
-# Paper Summaries
+# Expert Performance
 
 Paper summaries on Expert Performance and deliberate practice for it.
 
-## Summary from  The Great Work:
+### Summary from  The Great Work
 
 Summary from  [The Great Work of Your Life - Stephen Cope](https://www.amazon.com/Great-Work-Your-Life-Journey/dp/055380751X) on how to conduct deliberate practice
 
@@ -14,7 +14,7 @@ Summary from  [The Great Work of Your Life - Stephen Cope](https://www.amazon.co
 > 6. Appropriate care paid to the essential ingredient of “recovery time” so that there is energy to engage in the same intense practice again the next day.
 > 7. A considerable amount of time spent within the so-called “domain of the task.”
 
-## Summary from Various Sources
+### Summary from Various Sources
 
 1. Choose to master something where the genetic odds are in your favor
 2. Consider "layering" - creating a skill or art form combining different skills suitable for you if you want to specialize in a niche or create a niche where you can be "top".
@@ -40,9 +40,9 @@ Summary from  [The Great Work of Your Life - Stephen Cope](https://www.amazon.co
 
 **Sources:**
 
-The Role of Deliberate Practice in the Acquisition of Expert Performance - K. Anders Ericsson, Ralf Th. Krampe, and Clemens Tesch-Romer
+[The Role of Deliberate Practice in the Acquisition of Expert Performance - K. Anders Ericsson, Ralf Th. Krampe, and Clemens Tesch-Romer](https://psycnet.apa.org/record/1993-40718-001)
 
-Expert Performance Its Structure and Acquisition - K. Anders Ericsson and Neil Charness
+[Expert Performance Its Structure and Acquisition - K. Anders Ericsson and Neil Charness](https://psycnet.apa.org/record/1994-43905-001)
 
 {% embed url="https://jamesclear.com/deliberate-practice-myth" %}
 

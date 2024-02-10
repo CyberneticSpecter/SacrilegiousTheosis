@@ -19,6 +19,8 @@ https://slowself.co/self-integrity-tips/
 
 Ideas from: https://slowself.co/self-integrity-tips/
 
+Also see: [integrity-of-emptiness.md](../../philosophy/non-western/indian/buddhism/early-buddhism/thanissaro-bhikkhu/integrity-of-emptiness.md "mention")
+
 ## Self Integrity - Feedback Loop
 
 * Can both become a vicious cycle or a virtuous cycle

@@ -13,7 +13,7 @@ From [The Integrity of Emptiness](https://www.accesstoinsight.org/lib/authors/th
    2. Emptiness as insight into the no-self attribute of things.
    3. Emptiness as concentration - samadhi after release from disturbances.
 
-## Commentary on Cula-sunnata Sutta.
+## Commentary on Cula-sunnata Sutta
 
 Simple test for Wisdom:
 

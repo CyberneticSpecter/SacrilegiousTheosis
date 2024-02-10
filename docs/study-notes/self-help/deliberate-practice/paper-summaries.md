@@ -18,8 +18,8 @@ Summary from  [The Great Work of Your Life - Stephen Cope](https://www.amazon.co
 
 1. Choose to master something where the genetic odds are in your favor
 2. Consider "layering" - creating a skill or art form combining different skills suitable for you if you want to specialize in a niche or create a niche where you can be "top".
-3. Deliberate Practice involves stressful concentration with the intention of improving performance. It's not a "flow" state. It's not mere play and generally not inherently enjoyable. Unlike work, no immediate financial incentive (such as salary).&#x20;
-4. The degree of mastery is a monotonic function of the accumulated "properly done" (well-rested, non-fatigued) deliberate practice hours (the more the better).&#x20;
+3. Deliberate Practice involves stressful concentration intending to improve performance. It's not a "flow" state. It's not mere play and generally not inherently enjoyable. Unlike work, there is no immediate financial incentive (such as salary).&#x20;
+4. The degree of mastery is a monotonic function of the accumulated "properly done" (well-rested, non-fatigued) deliberate practice hours (the more, the better).&#x20;
 5. Conditions for mastery:
    1. Motivation
    2. Design of the task (account for pre-existing knowledge for correct understanding with brief instruction)

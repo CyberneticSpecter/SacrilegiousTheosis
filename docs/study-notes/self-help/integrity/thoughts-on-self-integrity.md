@@ -1,6 +1,6 @@
 # Thoughts on Self-Integrity
 
-## Self-Integrity is Self-Honesty
+### Self-Integrity is Self-Honesty
 
 Honesty about values, honesty in actions (alignment with values and belief), honesty in keeping promises (commitments), honesty in thought and investigation (Truth as a regulative ideal)
 
@@ -21,7 +21,7 @@ Ideas from: https://slowself.co/self-integrity-tips/
 
 Also see: [integrity-of-emptiness.md](../../philosophy/non-western/indian/buddhism/early-buddhism/thanissaro-bhikkhu/integrity-of-emptiness.md "mention")
 
-## Self Integrity - Feedback Loop
+### Self Integrity - Feedback Loop
 
 * Can both become a vicious cycle or a virtuous cycle
 * Do more of what you committed to -- becomes easier -- increase self-trust
@@ -34,7 +34,7 @@ https://slowself.co/self-integrity-tips/
 * Beliefs determine actions, but our actions (and habits) also determine our beliefs - tell us who we are.
 * Under performative contradiction/cognitive dissonance, we try to escape the friction by changing beliefs or action policies. Changing belief can involve losing trust in oneself - degrading one's self-image ==> downward spiral.
 
-## 7 Tips
+### 7 Tips
 
 1. Write commitments on paper (set "binding vows" perhaps)
 2. Start super small to train
@@ -46,7 +46,7 @@ https://slowself.co/self-integrity-tips/
 
 > _“Promise is a big word. It either makes something or it breaks everything”_.
 
-## Future Self-Continuity And Integrity
+### Future Self-Continuity And Integrity
 
 Ideas from:&#x20;
 

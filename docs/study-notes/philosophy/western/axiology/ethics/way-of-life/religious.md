@@ -2,5 +2,7 @@
 
 See:&#x20;
 
-[religion](../../../../../religion/ "mention")
+{% content-ref url="../../../../../religion/" %}
+[religion](../../../../../religion/)
+{% endcontent-ref %}
 

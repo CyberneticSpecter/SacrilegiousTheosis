@@ -2,4 +2,7 @@
 
 See:
 
-[buddhism](../../philosophy/non-western/indian/buddhism/ "mention")
+{% content-ref url="../../philosophy/non-western/indian/buddhism/" %}
+[buddhism](../../philosophy/non-western/indian/buddhism/)
+{% endcontent-ref %}
+

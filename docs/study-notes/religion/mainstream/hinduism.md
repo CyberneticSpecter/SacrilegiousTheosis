@@ -1,8 +1,6 @@
----
-description: 'See:'
----
-
 # Hinduism
+
+See:
 
 {% content-ref url="../../philosophy/non-western/indian/hinduism/" %}
 [hinduism](../../philosophy/non-western/indian/hinduism/)

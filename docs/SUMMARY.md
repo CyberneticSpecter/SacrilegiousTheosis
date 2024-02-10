@@ -42,6 +42,8 @@
     * [Buddhism](study-notes/religion/mainstream/buddhism.md)
     * [Hinduism](study-notes/religion/mainstream/hinduism.md)
 * [Self-Help](study-notes/self-help/README.md)
+  * [Deliberate Practice](study-notes/self-help/deliberate-practice/README.md)
+    * [Paper Summaries](study-notes/self-help/deliberate-practice/paper-summaries.md)
   * [Meditation](study-notes/self-help/meditation.md)
   * [Memory](study-notes/self-help/memory/README.md)
     * [Victorious Mind](study-notes/self-help/memory/victorious-mind.md)

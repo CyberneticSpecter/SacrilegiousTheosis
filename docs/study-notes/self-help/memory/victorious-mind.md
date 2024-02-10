@@ -2,24 +2,24 @@
 
 From: [The Victorious Mind: How To Master Memory, Meditation and Mental Well-Being - Anthony Metivier](https://www.amazon.com/Victorious-Mind-Master-Meditation-Well-Being-ebook/dp/B085D8M7S5?ref\_=ast\_author\_mpb)
 
-## Self-Image Creation
+### Self-Image Creation
 
 1. Create an image of your current self - honestly representing your current mental state of affairs.
 2. Create an image of your target "ideal" self - as a goalpost and a regulative ideal.&#x20;
 
 Memory improvement can help oneself gain inner stability - by helping better retain one's goal, maintaining focus, and making oneself more integrated and self-aligned.&#x20;
 
-## Journaling&#x20;
+### Journaling&#x20;
 
 1. Write a vision statement for clarity - what you want to do, what you want to achieve truly, etc.&#x20;
 2. Keep a dream journal - can provide insights for life and may help develop memory in general.
 3. Physical journaling could be better for retaining memories.
 
-## Meditation
+### Meditation
 
 Practice Meditation to improve memory, mental stability, and inner bliss.
 
-## Breathwork
+### Breathwork
 
 Pendulum Breathing - use it for focus, relaxation, and memorization.
 
@@ -27,7 +27,7 @@ Inhale, hold & focus (or memorize/create mental images), exhale
 
 More: [https://www.magneticmemorymethod.com/magnetic-memorization-and-systema/](https://www.magneticmemorymethod.com/magnetic-memorization-and-systema/)
 
-## Mnemonics
+### Mnemonics
 
 Use as applicable.
 
@@ -43,7 +43,7 @@ Above is a mnemonic used to remember trigonometric relations (that's the only re
 
 More: [https://www.magneticmemorymethod.com/mnemonic-devices/](https://www.magneticmemorymethod.com/mnemonic-devices/)
 
-## Memory Palaces
+### Memory Palaces
 
 ```
 1. Create ~26 memory palaces for use
@@ -65,7 +65,7 @@ More: [https://www.magneticmemorymethod.com/memory-palace/](https://www.magnetic
 General advice for mnemonic utilization: don't memorize new information to memorize/encode other information. (Create associations using existing memories!)
 {% endhint %}
 
-## Deep Multimodal Encoding: KAVE COGS
+### Deep Multimodal Encoding: KAVE COGS
 
 KAVE-COGS:&#x20;
 
@@ -85,7 +85,7 @@ Use all modalities of imagination to empower memory retention - while reading, w
 
 More: [https://www.magneticmemorymethod.com/reading-strategies/](https://www.magneticmemorymethod.com/reading-strategies/)
 
-## Big Five of Learning
+### Big Five of Learning
 
 Big 5 of Learning:
 
@@ -95,7 +95,7 @@ Big 5 of Learning:
 4. Writing
 5. Remembering
 
-## Recall Rehearsal
+### Recall Rehearsal
 
 For practicing remembering:
 
@@ -115,7 +115,7 @@ Rehearse recalling from memory palace encodings in various orders:
 * Memorize scriptures (e.g., Hindu scriptures in Sanskrit) -> deep internalization of scriptures; serve as practice of memorization abilities; can generate bliss.
 * To remember numbers, associate them with letters - which can be further associated with events involving Persons, actions, and objects.
 
-## Feynman Technique
+### Feynman Technique
 
 Take ELI5 notes.
 

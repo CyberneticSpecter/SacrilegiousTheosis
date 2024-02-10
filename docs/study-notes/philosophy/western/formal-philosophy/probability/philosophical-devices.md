@@ -2,7 +2,7 @@
 
 From: [Philosophical Devices Proofs, Probabilities, Possibilities, and Sets David Papineau](https://global.oup.com/academic/product/philosophical-devices-9780199651733)
 
-#### Constraints
+### Constraints
 
 Constraint 1: Basic logical constraints, 0-1 range, Kolmogorov Axioms (Dutch Book Argument)
 
@@ -12,13 +12,13 @@ Constraint 3: Conditionalization (Belief Update): P\_new(X) = P(X|E)
 
 Constraint 4: Bayes Constraint: P(X|E) = P(E|X)P(X)/P(E)
 
-#### Subjective and Objective notions of Probability
+### Subjective and Objective notions of Probability
 
 Subjective: credence&#x20;
 
 Objective: propensity; radiation, QM, perhaps deterministic chanciness
 
-**If-then vs. Probability Conditional**
+### **If-then vs. Probability Conditional**
 
 * Controversial relation
 * One might think P(C|A) is the relaxed version of "If C then A" (or C=>A), but consider that if-then is true whenever the antecedent is false. But P(A|C) is not 1 if C is 0.

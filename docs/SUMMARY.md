@@ -40,7 +40,7 @@
     * [Victorious Mind](study-notes/self-help/memory/victorious-mind.md)
     * [Feynman Technique](study-notes/self-help/memory/feynman-technique.md)
   * [Integrity](study-notes/self-help/integrity/README.md)
-    * [Thoughts](study-notes/self-help/integrity/thoughts.md)
+    * [Thoughts on Self-Integrity](study-notes/self-help/integrity/thoughts-on-self-integrity.md)
 * [Religion](study-notes/religion/README.md)
   * [Mainstream](study-notes/religion/mainstream/README.md)
     * [Buddhism](study-notes/religion/mainstream/buddhism.md)

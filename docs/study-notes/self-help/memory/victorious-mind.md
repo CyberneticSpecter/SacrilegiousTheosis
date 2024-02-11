@@ -119,5 +119,5 @@ Rehearse recalling from memory palace encodings in various orders:
 
 Take ELI5 notes.
 
-See: [feynman-technique.md](feynman-technique.md "mention")
+See: [feynman-technique.md](../learning/feynman-technique.md "mention")
 

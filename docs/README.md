@@ -16,14 +16,14 @@ Currently, I have a bunch of mental notes without a physical correspondent (outs
 My current plan for note-taking is something like this:
 
 1. Taking active notes while reading stuff in Obsidian. Create summaries and integrate key points near the end of reading a book/article/collection-of-related-articles. This is currently done privately.&#x20;
-2. Revisit older materials that I have read and older notes - if I find it relevant. Distill them to Obsidian (still private).&#x20;
+2. Revisit older materials I have read and older notes - if I find it relevant. Distill them to Obsidian (still private).&#x20;
 3. Clean up my notes and publish the main points/summary here in Gitbook publicly (this is public; this is what you get to see here).&#x20;
 
 Ultimately, I should have a private obsidian with "dirty" notes and further distilled "cleaner" notes publicly in Gitbook (here).&#x20;
 
 But a few points about my Gitbook notes:
 
-1. &#x20;They are not necessarily "good" summaries in the sense of best representing the book/paper being summarized. They are closer to "personalized" summaries - focusing on elements that are salient to me for whatever reason. So, I may not mention many things from the book/paper, even if they are a big part of them; even if there is nothing wrong with them.
+1. &#x20;They are not necessarily "good" summaries in the sense of best representing the book/paper being summarized. They are closer to "personalized" summaries - focusing on elements that are salient to me for whatever reason. So, I may not mention many things from the book/paper, even if they are a big part of them and even if nothing is wrong with them.
 2. I may include some personal thoughts, critiques, etc., besides a summary.
 3. I don't necessarily "endorse" anything  I write about in the study notes. I may even precisely jot down things that I disagree with and later write some critique on.&#x20;
 4. While I said I would post "cleaned" versions of my Obsidian notes, it will keep it relatively low-effort and terse. It may not be always understandable. Still, I will strive to keep them somewhat digestible and potentially useful for the public. &#x20;
@@ -53,10 +53,8 @@ After sufficient research, I may write books on other, more specific topics.&#x2
 
 ### Version Control and Feedback
 
-I am synching the Gitbook with this public [GitHub repository](#user-content-fn-1)[^1]. All the changes made can be publicly viewed through the repository. If you have some feedback/comment, you can open an [issue](https://github.com/CyberneticSpecter/SacrilegiousTheosis/issues) in the repository.&#x20;
+I am synching the Gitbook with this public [GitHub repository](https://github.com/CyberneticSpecter/SacrilegiousTheosis). All the changes made can be publicly viewed through the repository. If you have some feedback/comment, you can open an [issue](https://github.com/CyberneticSpecter/SacrilegiousTheosis/issues) in the repository.&#x20;
 
 ### **About me**&#x20;
 
 For now, I will keep myself anonymous but may deanonymize myself someday. But a little bit about my educational background: I am a PhD candidate studying computer science, specializing in Natural Language Processing. So, primarily, I am a STEM student. However, I have studied multiple philosophy books/papers (not all cleanly organized into notes here at the moment) and have also taken a few (400-500 level) university courses on analytic philosophy.&#x20;
-
-[^1]: 

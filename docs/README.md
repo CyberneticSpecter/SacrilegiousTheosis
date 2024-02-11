@@ -2,6 +2,8 @@
 
 ### About the Website
 
+[https://sacrilegious-theosis.gitbook.io/sacrilegious-theosis/](https://sacrilegious-theosis.gitbook.io/sacrilegious-theosis/)
+
 I am using the website as a sort of ["digital garden"](https://github.com/MaggieAppleton/digital-gardeners) and a [personal knowledge base](https://towardsdatascience.com/personal-knowledge-graphs-9a23a0b099af)/[second brain](https://towardsdatascience.com/personal-knowledge-graphs-9a23a0b099af) of mine. It includes two main sections:
 
 1. Study Notes

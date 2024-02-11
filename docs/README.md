@@ -11,7 +11,7 @@ I am using the website as a sort of ["digital garden"](https://github.com/Maggie
 
 &#x20;**Study Notes**
 
-In this section, I organize notes about things I am studying (as an autodidact). Topics can include philosophy, science (cognitive science, neuroscience, biology, physics, etc.), maths,  self-help, religion, mysticism etc. Currently, the contents are sparse, but I plan to grow them slowly.&#x20;
+In this section, I organize notes about things I am studying (as an autodidact). Topics can include philosophy, science (cognitive science, neuroscience, biology, physics, computer science, etc.), maths,  self-help, religion, mysticism etc. Currently, the contents are sparse, but I plan to grow them slowly.&#x20;
 
 Currently, I have a bunch of mental notes without a physical correspondent (outside my brain), I have a rag-tag group of notes in different corners (Google Docs, notepad texts in Dropbox, etc.), I have a bunch of [Obsidian ](https://obsidian.md/)notes, and this (Gitbook).
 
@@ -65,7 +65,7 @@ I am synching the Gitbook with this public [GitHub repository](https://github.co
 
 ### **About Me**&#x20;
 
-For now, I will keep myself anonymous but may deanonymize myself someday. But a little bit about my educational background: I am a PhD candidate studying computer science, specializing in Natural Language Processing. So, primarily, I am a STEM student. However, I have studied multiple philosophy books/papers (not all cleanly organized into notes here at the moment) and have also taken a few (400-500 level) university courses on analytic philosophy.&#x20;
+For now, I will keep myself anonymous but may deanonymize myself someday. But a little bit about my educational background: I am a PhD candidate studying computer science, specializing in Natural Language Processing. So, primarily, I am a STEM student. However, I have studied multiple philosophy books/papers (not all cleanly organized into notes here at the moment) and have also taken a few (400-500 level) university courses on analytic philosophy. Although I am a computer science student, do not expect much of computer science-related topics. It is mainly a philosophy-focused knowledge base.&#x20;
 
 <details>
 

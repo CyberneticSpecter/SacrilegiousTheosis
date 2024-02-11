@@ -79,7 +79,7 @@ For now, I will keep myself anonymous but may deanonymize myself someday. But a 
 
 <summary>Spoiler</summary>
 
-Also, I used to be /u/Nameless1995 on Reddit (a flaired contributor in [r/askphilosophy](https://www.reddit.com/r/askphilosophy/) and active in r/consciousness), but I deleted myself - because I was a bit too active. So if anyone knows me from there and wants to contact me, you know how to. I also used to host a comics series called "philosophy suicides" on wordpress. But I deleted it because I wrote them in my late teenage years - and it is not something I am too proud of anymore due to a severe lack of nuance. You can probably still find them from Wayback Machine if you want, but I would not recommend them.&#x20;
+Also, I used to be /u/Nameless1995 on Reddit (a flaired contributor in [r/askphilosophy](https://www.reddit.com/r/askphilosophy/) and active in r/consciousness), but I deleted myself - because I was a bit too active. So if anyone knows me from there and wants to contact me, you know how to. I also used to host a comics series called "philosophy suicides" on wordpress. But I deleted it because I wrote them in my late teenage years - and it is not something I am too proud of anymore due to a severe lack of philosophical nuance.&#x20;
 
 </details>
 

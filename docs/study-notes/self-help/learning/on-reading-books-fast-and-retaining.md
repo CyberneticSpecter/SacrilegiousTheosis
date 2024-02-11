@@ -22,5 +22,6 @@ In addition:
 2. Create a sacred space (could be an imaginary bubble - specific environments like a library may also help) -- associate it with focus (when out of focus, move out of the space). See [3](https://www.youtube.com/watch?v=Pe-iBysIb7o).
    1. Natural light is better for focus.
    2. Keep the working space clean.
-3. Use high-intensity exercises during breaks; there is no need for hard timers (Pomodoro) - if you cannot focus, take a break; if you are getting into the zone, go on - be flexible  (also from 3).
+3. Use high-intensity exercises during breaks; there is no need for hard timers (Pomodoro) - if you cannot focus, take a break; if you are getting into the zone, go on - be flexible  (also from [3](https://www.youtube.com/watch?v=Pe-iBysIb7o)).
+4. Don't multitask.
 

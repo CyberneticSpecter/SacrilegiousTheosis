@@ -16,7 +16,7 @@ Currently, I have a bunch of mental notes without a physical correspondent (outs
 My current plan for note-taking is something like this:
 
 1. Taking active notes while reading stuff in Obsidian. Create summaries and integrate key points near the end of reading a book/article/collection-of-related-articles. This is currently done privately.&#x20;
-2. Revisit older materials I have read and older notes - if I find it relevant. Distill them to Obsidian (still private).&#x20;
+2. Revisit older materials I have read and older notes - if I find them relevant. Distill them to Obsidian (still private).&#x20;
 3. Clean up my notes and publish the main points/summary here in Gitbook publicly (this is public; this is what you get to see here).&#x20;
 
 Ultimately, I should have a private obsidian with "dirty" notes and further distilled "cleaner" notes publicly in Gitbook (here).&#x20;
@@ -55,7 +55,7 @@ After sufficient research, I may write books on other, more specific topics.&#x2
 
 I am synching the Gitbook with this public [GitHub repository](https://github.com/CyberneticSpecter/SacrilegiousTheosis). All the changes made can be publicly viewed through the repository. If you have some feedback/comment, you can open an [issue](https://github.com/CyberneticSpecter/SacrilegiousTheosis/issues) in the repository.&#x20;
 
-### **About me**&#x20;
+### **About Me**&#x20;
 
 For now, I will keep myself anonymous but may deanonymize myself someday. But a little bit about my educational background: I am a PhD candidate studying computer science, specializing in Natural Language Processing. So, primarily, I am a STEM student. However, I have studied multiple philosophy books/papers (not all cleanly organized into notes here at the moment) and have also taken a few (400-500 level) university courses on analytic philosophy.&#x20;
 

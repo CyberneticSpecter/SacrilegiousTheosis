@@ -47,3 +47,14 @@ Summary from  [The Great Work of Your Life - Stephen Cope](https://www.amazon.co
 {% embed url="https://jamesclear.com/deliberate-practice-myth" %}
 
 {% embed url="https://jamesclear.com/beginners-guide-deliberate-practice" %}
+
+***
+
+### Learning Complex Skills
+
+To learn complex skills - focus on specific aspects of the skill for different periods.&#x20;
+
+From:
+
+[https://www.youtube.com/watch?v=OI\_3bQ-EWSI](https://www.youtube.com/watch?v=OI\_3bQ-EWSI), [https://journals.sagepub.com/doi/10.1177/0018720812451994](https://journals.sagepub.com/doi/10.1177/0018720812451994), [https://journals.sagepub.com/doi/10.1177/0018720812451994](https://journals.sagepub.com/doi/10.1177/0018720812451994)
+

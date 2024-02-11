@@ -54,3 +54,7 @@
     * [Thoughts on Self-Integrity](study-notes/self-help/integrity/thoughts-on-self-integrity.md)
     * [Links](study-notes/self-help/integrity/links.md)
   * [Miscellaneous Quick Hacks](study-notes/self-help/miscellaneous-quick-hacks.md)
+
+## Miscellaneous
+
+* [Recommended Readings](miscellaneous/recommended-readings.md)

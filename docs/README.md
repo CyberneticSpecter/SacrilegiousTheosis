@@ -61,7 +61,15 @@ After sufficient research, I may write books on other, more specific topics.&#x2
 
 ### Version Control and Feedback
 
-I am synching the Gitbook with this public [GitHub repository](https://github.com/CyberneticSpecter/SacrilegiousTheosis). All the changes made can be publicly viewed through the repository. If you have some feedback/comment, you can open an [issue](https://github.com/CyberneticSpecter/SacrilegiousTheosis/issues) in the repository. You can also email [me](https://github.com/CyberneticSpecter).
+I am synching the Gitbook with this public [GitHub repository](https://github.com/CyberneticSpecter/SacrilegiousTheosis). All the changes made can be publicly viewed through the repository's commit history. If you have some feedback/comment, you can open an [issue](https://github.com/CyberneticSpecter/SacrilegiousTheosis/issues) in the repository. You can also email [me](https://github.com/CyberneticSpecter).
+
+I also plan to record substantial updates with corresponding dates on the page below:
+
+{% content-ref url="miscellaneous/updates.md" %}
+[updates.md](miscellaneous/updates.md)
+{% endcontent-ref %}
+
+This can be a quick way to check "what's new". Although, I may not record every edit there (for that, see the GitHub repository).
 
 ### **About Me**&#x20;
 

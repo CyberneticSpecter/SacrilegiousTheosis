@@ -59,3 +59,4 @@
 ## Miscellaneous
 
 * [Recommended Readings](miscellaneous/recommended-readings.md)
+* [Updates](miscellaneous/updates.md)

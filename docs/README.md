@@ -49,13 +49,19 @@ My current plan for the book is:
 3. Ideally, this will be a "living book" updated throughout my lifetime. &#x20;
 4. Unlike the study notes, I plan to be more articulate in the books and talk more transparently about my own personal stance and thoughts.&#x20;
 
+I plan to have the book go through three main stages. See more here:
+
+{% content-ref url="my-books/sacrilegious-theosis/status.md" %}
+[status.md](my-books/sacrilegious-theosis/status.md)
+{% endcontent-ref %}
+
 In a way, writing the book is primarily meant to serve as a means to achieve a higher level of personal integration of the knowledge gathered through my readings. Still, hopefully, it can also be helpful or interesting to others.&#x20;
 
 After sufficient research, I may write books on other, more specific topics.&#x20;
 
 ### Version Control and Feedback
 
-I am synching the Gitbook with this public [GitHub repository](https://github.com/CyberneticSpecter/SacrilegiousTheosis). All the changes made can be publicly viewed through the repository. If you have some feedback/comment, you can open an [issue](https://github.com/CyberneticSpecter/SacrilegiousTheosis/issues) in the repository.&#x20;
+I am synching the Gitbook with this public [GitHub repository](https://github.com/CyberneticSpecter/SacrilegiousTheosis). All the changes made can be publicly viewed through the repository. If you have some feedback/comment, you can open an [issue](https://github.com/CyberneticSpecter/SacrilegiousTheosis/issues) in the repository. You can also email [me](https://github.com/CyberneticSpecter).
 
 ### **About Me**&#x20;
 

@@ -5,6 +5,7 @@
 ## My Books
 
 * [Sacrilegious Theosis](my-books/sacrilegious-theosis/README.md)
+  * [Status](my-books/sacrilegious-theosis/status.md)
   * [Drafts](my-books/sacrilegious-theosis/drafts/README.md)
     * [Draft 1](my-books/sacrilegious-theosis/drafts/draft-1/README.md)
       * [Chapters](my-books/sacrilegious-theosis/drafts/draft-1/chapters/README.md)

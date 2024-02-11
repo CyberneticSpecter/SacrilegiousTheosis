@@ -47,7 +47,7 @@ My current plan for the book is:
 3. Ideally, this will be a "living book" updated throughout my lifetime. &#x20;
 4. Unlike the study notes, I plan to be more articulate in the books and talk more transparently about my own personal stance and thoughts.&#x20;
 
-In a way, writing the book is primarily meant to serve as a means to achieve a higher level of personal integration of the knowledge gathered through my readings.&#x20;
+In a way, writing the book is primarily meant to serve as a means to achieve a higher level of personal integration of the knowledge gathered through my readings. Still, hopefully, it can also be helpful or interesting to others.&#x20;
 
 After sufficient research, I may write books on other, more specific topics.&#x20;
 

@@ -58,3 +58,12 @@ I am synching the Gitbook with this public [GitHub repository](https://github.co
 ### **About me**&#x20;
 
 For now, I will keep myself anonymous but may deanonymize myself someday. But a little bit about my educational background: I am a PhD candidate studying computer science, specializing in Natural Language Processing. So, primarily, I am a STEM student. However, I have studied multiple philosophy books/papers (not all cleanly organized into notes here at the moment) and have also taken a few (400-500 level) university courses on analytic philosophy.&#x20;
+
+<details>
+
+<summary>Spoiler</summary>
+
+Also, I used to be /u/Nameless1995 on Reddit (a flaired contributor in [r/askphilosophy](https://www.reddit.com/r/askphilosophy/) and active in r/consciousness), but I deleted myself - because I was a bit too active. So if anyone knows me from there and wants to contact me, you know how to. I also used to host a comics series called "philosophy suicides" on wordpress. But I deleted it because I wrote them in my late teenage years - and it is not something I am too proud of anymore due to a severe lack of nuance.&#x20;
+
+</details>
+

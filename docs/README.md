@@ -34,13 +34,13 @@ But a few points about my Gitbook notes:
 
 In this section, I am planning to work on books. These will be long-term projects (nothing much has been done yet) - you will probably not see much in this section in the near term.&#x20;
 
-I explain the current topic that I am working on here:
+Currently, I am working on a book titled "The Struggle With Goodness".&#x20;
 
 {% content-ref url="my-books/the-struggle-with-goodness/drafts/draft-1/chapters/chapter-1-introduction.md" %}
 [chapter-1-introduction.md](my-books/the-struggle-with-goodness/drafts/draft-1/chapters/chapter-1-introduction.md)
 {% endcontent-ref %}
 
-Broadly, I am looking to build a personal (which need not turn out to be anything new, strictly speaking) systematic philosophy spanning broad areas - epistemology, logic, metaphysics, phenomenology, free will, self, ethics, politics -- the question of ethics "what one ought to do (if anything)" being the guiding central question.&#x20;
+Broadly, I am looking to build a personal (which need not turn out to be anything new, strictly speaking) systematic philosophy spanning broad areas - epistemology, logic, metaphysics, phenomenology, free will, self, ethics, politics wherein the question of ethics "what one ought to do (if anything)" being the guiding central question.&#x20;
 
 My current plan for the book is:
 

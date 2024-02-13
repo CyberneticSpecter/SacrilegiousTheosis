@@ -36,23 +36,23 @@ In this section, I am planning to work on books. These will be long-term project
 
 I explain the current topic that I am working on here:
 
-{% content-ref url="my-books/sacrilegious-theosis/drafts/draft-1/chapters/chapter-1-introduction.md" %}
-[chapter-1-introduction.md](my-books/sacrilegious-theosis/drafts/draft-1/chapters/chapter-1-introduction.md)
+{% content-ref url="my-books/struggle-with-goodness/drafts/draft-1/chapters/chapter-1-introduction.md" %}
+[chapter-1-introduction.md](my-books/struggle-with-goodness/drafts/draft-1/chapters/chapter-1-introduction.md)
 {% endcontent-ref %}
 
 Broadly, I am looking to build a personal (which need not turn out to be anything new, strictly speaking) systematic philosophy spanning broad areas - epistemology, logic, metaphysics, phenomenology, free will, self, ethics, politics -- the question of ethics "what one ought to do (if anything)" being the guiding central question.&#x20;
 
 My current plan for the book is:
 
-1. Initially, write a "bad" book with little research/study on science and philosophy. Given my current knowledge and understanding, I want to "think for myself" and muster the best I can write on this topic in the initial draft. Currently, my mind is internally disorganized, with many vague ideas - here and there. I want to organize them, meditate on them, push them against each other, aiming towards a reflective equilibrium, and write down my struggles on "digital paper" (in [draft-1](my-books/sacrilegious-theosis/drafts/draft-1/ "mention")).  This should also help me better contextualize new information in my further studies.
+1. Initially, write a "bad" book with little research/study on science and philosophy. Given my current knowledge and understanding, I want to "think for myself" and muster the best I can write on this topic in the initial draft. Currently, my mind is internally disorganized, with many vague ideas - here and there. I want to organize them, meditate on them, push them against each other, aiming towards a reflective equilibrium, and write down my struggles on "digital paper" (in [draft-1](my-books/struggle-with-goodness/drafts/draft-1/ "mention")).  This should also help me better contextualize new information in my further studies.
 2. Following that, I would potentially update the initial "bad" book as my research and study progress or as my writing skill/taste changes. Even if I don't change my mind, I may still update the contents to better contextualize them against the existing literature (discussing who agrees with me, engaging with those who disagree, etc.). I also wish to train and investigate the phenomenology of meditative states such as [jnanas](https://www.amazon.com/Jhana-Consciousness-Buddhist-Meditation-Neuroscience/dp/1645470806) and the implementation of practical policies besides just "book knowledge".&#x20;
 3. Ideally, this will be a "living book" updated throughout my lifetime. &#x20;
 4. Unlike the study notes, I plan to be more articulate in the books and talk more transparently about my own personal stance and thoughts.&#x20;
 
 I plan to have the book go through three main stages. See more here:
 
-{% content-ref url="my-books/sacrilegious-theosis/status.md" %}
-[status.md](my-books/sacrilegious-theosis/status.md)
+{% content-ref url="my-books/struggle-with-goodness/status.md" %}
+[status.md](my-books/struggle-with-goodness/status.md)
 {% endcontent-ref %}
 
 In a way, writing the book is primarily meant to serve as a means to achieve a higher level of personal integration of the knowledge gathered through my readings. Still, hopefully, it can also be helpful or interesting to others.&#x20;

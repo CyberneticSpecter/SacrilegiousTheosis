@@ -10,5 +10,5 @@ Beginning - 2/10/2024:&#x20;
 
 [expert-performance.md](../study-notes/self-help/learning/deliberate-practice/expert-performance.md "mention")[miscellaneous-quick-hacks.md](../study-notes/self-help/miscellaneous-quick-hacks.md "mention")
 
-[..](../ "mention") [status.md](../my-books/sacrilegious-theosis/status.md "mention")&#x20;
+[..](../ "mention") [status.md](../my-books/struggle-with-goodness/status.md "mention")&#x20;
 

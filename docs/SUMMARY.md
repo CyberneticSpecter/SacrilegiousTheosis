@@ -4,15 +4,15 @@
 
 ## My Books
 
-* [Struggle With Goodness](my-books/struggle-with-goodness/README.md)
-  * [Status](my-books/struggle-with-goodness/status.md)
-  * [Drafts](my-books/struggle-with-goodness/drafts/README.md)
-    * [Draft 1](my-books/struggle-with-goodness/drafts/draft-1/README.md)
-      * [Chapters](my-books/struggle-with-goodness/drafts/draft-1/chapters/README.md)
-        * [Chapter 1: Introduction](my-books/struggle-with-goodness/drafts/draft-1/chapters/chapter-1-introduction.md)
-        * [Chapter 2: Seemings](my-books/struggle-with-goodness/drafts/draft-1/chapters/chapter-2-seemings.md)
-      * [Appendix](my-books/struggle-with-goodness/drafts/draft-1/appendix.md)
-  * [Latest Version](my-books/struggle-with-goodness/latest-version.md)
+* [The Struggle With Goodness](my-books/the-struggle-with-goodness/README.md)
+  * [Status](my-books/the-struggle-with-goodness/status.md)
+  * [Drafts](my-books/the-struggle-with-goodness/drafts/README.md)
+    * [Draft 1](my-books/the-struggle-with-goodness/drafts/draft-1/README.md)
+      * [Chapters](my-books/the-struggle-with-goodness/drafts/draft-1/chapters/README.md)
+        * [Chapter 1: Introduction](my-books/the-struggle-with-goodness/drafts/draft-1/chapters/chapter-1-introduction.md)
+        * [Chapter 2: Seemings](my-books/the-struggle-with-goodness/drafts/draft-1/chapters/chapter-2-seemings.md)
+      * [Appendix](my-books/the-struggle-with-goodness/drafts/draft-1/appendix.md)
+  * [Latest Version](my-books/the-struggle-with-goodness/latest-version.md)
 
 ## Study Notes
 

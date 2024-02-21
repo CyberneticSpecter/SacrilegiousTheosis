@@ -34,7 +34,7 @@ But a few points about my Gitbook notes:
 
 In this section, I am planning to work on books. These will be long-term projects (nothing much has been done yet) - you will probably not see much in this section in the near term.&#x20;
 
-Currently, I am working on a book titled "The Struggle With Goodness". I explain the topic below:
+Currently, I am working on a book titled "The Struggle With Goodness." I explain the topic below:
 
 {% content-ref url="my-books/the-struggle-with-goodness/drafts/draft-1/chapters/chapter-1-introduction.md" %}
 [chapter-1-introduction.md](my-books/the-struggle-with-goodness/drafts/draft-1/chapters/chapter-1-introduction.md)
@@ -45,7 +45,7 @@ Broadly, I am looking to build a personal (which need not turn out to be anythin
 My current plan for the book is:
 
 1. Initially, write a "bad" book with little research/study on science and philosophy. Given my current knowledge and understanding, I want to "think for myself" and muster the best I can write on this topic in the initial draft. Currently, my mind is internally disorganized, with many vague ideas - here and there. I want to organize them, meditate on them, push them against each other, aiming towards a reflective equilibrium, and write down my struggles on "digital paper" (in [draft-1](my-books/the-struggle-with-goodness/drafts/draft-1/ "mention")).  This should also help me better contextualize new information in my further studies.
-2. Following that, I would potentially update the initial "bad" book as my research and study progress or as my writing skill/taste changes. Even if I don't change my mind, I may still update the contents to better contextualize them against the existing literature (discussing who agrees with me, engaging with those who disagree, etc.). I also wish to train and investigate the phenomenology of meditative states such as [jnanas](https://www.amazon.com/Jhana-Consciousness-Buddhist-Meditation-Neuroscience/dp/1645470806) and the implementation of practical policies besides just "book knowledge".&#x20;
+2. Following that, I would potentially update the initial "bad" book as my research and study progress or as my writing skill/taste changes. Even if I don't change my mind, I may still update the contents to better contextualize them against the existing literature (discussing who agrees with me, engaging with those who disagree, etc.). I also wish to train and investigate the phenomenology of meditative states such as [jnanas](https://www.amazon.com/Jhana-Consciousness-Buddhist-Meditation-Neuroscience/dp/1645470806) and the implementation of practical policies besides just "book knowledge."
 3. Ideally, this will be a "living book" updated throughout my lifetime. &#x20;
 4. Unlike the study notes, I plan to be more articulate in the books and talk more transparently about my own personal stance and thoughts.&#x20;
 
@@ -61,7 +61,7 @@ After sufficient research, I may write books on other, more specific topics.&#x2
 
 ### Version Control and Feedback
 
-I am synching the Gitbook with this public [GitHub repository](https://github.com/CyberneticSpecter/SacrilegiousTheosis). All the changes made can be publicly viewed through the repository's commit history. If you have some feedback/comment, you can open an [issue](https://github.com/CyberneticSpecter/SacrilegiousTheosis/issues) in the repository. You can also email [me](https://github.com/CyberneticSpecter).
+I am synching the Gitbook with this public [GitHub repository](https://github.com/CyberneticSpecter/SacrilegiousTheosis). All the changes made can be publicly viewed through the repository's commit history. If you have some feedback/comments, you can open an [issue](https://github.com/CyberneticSpecter/SacrilegiousTheosis/issues) in the repository. You can also email [me](https://github.com/CyberneticSpecter).
 
 I also plan to record substantial updates with corresponding dates on the page below:
 

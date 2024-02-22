@@ -29,6 +29,7 @@
         * [Early Buddhism](study-notes/philosophy/non-western/indian/buddhism/early-buddhism/README.md)
           * [Thanissaro Bhikkhu](study-notes/philosophy/non-western/indian/buddhism/early-buddhism/thanissaro-bhikkhu/README.md)
             * [Integrity of Emptiness](study-notes/philosophy/non-western/indian/buddhism/early-buddhism/thanissaro-bhikkhu/integrity-of-emptiness.md)
+            * [Purity of Heart](study-notes/philosophy/non-western/indian/buddhism/early-buddhism/thanissaro-bhikkhu/purity-of-heart.md)
           * [Emptiness](study-notes/philosophy/non-western/indian/buddhism/early-buddhism/emptiness/README.md)
             * [Links](study-notes/philosophy/non-western/indian/buddhism/early-buddhism/emptiness/links.md)
   * [Western](study-notes/philosophy/western/README.md)

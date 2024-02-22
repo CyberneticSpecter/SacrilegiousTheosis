@@ -1,5 +1,7 @@
 # Updates
 
+2/22/2024: [purity-of-heart.md](../study-notes/philosophy/non-western/indian/buddhism/early-buddhism/thanissaro-bhikkhu/purity-of-heart.md "mention")
+
 2/21/2024: [upadesa-saram.md](../study-notes/philosophy/non-western/indian/hinduism/neo-advaita-vedanta/ramana-mahashri/upadesa-saram.md "mention")
 
 2/11/2024: [on-reading-books-fast-and-retaining.md](../study-notes/self-help/learning/on-reading-books-fast-and-retaining.md "mention")

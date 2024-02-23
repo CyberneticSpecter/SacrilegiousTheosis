@@ -4,15 +4,15 @@
 
 2/21/2024: [upadesa-saram.md](../study-notes/philosophy/non-western/indian/hinduism/neo-advaita-vedanta/ramana-mahashri/upadesa-saram.md "mention")
 
-2/11/2024: [on-reading-books-fast-and-retaining.md](../study-notes/self-help/learning/on-reading-books-fast-and-retaining.md "mention")
+2/11/2024: [on-reading-books-fast-and-retaining.md](../study-notes/skills/learning/on-reading-books-fast-and-retaining.md "mention")
 
 Beginning - 2/10/2024:&#x20;
 
-[feynman-technique.md](../study-notes/self-help/learning/feynman-technique.md "mention") [victorious-mind.md](../study-notes/self-help/memory/victorious-mind.md "mention")
+[feynman-technique.md](../study-notes/skills/learning/feynman-technique.md "mention") [victorious-mind.md](../study-notes/skills/memory/victorious-mind.md "mention")
 
-&#x20;[thoughts-on-self-integrity.md](../study-notes/self-help/integrity/thoughts-on-self-integrity.md "mention")[integrity-of-emptiness.md](../study-notes/philosophy/non-western/indian/buddhism/early-buddhism/thanissaro-bhikkhu/integrity-of-emptiness.md "mention")&#x20;
+&#x20;[thoughts-on-self-integrity.md](../study-notes/skills/integrity/thoughts-on-self-integrity.md "mention")[integrity-of-emptiness.md](../study-notes/philosophy/non-western/indian/buddhism/early-buddhism/thanissaro-bhikkhu/integrity-of-emptiness.md "mention")&#x20;
 
-[expert-performance.md](../study-notes/self-help/learning/deliberate-practice/expert-performance.md "mention")[miscellaneous-quick-hacks.md](../study-notes/self-help/miscellaneous-quick-hacks.md "mention")
+[expert-performance.md](../study-notes/skills/learning/deliberate-practice/expert-performance.md "mention")[miscellaneous-quick-hacks.md](../study-notes/skills/miscellaneous-quick-hacks.md "mention")
 
 [..](../ "mention") [status.md](../my-books/on-what-to-be/status.md "mention")&#x20;
 

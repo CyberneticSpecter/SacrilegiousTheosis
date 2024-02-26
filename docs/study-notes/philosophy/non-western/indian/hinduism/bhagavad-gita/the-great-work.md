@@ -70,15 +70,19 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
    10. Achieve Immortality through the soul's outpour
    11. Develop negative capability - Ability to be with uncertainties. mysteries, doubt - requires surrender
    12. Develop disinterestedness - “not for Fame and Laurel, but from the mere yearning and fondness I have for the beautiful even if my night’s labours should be burnt every morning and no eye ever shine upon them.” - Keats
-   13. Find dhamma in difficulties:
-       1. > The great Buddhist teacher Chögyam Trungpa Rinpoche called this experience of aversion to the aversion “the pain of pain.” Pain is inevitable, of course. And aversion is a natural response to it. But aversion to the aversion? This is not inevitable, as it turns out. This part is optional. And the kicker: The aversion to the aversion is where the real suffering lies
-       2. > And what do you find at the heart of fear, dread, loathing, anger, hatred? You find a surprise. You find a gift.
-       3. > Marion did the unusual. She decided to take cancer as her new dharma. She walked the razor’s edge: She did not declare war on it. She invited it in to see what she could make of it, and to see what it would make of her. She opened to the possibility that this experience could transform her in salutary ways.
-       4. > Stand at the center and embrace death with your whole heart. Then you will endure forever.
-       5. > She wrote in her journal: “When \[God] is moving you toward a new consciousness, you need to recognize the winds of change at once, move with them instead of clinging to what is already gone.”
-       6. Integration of shadow:&#x20;
-          1. > Marion discovered an underlying theme in her clients’ dreams. She discovered that her addicted clients lived divided lives—lives split between body and soul, between perfection and imperfection, between light and dark. Healing came about through integrating these “pairs of opposites.” She came into an understanding of the way in which longing for our idealized images of life separates us from our true selves and from our true callings.
-   14. > “Blessed is the man who, having subdued all his passions, performeth with his active faculties all the functions of life, unconcerned about the event … Be not one whose motive for action is the hope of reward. Perform thy duty, abandon all thought of the consequence, and make the event equal, whether it terminate in good or evil; for such an equality is called yoga.
+7.  Find dhamma in difficulties:
+
+    1. > The great Buddhist teacher Chögyam Trungpa Rinpoche called this experience of aversion to the aversion “the pain of pain.” Pain is inevitable, of course. And aversion is a natural response to it. But aversion to the aversion? This is not inevitable, as it turns out. This part is optional. And the kicker: The aversion to the aversion is where the real suffering lies
+    2. > And what do you find at the heart of fear, dread, loathing, anger, hatred? You find a surprise. You find a gift.
+    3. > Marion did the unusual. She decided to take cancer as her new dharma. She walked the razor’s edge: She did not declare war on it. She invited it in to see what she could make of it, and to see what it would make of her. She opened to the possibility that this experience could transform her in salutary ways.
+    4. > Stand at the center and embrace death with your whole heart. Then you will endure forever.
+    5. > She wrote in her journal: “When \[God] is moving you toward a new consciousness, you need to recognize the winds of change at once, move with them instead of clinging to what is already gone.”
+    6. Integration of shadow:&#x20;
+
+    > Marion discovered an underlying theme in her clients’ dreams. She discovered that her addicted clients lived divided lives—lives split between body and soul, between perfection and imperfection, between light and dark. Healing came about through integrating these “pairs of opposites.” She came into an understanding of the way in which longing for our idealized images of life separates us from our true selves and from our true callings.
+
+
+8. > “Blessed is the man who, having subdued all his passions, performeth with his active faculties all the functions of life, unconcerned about the event … Be not one whose motive for action is the hope of reward. Perform thy duty, abandon all thought of the consequence, and make the event equal, whether it terminate in good or evil; for such an equality is called yoga.
 
 
 
@@ -98,23 +102,23 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
 >
 > “Now do you see?” says Krishna. “In this mortal life you must walk by faith. You must walk by faith, not by the sight of your limited human vision. In order to walk by faith, you must gradually learn to trust me and my guidance. You must gradually learn to surrender your will. You cannot steer your dharma with the vehicle of self-will—the will of the small “s” self. Self-will will always steer you toward delusion, toward forgetfulness, toward separation. This self-will—driven by the grasping of small “s” self—is the greatest enemy of freedom and Oneness.”"
 
-4. Walk by faith
-   1. Trust in moment-to-moment divine guidance.
-   2. Suspend personal plans.
-   3. Method
-      1. Ask (pray) for guidance - possibly repeatedly, even beg.
-      2. Listen for response - actively (through intuition, hunch, etc.) be on the lookout for signs.
-      3. Check out the response. Talk about it with friends and mentors. True "divine" response will survive testing out.&#x20;
-      4. Wait to act - Once you do begin to get clarity, wait to act until you have at least a kernel of inner certitude.
-      5. Once there is “a flavor of certitude,” says Bede, then “pray for the courage to take action.”
-      6. “Let go of the attempt to eliminate risk from these decisions and actions.” Risk cannot be eliminated, and the attempt to eliminate it will only lead you back to paralysis.
-      7. “Move forward methodically.” Begin to take action in support of your choice. Be aware that you are led by faith and not by sight and that the whole process may be shrouded in darkness. Learn to feel your way along.
-      8. “Let go of the outcome.” Let go of any clinging to how this all comes out. You cannot measure your actions at this point by the conventional wisdom about success and failure.
-5. Non-doership -&#x20;
+4.  Walk by faith
 
-> Says Krishna: “Those who follow the path of service, who have completely purified themselves and conquered their senses and self-will, see the Self in all creatures and are untouched by any action they perform. Those who know this truth, whose consciousness is unified, think always, I am not the Doer.”"
+    1. Trust in moment-to-moment divine guidance.
+    2. Suspend personal plans.
+    3. Method
+       1. Ask (pray) for guidance - possibly repeatedly, even beg.
+       2. Listen for response - actively (through intuition, hunch, etc.) be on the lookout for signs.
+       3. Check out the response. Talk about it with friends and mentors. True "divine" response will survive testing out.&#x20;
+       4. Wait to act - Once you do begin to get clarity, wait to act until you have at least a kernel of inner certitude.
+       5. Once there is “a flavor of certitude,” says Bede, then “pray for the courage to take action.”
+       6. “Let go of the attempt to eliminate risk from these decisions and actions.” Risk cannot be eliminated, and the attempt to eliminate it will only lead you back to paralysis.
+       7. “Move forward methodically.” Begin to take action in support of your choice. Be aware that you are led by faith and not by sight and that the whole process may be shrouded in darkness. Learn to feel your way along.
+       8. “Let go of the outcome.” Let go of any clinging to how this all comes out. You cannot measure your actions at this point by the conventional wisdom about success and failure.
+    4. Non-doership -&#x20;
 
-6.  Turn yourself to Zero
+    > Says Krishna: “Those who follow the path of service, who have completely purified themselves and conquered their senses and self-will, see the Self in all creatures and are untouched by any action they perform. Those who know this truth, whose consciousness is unified, think always, I am not the Doer.
+5.  Turn yourself to Zero
 
     1. Four Pillars of Gandhi's transformation from being a coward - by deliberate practice of Gita - turning oneself to zero:
        1. Mantra Meditation (name of Rama)
@@ -155,7 +159,7 @@ Craftsmanlike view of life
 #### Critique
 
 * How is doubt both an affliction to abandon and also something we ought to be comfortable with by having "negative capability"?
-* Dharma seems to be sometimes framed as related to natural dispositions, sometimes related to the will of "God: - with a supernatural element in how to find "guidance" -- and then somehow it's also present when everything goes wrong - in which case we just face and endure difficultires or forcibly try to find "meaning"? It feels like trying to do everything and effectively being nothing. Example - even if every decision turns out terrible in some irreversible way, the author could just say "yeah you can make facing those difficulties as your dharma". At these points, it feels like "anything goes" -- but then the idea of "dharma" doesn't sound terribly interesting; more like a psychological framing to cope with life.
-* The author seems to suggest that the "divine guidance" needs to be talked out -- suggesting consensus/approval of others (friends/mentor) is a sign of it being really "divine" - yet in other anecdotes, people carried out their "dharma" by doing things that others were not very keen on (e.g. Frost's painting journey).
+* Dharma seems to be sometimes framed as related to natural dispositions, sometimes related to the will of "God" - with a supernatural element in how to find "guidance" -- and then somehow it's also present when everything goes wrong - in which case we just face and endure difficulties or forcibly try to find "meaning"? It feels like trying to do everything and effectively being nothing. For example - even if every decision turns out terrible in some irreversible way, the author could just say, "Yeah, you can make facing those difficulties your dharma". At these points, it feels like "anything goes," -- but then the idea of "dharma" doesn't sound terribly interesting; it's more like a psychological framing to cope with life.
+* The author seems to suggest that the "divine guidance" needs to be talked out -- suggesting consensus/approval of others (friends/mentor) is a sign of it being really "divine" - yet in other anecdotes, people carried out their "dharma" by doing things that others were not very keen on (e.g., Frost's painting journey).
 * The problem with anecdotes is survivorship bias. There could be plenty of stories where people tried out what is recommended but didn't turn out well.
-* Not sure about the relevance of shadow work to Gita.
+* I'm not sure about the relevance of shadow work to Gita.

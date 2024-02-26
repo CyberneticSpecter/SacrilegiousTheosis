@@ -1,6 +1,6 @@
 # Updates
 
-2/26/2024: [ulladu-narpadu.md](../study-notes/philosophy/non-western/indian/hinduism/neo-advaita-vedanta/ramana-mahashri/ulladu-narpadu.md "mention")
+2/26/2024: [ulladu-narpadu.md](../study-notes/philosophy/non-western/indian/hinduism/neo-advaita-vedanta/ramana-mahashri/ulladu-narpadu.md "mention"), [the-great-work.md](../study-notes/philosophy/non-western/indian/hinduism/bhagavad-gita/the-great-work.md "mention")
 
 2/22/2024: [purity-of-heart.md](../study-notes/philosophy/non-western/indian/buddhism/early-buddhism/thanissaro-bhikkhu/purity-of-heart.md "mention")
 

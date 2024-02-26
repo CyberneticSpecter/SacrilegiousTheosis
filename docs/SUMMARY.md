@@ -25,6 +25,7 @@
         * [Neo-Advaita Vedanta](study-notes/philosophy/non-western/indian/hinduism/neo-advaita-vedanta/README.md)
           * [Ramana Mahashri](study-notes/philosophy/non-western/indian/hinduism/neo-advaita-vedanta/ramana-mahashri/README.md)
             * [Upadesa Saram](study-notes/philosophy/non-western/indian/hinduism/neo-advaita-vedanta/ramana-mahashri/upadesa-saram.md)
+            * [Ulladu Narpadu](study-notes/philosophy/non-western/indian/hinduism/neo-advaita-vedanta/ramana-mahashri/ulladu-narpadu.md)
       * [Buddhism](study-notes/philosophy/non-western/indian/buddhism/README.md)
         * [Early Buddhism](study-notes/philosophy/non-western/indian/buddhism/early-buddhism/README.md)
           * [Thanissaro Bhikkhu](study-notes/philosophy/non-western/indian/buddhism/early-buddhism/thanissaro-bhikkhu/README.md)

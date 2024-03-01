@@ -1,6 +1,6 @@
 # Integrity of Emptiness
 
-From [The Integrity of Emptiness](https://www.accesstoinsight.org/lib/authors/thanissaro/integrityofemptiness.html)
+From [The Integrity of Emptiness](https://www.accesstoinsight.org/lib/authors/thanissaro/integrityofemptiness.html) - Thanissaro Bhikkhu
 
 ### Summary
 

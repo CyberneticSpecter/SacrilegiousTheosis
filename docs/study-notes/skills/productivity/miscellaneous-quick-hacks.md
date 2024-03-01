@@ -8,4 +8,5 @@
 6. Place **Implementation Intention**: “I will exercise for at least 30 minutes on \[DATE] in \[PLACE] at \[TIME].” i.e., very specific intentions. More: [https://jamesclear.com/akrasia](https://jamesclear.com/akrasia)
 7. Use [**Funnel Method**](https://www.youtube.com/watch?v=\_7vM5wEUz\_s) - start day with the most important task for a few hours - then go lower.&#x20;
 8. Remove friction for stuff you want to do; increase friction for stuff you don't want to do. Manipulate the environment to control friction.
+9. Jot down any thoughts about actions/tasks to do. Put it in some prioritized list format - eg. [Eisenhower Matrix](https://asana.com/resources/eisenhower-matrix) or some personal variation. Free your subconscious from looping over all the things to do.&#x20;
 

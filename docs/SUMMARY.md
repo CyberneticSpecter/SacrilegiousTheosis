@@ -50,18 +50,19 @@
     * [Buddhism](study-notes/religion/mainstream/buddhism.md)
     * [Hinduism](study-notes/religion/mainstream/hinduism.md)
 * [Skills](study-notes/skills/README.md)
-  * [Meditation](study-notes/skills/meditation.md)
-  * [Memory](study-notes/skills/memory/README.md)
-    * [Victorious Mind](study-notes/skills/memory/victorious-mind.md)
+  * [Productivity](study-notes/skills/productivity/README.md)
+    * [Miscellaneous Quick Hacks](study-notes/skills/productivity/miscellaneous-quick-hacks.md)
   * [Learning](study-notes/skills/learning/README.md)
     * [Deliberate Practice](study-notes/skills/learning/deliberate-practice/README.md)
       * [Expert Performance](study-notes/skills/learning/deliberate-practice/expert-performance.md)
     * [On Reading Books Fast and Retaining](study-notes/skills/learning/on-reading-books-fast-and-retaining.md)
     * [Feynman Technique](study-notes/skills/learning/feynman-technique.md)
+  * [Memory](study-notes/skills/memory/README.md)
+    * [Victorious Mind](study-notes/skills/memory/victorious-mind.md)
+  * [Meditation](study-notes/skills/meditation.md)
   * [Integrity](study-notes/skills/integrity/README.md)
     * [Thoughts on Self-Integrity](study-notes/skills/integrity/thoughts-on-self-integrity.md)
     * [Links](study-notes/skills/integrity/links.md)
-  * [Miscellaneous Quick Hacks](study-notes/skills/miscellaneous-quick-hacks.md)
 
 ## Miscellaneous
 

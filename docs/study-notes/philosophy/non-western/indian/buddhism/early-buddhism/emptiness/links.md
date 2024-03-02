@@ -2,6 +2,6 @@
 
 Additional Contents:
 
-{% content-ref url="../thanissaro-bhikkhu/integrity-of-emptiness.md" %}
-[integrity-of-emptiness.md](../thanissaro-bhikkhu/integrity-of-emptiness.md)
+{% content-ref url="../various-authors/thanissaro-bhikkhu/integrity-of-emptiness.md" %}
+[integrity-of-emptiness.md](../various-authors/thanissaro-bhikkhu/integrity-of-emptiness.md)
 {% endcontent-ref %}

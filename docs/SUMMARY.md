@@ -21,6 +21,7 @@
     * [Indian](study-notes/philosophy/non-western/indian/README.md)
       * [Hinduism](study-notes/philosophy/non-western/indian/hinduism/README.md)
         * [Bhagavad Gita](study-notes/philosophy/non-western/indian/hinduism/bhagavad-gita/README.md)
+          * [The Bhagavad Gita](study-notes/philosophy/non-western/indian/hinduism/bhagavad-gita/the-bhagavad-gita.md)
           * [The Great Work](study-notes/philosophy/non-western/indian/hinduism/bhagavad-gita/the-great-work.md)
         * [Neo-Advaita Vedanta](study-notes/philosophy/non-western/indian/hinduism/neo-advaita-vedanta/README.md)
           * [Ramana Mahashri](study-notes/philosophy/non-western/indian/hinduism/neo-advaita-vedanta/ramana-mahashri/README.md)

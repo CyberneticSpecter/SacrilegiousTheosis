@@ -1,6 +1,8 @@
 # Updates
 
-3/2/2024: [dhammapada.md](../study-notes/philosophy/non-western/indian/buddhism/early-buddhism/pali-canon/dhammapada.md "mention"), [the-bhagavad-gita.md](../study-notes/philosophy/non-western/indian/hinduism/bhagavad-gita/the-bhagavad-gita.md "mention")
+3/3/2024: [the-bhagavad-gita.md](../study-notes/philosophy/non-western/indian/hinduism/bhagavad-gita/the-bhagavad-gita.md "mention")
+
+3/2/2024: [dhammapada.md](../study-notes/philosophy/non-western/indian/buddhism/early-buddhism/pali-canon/dhammapada.md "mention")
 
 2/26/2024: [ulladu-narpadu.md](../study-notes/philosophy/non-western/indian/hinduism/advaita-vedanta/ramana-mahashri/ulladu-narpadu.md "mention"), [the-great-work.md](../study-notes/philosophy/non-western/indian/hinduism/bhagavad-gita/the-great-work.md "mention")
 

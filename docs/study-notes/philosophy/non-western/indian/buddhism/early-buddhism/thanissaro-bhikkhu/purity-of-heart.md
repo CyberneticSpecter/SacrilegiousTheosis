@@ -73,7 +73,13 @@ Ideal Concentration
 
 > Even if the “there” is an infinite sense of awareness grounding, surrounding, or permeating everything else, it’s still limited, for “grounding” and so forth are aspects of place. Wherever there’s place, no matter how subtle, passion lies latent, looking for more food to feed on.
 
-* Nirvana is unestablished consciousness/Consciousness without surface
+* Nirvana is unestablished consciousness/Consciousness without surface&#x20;
+
+Note: this is controversial:&#x20;
+
+{% embed url="https://sujato.wordpress.com/2011/05/13/vinna%E1%B9%87a-is-not-nibbana-really-it-just-isn%E2%80%99t/" %}
+
+{% embed url="https://sujato.wordpress.com/2011/05/18/nibbana-is-still-not-vinna%E1%B9%87a/" %}
 
 > The second point is that nirvana, from the very beginning, was realized through unestablished consciousness—one that doesn’t come or go or stay in place. There’s no way that anything unestablished can get stuck anywhere at all, for it’s not only non- localized but also undefined
 

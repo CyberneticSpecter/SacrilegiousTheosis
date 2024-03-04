@@ -2,6 +2,10 @@
 
 From: [The Bhagavad Gita - Eknath Easwaran](https://www.amazon.com/Bhagavad-Gita-2nd-Eknath-Easwaran/dp/1586380192)
 
+{% hint style="warning" %}
+I don't necessarily personally endorse (or disapprove) anything said here.
+{% endhint %}
+
 ### Narrative Context
 
 * Arjuna was going to wage war (for reasons). Finds out he have to fight against his own relatives, masters, and uncles. This paralyzes him and confuses him. Unable to act and decide what to do - he asks Krishna -- his charioteer -- for advice. Krishna gives him spiritual lessons and in-between reveals himself as God.

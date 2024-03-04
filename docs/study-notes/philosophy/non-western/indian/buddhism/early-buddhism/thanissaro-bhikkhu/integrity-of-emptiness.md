@@ -2,6 +2,10 @@
 
 From [The Integrity of Emptiness](https://www.accesstoinsight.org/lib/authors/thanissaro/integrityofemptiness.html) - Thanissaro Bhikkhu
 
+{% hint style="warning" %}
+I don't necessarily personally endorse (or disapprove) anything said here.
+{% endhint %}
+
 ### Summary
 
 1. Act wisely (reflectively) - Advice to Rahula

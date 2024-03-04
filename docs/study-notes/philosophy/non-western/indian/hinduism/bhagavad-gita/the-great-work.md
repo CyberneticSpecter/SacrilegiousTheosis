@@ -2,6 +2,10 @@
 
 Source: [The Great Work of Your Life - Stephen Cope](https://www.goodreads.com/en/book/show/13573312)
 
+{% hint style="warning" %}
+I don't necessarily personally endorse (or disapprove) anything said here.
+{% endhint %}
+
 A book about finding and executing one's "dharma" - sacred vocation or duty (one's "calling")- similar to Crowley's True Will. Meeting the challenge of dharma brings true satisfaction.
 
 **Definition:**

@@ -1,5 +1,9 @@
 # On Reading Books Fast and Retaining
 
+{% hint style="warning" %}
+I don't necessarily personally endorse (or disapprove) anything said here.
+{% endhint %}
+
 Tips from [here](https://www.youtube.com/watch?v=DpIrzA2ohcg)
 
 1. Books can have fluff and info not relevant to you.

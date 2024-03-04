@@ -1,4 +1,8 @@
-# Expert Performance
+# Deliberate Practice
+
+{% hint style="warning" %}
+I don't necessarily personally endorse (or disapprove) anything said here.
+{% endhint %}
 
 Paper summaries on Expert Performance and deliberate practice for it.
 

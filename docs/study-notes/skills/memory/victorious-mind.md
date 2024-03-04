@@ -2,6 +2,10 @@
 
 From: [The Victorious Mind: How To Master Memory, Meditation and Mental Well-Being - Anthony Metivier](https://www.amazon.com/Victorious-Mind-Master-Meditation-Well-Being-ebook/dp/B085D8M7S5?ref\_=ast\_author\_mpb)
 
+{% hint style="warning" %}
+I don't necessarily personally endorse (or disapprove) anything said here.
+{% endhint %}
+
 ### Self-Image Creation
 
 1. Create an image of your current self - honestly representing your current mental state of affairs.

@@ -1,5 +1,9 @@
 # Thoughts on Self-Integrity
 
+{% hint style="warning" %}
+I don't necessarily personally endorse (or disapprove) anything said here.
+{% endhint %}
+
 ### Self-Integrity is Self-Honesty
 
 Honesty about values, honesty in actions (alignment with values and belief), honesty in keeping promises (commitments), honesty in thought and investigation (Truth as a regulative ideal)
@@ -17,7 +21,7 @@ https://slowself.co/self-integrity-tips/
 
 > What is this magical habit, you ask? Well, your _self-integrity_ of course. In other words, your ability to follow through on your commitments to yourself.
 
-Ideas from: https://slowself.co/self-integrity-tips/
+Ideas from: [https://slowself.co/self-integrity-tips/](https://slowself.co/self-integrity-tips/)
 
 Also see: [integrity-of-emptiness.md](../../philosophy/non-western/indian/buddhism/early-buddhism/thanissaro-bhikkhu/integrity-of-emptiness.md "mention")
 
@@ -29,7 +33,7 @@ Also see: [integrity-of-emptiness.md](../../philosophy/non-western/indian/buddhi
 
 > When you repeatedly set intentions and don’t follow through on them, you’re teaching your subconscious that your commitments to yourself don’t matter. As a result you lose trust in yourself, just like you wouldn’t trust an unreliable friend who never shows up to your coffee date.
 
-https://slowself.co/self-integrity-tips/
+[https://slowself.co/self-integrity-tips/](https://slowself.co/self-integrity-tips/)
 
 * Beliefs determine actions, but our actions (and habits) also determine our beliefs - tell us who we are.
 * Under performative contradiction/cognitive dissonance, we try to escape the friction by changing beliefs or action policies. Changing belief can involve losing trust in oneself - degrading one's self-image ==> downward spiral.
@@ -50,7 +54,7 @@ https://slowself.co/self-integrity-tips/
 
 Ideas from:&#x20;
 
-https://ethicalleadership.nd.edu/news/build-integrity-by-getting-in-touch-with-your-future-self/
+[https://ethicalleadership.nd.edu/news/build-integrity-by-getting-in-touch-with-your-future-self/](https://ethicalleadership.nd.edu/news/build-integrity-by-getting-in-touch-with-your-future-self/)
 
 > This self is vague and fuzzy—just a concept. It doesn't _feel like us_. So we make decisions now that hurt that future self as though it is not really us, but a stranger.
 

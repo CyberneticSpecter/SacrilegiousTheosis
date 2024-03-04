@@ -1,6 +1,10 @@
 # Upadesa Saram
 
+Source: [Upadesa Saram - Ramana Mahashri](https://tomdas.com/2019/03/25/ramana-maharshi-upadesa-saram-the-essence-of-the-teachings/)
 
+{% hint style="warning" %}
+I don't necessarily personally endorse (or disapprove) anything said here.
+{% endhint %}
 
 1. Know the Self through introversion - inward meditation
 

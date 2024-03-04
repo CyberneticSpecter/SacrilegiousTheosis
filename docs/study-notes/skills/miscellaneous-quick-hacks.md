@@ -1,5 +1,9 @@
 # Miscellaneous Quick Hacks
 
+{% hint style="warning" %}
+I don't necessarily personally endorse (or disapprove) anything said here.
+{% endhint %}
+
 1. **Meta Self-Control:**  Expect self-control failures and intervene early when possible. eg. stop from starting to watch a TV series since switching mid-way is difficult …. strategically design experiences to have fewer temptations. More [here](https://riikkaiivanainen.medium.com/the-secret-life-of-people-with-high-self-control-its-easier-than-you-think-7dd26fb5282c).
 2. Change scenes, stand, **move around** - cheat fatigue (stand 50%, 25% sit, 25% walk). Somewhere from [this channel](https://www.youtube.com/@riandoris).
 3. **Minimize multi-tasking**. Focus on the task in the present. Somewhere from [this channel](https://www.youtube.com/@riandoris).

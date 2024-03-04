@@ -90,7 +90,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
    
    Integrate with your shadow:
 
-    > Marion discovered an underlying theme in her clients’ dreams. She discovered that her addicted clients lived divided lives—lives split between body and soul, between perfection and imperfection, between light and dark. Healing came about through integrating these “pairs of opposites.” She came into an understanding of the way in which longing for our idealized images of life separates us from our true selves and from our true callings.
+   > Marion discovered an underlying theme in her clients’ dreams. She discovered that her addicted clients lived divided lives—lives split between body and soul, between perfection and imperfection, between light and dark. Healing came about through integrating these “pairs of opposites.” She came into an understanding of the way in which longing for our idealized images of life separates us from our true selves and from our true callings.
 
 > “Blessed is the man who, having subdued all his passions, performeth with his active faculties all the functions of life, unconcerned about the event … Be not one whose motive for action is the hope of reward. Perform thy duty, abandon all thought of the consequence, and make the event equal, whether it terminate in good or evil; for such an equality is called yoga.
 

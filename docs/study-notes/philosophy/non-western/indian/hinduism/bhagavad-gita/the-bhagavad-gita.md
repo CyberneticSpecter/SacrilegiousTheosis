@@ -42,11 +42,11 @@ Prakriti (mind-matter field) constituents:
 
 Desire, aversion, pleasure, pain, etc., happen in Prakriti/Field (13:5). All agency is said to happen in Prakriti (13:19-22).
 
-Prakriti is the whole of mind-matter ("name-and-form") stuff. Here, mind refers not to the more inclusive notion of mind in Western philosophy (which may include the subject of experience - the Purusha as part of it) but refers to the sum total of mental objects and capacities - eg. conceptualization, thoughts, discrimination, etc. (also broadly categorized as "name"); whereas matter possibly refers to corporeality. So although we see a dualism between Prakriti and Purusha - it's not straightforwardly a mind-matter dualism as we find in Western philosophy -- although if the matter is merely understood as phenomenal objects then even Western philosophers don't maintain a strict dualism.
+Prakriti is the whole of mind-matter ("name-and-form") stuff. Here, mind refers not to the more inclusive notion of mind in Western philosophy (which may include the subject of experience - the Purusha as part of it) but refers to the sum total of mental objects and capacities - e.g. conceptualization, thoughts, discrimination, etc. (also broadly categorized as "name"); whereas matter possibly refers to corporeality. So although we see a dualism between Prakriti and Purusha - it's not straightforwardly a mind-matter dualism as we find in Western philosophy -- although if the matter is merely understood as phenomenal objects then even Western philosophers don't maintain a strict dualism.
 
 While Eknath seems to take Prakriti as constitutive of phenomenal objects, not things-in-itself, some passages seem to suggest that Prakriti cannot manifest - without the light of the Self/Purusha - suggesting that Prakriti exists in itself (independent of the Self) whereas the phenomenal objects are the union of Self and Prakriti (13:26, 13:33-34).
 
-The exact status of the Prakriti-Purusha dynamic is not super clear given these contrasts.
+The exact status of the Prakriti-Purusha dynamic is not super clear, given these contrasts.
 
 #### O3 (Godhead - the supreme Self)
 
@@ -237,7 +237,7 @@ May have some similarities to Plato's Tripartite division of soul. Also see: [ht
 Gunas as personality factors:
 
 1. Tamasic person - ignorant, drowsy, confused, infatuated, intoxicated, indifferent, sluggish etc.
-2. Rajasic person - passionate, selfish, engaged in desiring, worrying, anxiety, anger, compeition, fustration etc. (can still have a clear perspective, deliberative and calculative compared to Tamasic people)
+2. Rajasic person - passionate, selfish, engaged in desiring, worrying, anxiety, anger, competitiveness, frustration, etc. (can still have a clear perspective, deliberative and calculative actions compared to Tamasic people)
 3. Sattvic person - controlled, equanimous, harmonious, self-regulated, disciplined, selfless
 
 Persons (by person, I mean the self-prakriti bound entity as a whole rather than Purusha) too are mixtures of the three gunas. Different persons can have different gunas as predominant. Gunas can be thought of as different types of personality dispositions.
@@ -310,7 +310,7 @@ Guna and rebirth:
 ### Sacred Duty
 
 1. Gita also presents a sort of caste system. Each caste is associated with certain duties and dispositions (18:40-44).
-2. Anyone from any caste can achieve perfection (Gita doesn't seem to explicitly discriminate among the castes as superior vs inferior) by doing their duties (18:45-46).
+2. Anyone from any caste can achieve \`perfection' (Gita doesn't seem to explicitly discriminate among the castes as superior vs inferior) (18:45-46).
 3. Gita doesn't seem to espouse any sort of social caste inheritance from family explicitly.
 4. It suggests that one should do the duty one is born with (which could refer to some form of natural dispositions rather than social or cultural inheritance) (18:47-48). One's dispositions would compel or lean towards completing the relevant duties (18:59-60).
 5. It's better to do one's own duties than others' (3:35, 18:47-48).

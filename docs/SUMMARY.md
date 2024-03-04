@@ -30,6 +30,8 @@
       * [Way of Life](study-notes/philosophy/general/axiology/way-of-life/README.md)
         * [True Will](study-notes/philosophy/general/axiology/way-of-life/true-will.md)
         * [Links](study-notes/philosophy/general/axiology/way-of-life/links.md)
+    * [Philosophy of Religion](study-notes/philosophy/general/philosophy-of-religion/README.md)
+      * [Links](study-notes/philosophy/general/philosophy-of-religion/links.md)
   * [Indian](study-notes/philosophy/indian/README.md)
     * [Hinduism](study-notes/philosophy/indian/hinduism/README.md)
       * [Bhagavad Gita](study-notes/philosophy/indian/hinduism/bhagavad-gita/README.md)

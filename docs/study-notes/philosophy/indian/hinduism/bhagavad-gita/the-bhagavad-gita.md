@@ -4,11 +4,17 @@ Notes from: [The Bhagavad Gita - Eknath Easwaran](https://www.amazon.com/Bhagava
 
 ### Extra-Lite Summary
 
-Formula for peace, "self-realization", and freedom from the hamster wheel of samsara according to Gita:
+<mark style="color:purple;">Ethics</mark>
 
-1. Act without selfish desires. Engage in selfless service.
+The formula for peace, "self-realization", and freedom from the hamster wheel of samsara according to Gita:
+
+1. Act without selfish desires. Engage in selfless service. All under the singleness of purpose - of self-realization.
 2. Renunciate fruits of actions. Act for whatever goals, but don't attach to any particular range of possible outcomes. Whatever happens in the end happens. If nothing turns out as you prefer, then so it would be.&#x20;
 3. Develop one-pointed concentration in meditation. FConsider the area between the eyebrows as a meditation object to focus on one-pointedly.&#x20;
+
+<mark style="color:purple;">Metaphysics:</mark>
+
+The manifest world is made of the interaction of changeless Purusha (observer) and changing Prakriti (Nature).  Ordinarily Purusha is bound up in the streams of activities of Prakriti but Purusha's essence is independent of Prakriti. God accommodates both Prakriti and all Purushas (He lies in the heart of all individuals) but also transcends them both (potentially Panentheistic). The goal is for the Purusha to unbind from the play of Prakriti and rest in union with the deeper essence of God.&#x20;
 
 ### Narrative Context
 
@@ -80,15 +86,15 @@ From [Sankhya entry of IEP](https://iep.utm.edu/sankhya/):
 
 This also solves the [decombination problem](https://philarchive.org/rec/MILTDP-5) of cosmopsychism.
 
-However, although at a level the Purusha are distinct and so is Prakriti distinct from Purusha - it seems ultimately all of is the Godhead itself (sometimes framed as a transcendental entity, sometimes as immanent) - which also serves as the unitary ground of all of Purusha and all of Prakriti. That can be one way to understand (10:20) - that the Godhead is the Self in all individuations. At the end of the day, this seems to get us closer to Advaita again.
+However, although at a level the Purusha are distinct and so is Prakriti distinct from Purusha - it seems ultimately all of is the Godhead itself (sometimes framed as a transcendental entity, sometimes as immanent) - which also serves as the unitary ground of all of Purusha and all of Prakriti. That can be one way to understand (10:20) - that the Godhead is the Self in all individuations. This seems to get us closer to Advaita again.
 
 Overall, it seems like it can be interpreted as a panentheistic theology (or even panentheism, depending on how we interpret nature).
 
 Ordinary persons are then Selves bound in Prakriti (Chapter 14). The goal is unbinding from Prakriti and finding union with the unmanifest transcendental nature of God.
 
-#### **Other aspects:**
+#### **Other aspects**
 
-_Elements of actions (17:13-15):_
+<mark style="color:purple;">Elements of actions</mark> _(17:13-15):_
 
 1. Divine Will
 2. Means
@@ -96,17 +102,17 @@ _Elements of actions (17:13-15):_
 4. Ego
 5. Body
 
-_Karma: web of cause and effect_
+<mark style="color:purple;">Karma: web of cause and effect</mark>
 
 > Literally, the Sanskrit karma means something that is done. Often it can be translated as deed or action. The law of karma states simply that every event is both a cause and an effect. Every act has consequences of a similar kind, which in turn have further consequences and so on; and every act, every karma, is also the consequence of some previous karma. (From Introduction)
 
-_Lila_ - the world as Krishna's play for the desire for companion&#x20;
+<mark style="color:purple;">Lila - the world as Krishna's play for the desire for companion</mark>&#x20;
 
 (doesn't seem explicit in Gita - a latter theology)
 
 > Though the word is not used in the Gita, the idea of the world as Krishna’s lila, his play, became a cherished theme of later Hinduism. Krishna, it is said, created the world in play: just as a child might desire to have companions to play with, Krishna desired companions, and made the world. Krishna participates in the game of life; his divine qualities shine through in the world wherever there is excellence of any kind. He is, he tells Arjuna, the essence of every created thing: the sapidity of water, the brightness of fire, the effort of the spiritual aspirant. This may be what is meant by the vijnana of our title – the mystic’s vision of the divine as present here and now is perhaps the real meaning of the term.
 
-_Cosmology_
+<mark style="color:purple;">Cosmology</mark>
 
 Cyclical Cosmology
 
@@ -292,11 +298,11 @@ Ultimately, all the gunas has to be transcended - the true Self transcends the g
 
 Each gunas is associated with different sets of dispositions and overall 'Sradhanas' (meaning: "what's placed in heart" - a system of values and beliefs). The predominance of a guna manifests in particular ways in varies contexts (eg. actions, motivations ). Since Sattvic people are considered to be more virtuous than Rajasic people, who are considered to be more virtuous than Tamasic people -- their corresponding orientations can also serve as moral guidance (signifying how to be closer to being a Sattvic person)
 
-<mark style="color:purple;">Food preferences:</mark>
+<mark style="color:purple;">Food preferences</mark>
 
 > 8 Sattvic people enjoy food that is mild, tasty, substantial, agreeable, and nourishing, food that promotes health, strength, cheerfulness, and longevity. 9 Rajasic people like food that is salty or bitter, hot, sour, or spicy – food that promotes pain, discomfort, and disease. 10 Tamasic people like overcooked, stale, leftover, and impure food, food that has lost its taste and nutritional value. (17:8-10)
 
-<mark style="color:purple;">Others:</mark>
+<mark style="color:purple;">Gunas and motivations during actions</mark>
 
 Sattvic people do selfless deeds in good faith out of obligation and goodwill. Rajasic people outwardly may appear to do selfless deed but upon selfish motivations - eg. for reputation, praise, respect, or feeding into one's sense of grandiosity. Tamasic people are confused and lack perspective. And so on. (see Chapter 17)
 

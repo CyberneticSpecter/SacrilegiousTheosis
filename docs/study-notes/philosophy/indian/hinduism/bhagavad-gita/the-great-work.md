@@ -2,6 +2,41 @@
 
 Notes from: [The Great Work of Your Life - Stephen Cope](https://www.goodreads.com/en/book/show/13573312)
 
+### Extra-Lite Summary
+
+Dhamma - the vocational role most suited for you based on your nature and environmental circumstances at the moment.&#x20;
+
+<mark style="color:purple;">Finding your dhamma</mark>
+
+1. Consider your talents/gifts. Your dhamma is probably in the ballpark.&#x20;
+2. The dhamma does not need to be anything grandiose.&#x20;
+3. Be sensitive to the call of time. Your dhamma may change. One dhamma may get completed - and one can be on the lookout for another.&#x20;
+
+<mark style="color:purple;">Executing dhamma</mark>
+
+1. Put complete focus on it. Achieve singleness of purpose. Remove unessentials.&#x20;
+2. Perform [expert-performance.md](../../../../skills/learning/deliberate-practice/expert-performance.md "mention")
+3. Selflessly carry out your dhamma as a service to the world.&#x20;
+4. Let go of attachments to possible outcomes of your action. Do your best for the best; after that, whatever happens, happens. Be equanimous to however things turn out.&#x20;
+5. Have faith in "divine guidance".
+6. Turn yourself to zero. See the world as your Self. Love the world as your Self. Surrender to selfless service in love of the world.&#x20;
+
+<mark style="color:purple;">Facing difficulties</mark>
+
+Avoid aversion to aversion ([the second arrow](https://suttacentral.net/sn36.6/en/sujato?lang=en\&layout=plain\&reference=\&notes=asterisk\&highlight=false\&script=latin)) during difficulties. Perhaps make a dhamma centering around your difficulties, if possible.&#x20;
+
+<mark style="color:purple;">Example of Gandhi's strategy</mark>
+
+1. Mantra Meditation (name of Rama)
+2. Gita - as a reference book
+3. Systematic cultivation of energy
+   1. Control of diet - abandon recreational diet - focus on effect. Mainly vegetables and milk. Eating as a spiritual practice.
+   2. Vigorous walking as daily exercise.
+   3. Freeing energy by renunciation - progressive simplification and minimalism.
+4. Selfless service
+
+***
+
 ### Introduction
 
 A book about finding and executing one's "dharma" - sacred vocation or duty (one's "calling")- similar to Crowley's True Will. Meeting the challenge of dharma brings true satisfaction.

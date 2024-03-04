@@ -141,10 +141,10 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
    > Gandhi came to believe that any power he might have to affect the world only emerged when he got himself out of the way, and let God do the work. He came to call this “reducing yourself to zero.” “There comes a time,” he wrote in the peak of his maturity, “when an individual becomes irresistible and his action becomes all- pervasive in its effects. This comes when he reduces himself to zero.”
    4. Spirit of ahimsa
    > Because he wants nothing for himself, the true satyagrahi is not afraid of entering any conflict for the sake of those around him—and he enters it without hostility, without resentment, without resorting even to violent words. In the face of the fiercest provocation, he never lets himself forget that he and his attacker are one. This is the true spirit of ahimsa, or “nonviolence.” But ahimsa is more than just the absence of violence: It is the presence of justice and of love. Gandhi always made it perfectly clear that “the satyagrahi’s object is to convert, not to coerce, the wrongdoer.”
->
-> ***
->
-> Greater courage is required of the satyagrahi,” he often said, “than the run- of-the mill soldier with a gun in his hand. Any coward can be brave when holding a rifle.
+   >
+   > ***
+   >
+   > Greater courage is required of the satyagrahi,” he often said, “than the run- of-the mill soldier with a gun in his hand. Any coward can be brave when holding a rifle.
 
 Parting words:
 

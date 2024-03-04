@@ -21,26 +21,26 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
 3. Let go of the fruits.
 4. Turn it over to God (or 'The world' if you are an atheist)
 
-#### 1. Look to Your Dharma
+#### Look to Your Dharma
 
-1. Principles:&#x20;
-   1. Trust in the gift.&#x20;
-      1. Your gift is not necessarily your dhamma but likely related to it.
-      2. A life of self-betrayal -- avoiding one's dhamma -- is deadening.&#x20;
-      3. Overcome doubt (the invisible affliction) leading to paralysis and procrastination. Embrace your dharma - own it.&#x20;
-   2. Think of the small as large.&#x20;
-      1. Don't try to be bigger than you are.&#x20;
-      2. "Be humbly who you are,” - Thoreau&#x20;
-      3. > &#x20;"See yourself as a grain of sand,” suggests Chögyam Trungpa, the Tibetan crazy-wisdom guru, “see yourself as the smallest of the small. Then you can make room for the whole world.&#x20;
-      4. You can't be anyone but yourself. Your fundamental idiosyncratic qualities that define your dharma are not as easily manipulated as we think. Dharma is to be discovered rather than created.&#x20;
-   3. Listen for the call of the times.&#x20;
-      1. Dharma can be fluid and dynamic.&#x20;
-      2. Listen to the need of the moment.&#x20;
-      3. Be prepared to change your vocation based on the call of the moment.&#x20;
-      4. Perform selfless actions&#x20;
-      5. > Dharma is born mysteriously out of the intersection between The Gift and The Times. Dharma is a response to the urgent—though often hidden—need of the moment. Each of us feels some aspect of the world’s suffering acutely. It tears at our hearts. Others don’t see it or don’t care. But we feel it. And we must pay attention. We must act. This little corner of the world is ours to transform. This little corner of the world is ours to save.
+1. Trust in the gift.&#x20;
+   1. Your gift is not necessarily your dhamma but likely related to it.
+   2. A life of self-betrayal -- avoiding one's dhamma -- is deadening.&#x20;
+   3. Overcome doubt (the invisible affliction) leading to paralysis and procrastination. Embrace your dharma - own it.&#x20;
+2. Think of the small as large.&#x20;
+   1. Don't try to be bigger than you are.&#x20;
+   2. "Be humbly who you are,” - Thoreau&#x20;
+   3. > &#x20;"See yourself as a grain of sand,” suggests Chögyam Trungpa, the Tibetan crazy-wisdom guru, “see yourself as the smallest of the small. Then you can make room for the whole world.&#x20;
+   4. You can't be anyone but yourself. Your fundamental idiosyncratic qualities that define your dharma are not as easily manipulated as we think. Dharma is to be discovered rather than created.&#x20;
+   5. A superficially simple life lived wisely can still turn out to be effective. &#x20;
+3. Listen for the call of the times.&#x20;
+   1. Dharma can be fluid and dynamic.&#x20;
+   2. Listen to the need of the moment.&#x20;
+   3. Be prepared to change your vocation based on the call of the moment.&#x20;
+   4. Perform selfless actions&#x20;
+   5. > Dharma is born mysteriously out of the intersection between The Gift and The Times. Dharma is a response to the urgent—though often hidden—need of the moment. Each of us feels some aspect of the world’s suffering acutely. It tears at our hearts. Others don’t see it or don’t care. But we feel it. And we must pay attention. We must act. This little corner of the world is ours to transform. This little corner of the world is ours to save.
 
-#### 2. Do it Full Out!
+#### Do it Full Out!
 
 1. Find out who you are and do it on purpose.
    1. Bringing forth what is within you is mostly about creating the right conditions.
@@ -54,7 +54,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
    2. Train attention.&#x20;
    3. Mastery brings pleasure.
 
-#### 3. Let go of the fruits.
+#### Let go of the fruits.
 
 1. Work without expectation of reward.
 2. Be alike (equanimous) in both success and failure.
@@ -88,9 +88,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
 
 8. > “Blessed is the man who, having subdued all his passions, performeth with his active faculties all the functions of life, unconcerned about the event … Be not one whose motive for action is the hope of reward. Perform thy duty, abandon all thought of the consequence, and make the event equal, whether it terminate in good or evil; for such an equality is called yoga.
 
-
-
-#### 4. Turn it over to God ('The world')
+#### Turn it over to God
 
 1. Thou art that -&#x20;
 
@@ -116,7 +114,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
        3. Check out the response. Talk about it with friends and mentors. True "divine" response will survive testing out.&#x20;
        4. Wait to act - Once you do begin to get clarity, wait to act until you have at least a kernel of inner certitude.
        5. Once there is “a flavor of certitude,” says Bede, then “pray for the courage to take action.”
-       6. “Let go of the attempt to eliminate risk from these decisions and actions.” Risk cannot be eliminated, and the attempt to eliminate it will only lead you back to paralysis.
+       6. “Let go of the attempt to eliminate risk from these decisions and actions.” Risk cannot be eliminated, and attempting to eliminate it will only lead you back to paralysis.
        7. “Move forward methodically.” Begin to take action in support of your choice. Be aware that you are led by faith and not by sight and that the whole process may be shrouded in darkness. Learn to feel your way along.
        8. “Let go of the outcome.” Let go of any clinging to how this all comes out. You cannot measure your actions at this point by the conventional wisdom about success and failure.
     4. Non-doership -&#x20;
@@ -124,15 +122,17 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
     > Says Krishna: “Those who follow the path of service, who have completely purified themselves and conquered their senses and self-will, see the Self in all creatures and are untouched by any action they perform. Those who know this truth, whose consciousness is unified, think always, I am not the Doer.
 5.  Turn yourself to Zero
 
-    1. Four Pillars of Gandhi's transformation from being a coward - by deliberate practice of Gita - turning oneself to zero:
-       1. Mantra Meditation (name of Rama)
-          1. Gita - as a reference book
-          2. Systematic cultivation of energy
-             1. Control of diet - abandon recreational diet - focus on effect. Mainly vegetables and milk. Eating as a spiritual practice.
-             2. Vigorous walking as daily exercise.
-             3. Freeing energy by renunciation - progressive simplification and minimalism.
-          3. Selfless service
-       2. > Gandhi grasped the paradox: The more he gave away, the more he had. “He who devotes himself to service with a clear conscience, will day by day grasp the necessity for it in greater measure, and will continually grow richer in faith … If we cultivate the habit of doing this service deliberately, our desire for service will steadily grow stronger, and will make not only for our own happiness but that of the world at large.”
+    1.  Four Pillars of Gandhi's transformation from being a coward - by deliberate practice of Gita - turning oneself to zero:
+
+        1. Mantra Meditation (name of Rama)
+        2. Gita - as a reference book
+        3. Systematic cultivation of energy
+           1. Control of diet - abandon recreational diet - focus on effect. Mainly vegetables and milk. Eating as a spiritual practice.
+           2. Vigorous walking as daily exercise.
+           3. Freeing energy by renunciation - progressive simplification and minimalism.
+        4. Selfless service
+
+        > Gandhi grasped the paradox: The more he gave away, the more he had. “He who devotes himself to service with a clear conscience, will day by day grasp the necessity for it in greater measure, and will continually grow richer in faith … If we cultivate the habit of doing this service deliberately, our desire for service will steadily grow stronger, and will make not only for our own happiness but that of the world at large.”
     2. See the world as self. Love the world as self.
     3. Zeroing out
 
@@ -163,7 +163,8 @@ Craftsmanlike view of life
 #### Critique
 
 * How is doubt both an affliction to abandon and also something we ought to be comfortable with by having "negative capability"?
-* Dharma seems to be sometimes framed as related to natural dispositions, sometimes related to the will of "God" - with a supernatural element in how to find "guidance" -- and then somehow it's also present when everything goes wrong - in which case we just face and endure difficulties or forcibly try to find "meaning"? It feels like trying to do everything and effectively being nothing. For example - even if every decision turns out terrible in some irreversible way, the author could just say, "Yeah, you can make facing those difficulties your dharma". At these points, it feels like "anything goes," -- but then the idea of "dharma" doesn't sound terribly interesting; it's more like a psychological framing to cope with life.
-* The author seems to suggest that the "divine guidance" needs to be talked out -- suggesting consensus/approval of others (friends/mentor) is a sign of it being really "divine" - yet in other anecdotes, people carried out their "dharma" by doing things that others were not very keen on (e.g., Frost's painting journey).
-* The problem with anecdotes is survivorship bias. There could be plenty of stories where people tried out what is recommended but didn't turn out well.
+* Dharma seems to be sometimes framed as related to natural dispositions, sometimes related to the will of "God" - with a supernatural element in how to find "guidance" -- and then somehow it's also present when everything goes wrong - in which case we just face and endure difficulties or (forcibly?) try to find "meaning"? It feels like trying to do everything and effectively being nothing. For example - even if every decision turns out terrible in some irreversible way, the author could just say, "Yeah, you can make facing those difficulties your dharma". At that point, it feels like "anything goes as dharma" -- it then seems more like a psychological framing to deal with life.
+* The author seems to suggest that the "divine guidance" needs to be talked out -- suggesting consensus/approval of others (friends/mentor) is a sign of it being really "divine" - yet in other anecdotes, people carried out their "dharma" by doing things that others were not very keen on (e.g., Frost's painting journey). Also doesn't seem to have grounding in Gita.&#x20;
+* I wonder what the author's source is on separating "aspiration" from desire.&#x20;
+* The problem with anecdotes is [survivorship bias](https://thedecisionlab.com/biases/survivorship-bias). There could be plenty of stories where people tried out what is recommended but didn't turn out well.
 * I'm not sure about the relevance of shadow work to Gita.

@@ -73,4 +73,4 @@ This can be a quick way to check "what's new." Although, I may not record every 
 
 ### Feedback
 
-&#x20;If you have some feedback/comments, you can open an [issue](https://github.com/CyberneticSpecter/SacrilegiousTheosis/issues) in the repository. You can also email [me](https://github.com/CyberneticSpecter).
+&#x20;If you have some feedback/comments, you can open an [issue](https://github.com/CyberneticSpecter/SacrilegiousTheosis/issues) in the repository.&#x20;

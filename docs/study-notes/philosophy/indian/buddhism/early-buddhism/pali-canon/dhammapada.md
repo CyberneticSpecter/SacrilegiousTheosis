@@ -32,11 +32,9 @@ Calibrate action priority
 
 > Those who mistake the unessential to be essential and the essential to be unessential, dwelling in wrong thoughts, never arrive at the essential.
 
-Evil is self-harm
+Doing evil to others is ultimately self-harm
 
 > The evil-doer grieves here and hereafter; he grieves in both the worlds. He laments and is afflicted, recollecting his own impure deeds
-
-> The evil-doer suffers here and hereafter; he suffers in both the worlds. The thought, “Evil have I done,” torments him, and he suffers even more when gone to realms of woe.
 
 > Whatever harm an enemy may do to an enemy, or a hater to a hater, an ill-directed mind inflicts on oneself a greater harm
 

@@ -28,13 +28,13 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
 1. Trust in the gift.&#x20;
    1. Your gift is not necessarily your dhamma but likely related to it.
    2. A life of self-betrayal -- avoiding one's dhamma -- is deadening.&#x20;
-   3. Overcome doubt (the invisible affliction) leading to paralysis and procrastination. Embrace your dharma - own it.&#x20;
+   3. Overcome doubt (the invisible affliction), leading to paralysis and procrastination. Embrace your dharma - own it.&#x20;
 2. Think of the small as large.&#x20;
-   1. Don't try to be bigger than you are.&#x20;
-   2. "Be humbly who you are,” - Thoreau&#x20;
-   3. > &#x20;"See yourself as a grain of sand,” suggests Chögyam Trungpa, the Tibetan crazy-wisdom guru, “see yourself as the smallest of the small. Then you can make room for the whole world.&#x20;
-   4. You can't be anyone but yourself. Your fundamental idiosyncratic qualities that define your dharma are not as easily manipulated as we think. Dharma is to be discovered rather than created.&#x20;
-   5. A superficially simple life lived wisely can still turn out to be effective. &#x20;
+   1. Don't try to be bigger than you are.
+   2. "Be humbly who you are,” - Thoreau
+   > "See yourself as a grain of sand,” suggests Chögyam Trungpa, the Tibetan crazy-wisdom guru, “see yourself as the smallest of the small. Then you can make room for the whole world.&#x20;
+   3. You can't be anyone but yourself. Your fundamental idiosyncratic qualities that define your dharma are not as easily manipulated as we think. Dharma is to be discovered rather than created.&#x20;
+   4. A superficially simple life lived wisely can still be effective. &#x20;
 3.  Listen for the call of the times.&#x20;
 
     1. Dharma can be fluid and dynamic.&#x20;
@@ -42,7 +42,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
     3. Be prepared to change your vocation based on the call of the moment.&#x20;
     4. Perform selfless actions&#x20;
 
-    > Dharma is born mysteriously out of the intersection between The Gift and The Times. Dharma is a response to the urgent—though often hidden—need of the moment. Each of us feels some aspect of the world’s suffering acutely. It tears at our hearts. Others don’t see it or don’t care. But we feel it. And we must pay attention. We must act. This little corner of the world is ours to transform. This little corner of the world is ours to save.
+> Dharma is born mysteriously out of the intersection between The Gift and The Times. Dharma is a response to the urgent—though often hidden—need of the moment. Each of us feels some aspect of the world’s suffering acutely. It tears at our hearts. Others don’t see it or don’t care. But we feel it. And we must pay attention. We must act. This little corner of the world is ours to transform. This little corner of the world is ours to save.
 
 ### Do it Full Out!
 
@@ -51,7 +51,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
 2. Unify!
    1. Forget self - let the work take over - let "my work" become "the work"
    2. Happiness from service.
-   3. Say "no" to the unessential (renunciate; simplify, adopt ruthless minimalism).
+   3. Say "no" to the unessential (renunciate, simplify, adopt ruthless minimalism).
    4. Create unity of action and focus.
 3. Practice deliberately.
    1. See [expert-performance.md](../../../../skills/learning/deliberate-practice/expert-performance.md "mention")
@@ -67,14 +67,14 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
 5. Grasping exacerbates the sense of duality and separation.
 6. How can one follow dharma without any desire/grasping?:
    1. Initially, yogi tried to eliminate all desires via asceticism, but that ended all the good stuff as well (does it really?)
-   2. Next, yogi discovered that desires are compound, and there can be a good "salutary" part as well - "aspiration" for Self-realization - this can be teased apart from craving/clinging.
+   2. Next, the yogi discovered that desires are compound, and there can be a good "salutary" part as well - "aspiration" for Self-realization - this can be teased apart from craving/clinging.
    3. Aspiration is used for dhamma
    4. Teasing apart aspiration from clinging/craving is slippery - it's a lifetime goal.
    5. > Aspiration, as it turns out, is full of energy. Full of resolve. Full of a deep ardency for the realization of the Self. It is this very aspiration that leads us to search for truth. For beauty. For our full humanity.
    6. > He \[Endymon] enters what Keats called “the Cave of Quietude,” a retreat into the depths of consciousness. In quiet retreat and contemplation, Endymion realizes that success and failure are not the measure of life. He sees the way in which both light and shade, success and failure, and praise and blame, are all parts of life. He sees, even, the ways in which beauty can be revealed through sorrow, and through life’s losses. **He decides to choose complete surrender to the endless richness of the moment, whatever the moment brings. He decides to embrace both sides of life—the light and the shadow.** This was a pivotal moment in the development of Keats’s creative consciousness.
    7. Consider the working out of dharma as soul-making.
    8. Surrender to the greater impersonal
-   9. > “That which is creative must create itself.” He discovered, as all great artists do, that there was something impersonal at work. Something at work that was not him. And to surrender to this larger force gave him a new kind of freedom, and a new sense of faith in the process itself.
+   9. > “That which is creative must create itself.” He discovered, as all great artists do, that there was something impersonal at work. Something at work that was not him. And to surrender to this larger force gave him a new kind of freedom and a new sense of faith in the process itself.
    10. Achieve Immortality through the soul's outpour
    11. Develop negative capability - Ability to be with uncertainties. mysteries, doubt - requires surrender
    12. Develop disinterestedness - “not for Fame and Laurel, but from the mere yearning and fondness I have for the beautiful even if my night’s labours should be burnt every morning and no eye ever shine upon them.” - Keats
@@ -138,10 +138,9 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
        > Gandhi grasped the paradox: The more he gave away, the more he had. “He who devotes himself to service with a clear conscience, will day by day grasp the necessity for it in greater measure, and will continually grow richer in faith … If we cultivate the habit of doing this service deliberately, our desire for service will steadily grow stronger, and will make not only for our own happiness but that of the world at large.”
    2. See the world as self. Love the world as self.
    3. Zeroing out&#x20;
-   4. > Gandhi came to believe that any power he might have to affect the world only emerged when he got himself out of the way, and let God do the work. He came to call this “reducing yourself to zero.” “There comes a time,” he wrote in the peak of his maturity, “when an individual becomes irresistible and his action becomes all- pervasive in its effects. This comes when he reduces himself to zero.”
-   5. Spirit of ahimsa
-
-> Because he wants nothing for himself, the true satyagrahi is not afraid of entering any conflict for the sake of those around him—and he enters it without hostility, without resentment, without resorting even to violent words. In the face of the fiercest provocation, he never lets himself forget that he and his attacker are one. This is the true spirit of ahimsa, or “nonviolence.” But ahimsa is more than just the absence of violence: It is the presence of justice and of love. Gandhi always made it perfectly clear that “the satyagrahi’s object is to convert, not to coerce, the wrongdoer.”
+   > Gandhi came to believe that any power he might have to affect the world only emerged when he got himself out of the way, and let God do the work. He came to call this “reducing yourself to zero.” “There comes a time,” he wrote in the peak of his maturity, “when an individual becomes irresistible and his action becomes all- pervasive in its effects. This comes when he reduces himself to zero.”
+   4. Spirit of ahimsa
+   > Because he wants nothing for himself, the true satyagrahi is not afraid of entering any conflict for the sake of those around him—and he enters it without hostility, without resentment, without resorting even to violent words. In the face of the fiercest provocation, he never lets himself forget that he and his attacker are one. This is the true spirit of ahimsa, or “nonviolence.” But ahimsa is more than just the absence of violence: It is the presence of justice and of love. Gandhi always made it perfectly clear that “the satyagrahi’s object is to convert, not to coerce, the wrongdoer.”
 >
 > ***
 >

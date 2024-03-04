@@ -139,7 +139,7 @@ Renunciation is the essence of Gita.
 
 Renunciation from all actions - is impossible while living (18:11-12). Even a Sannyasin (ascetic) still has to act. Gita promises a way to Moksha even while living an active life.
 
-#### Main Yogic paths
+#### **Main Yogic paths**
 
 1. **Karma yoga:** Renunciate self-centered action. Engage in selfless service (2:47).
 2. **Karma yoga:** Renunciate attachment to the fruits (rewards/punishment) of actions (2:47).
@@ -171,13 +171,13 @@ Meditation can be helpful to build discipline, stillness, inwardness, devotion e
 
 Gita ranks different Yogas differently in different chapter taking the perspective of different Yogi. Probably better to just do all the yoga in an integrated fashion (like Buddhist eightfold paths) although doing only one is probably better than nothing or just engaging in mechanical ritual practices.&#x20;
 
-#### Meditation Guide
+#### **Meditation Guide**
 
 1. Sit in a straight posture to prevent drowsiness
 2. Concentrate one-pointedly on a single object (perhaps the position between the eyebrows) free from expectations and attachment to material possessions (6:10-15,8:9-10)
 3. Set God/Self as the only goal (6:10-15).
 
-#### Other tips:
+#### **Other tips:**
 
 1. Rejoice in renunciation (16:1-4)
 2. Achieve singleness of purpose - the purpose of Self/God-realization (2:41).
@@ -191,7 +191,7 @@ Gita ranks different Yogas differently in different chapter taking the perspecti
 10. Abandon identification and conceit - "I"/"mine" (12:13-14)
 11. Enjoy solitude - seek only God with undivided devotion (13:9-11)
 
-#### Mantra During Offerings
+#### **Mantra During Offerings**
 
 Om Tat Sat
 
@@ -260,7 +260,7 @@ The master transcending the gunas unbinds oneself even from happiness (14:22-23)
 
 The Purusha transcends the gunas - since gunas are parts of Prakriti (not Purusha).
 
-#### Evolution of Gunas:
+#### &#x20;**Evolution of Gunas:**
 
 Sattva is better than Rajas, which is better than Tamas. It is recommended to first evolve one's gunas from Tamas to Rajas and then to Sattva.
 
@@ -276,7 +276,7 @@ Ultimately, all the gunas has to be transcended - the true Self transcends the g
 >
 > (from introduction)
 
-#### Tripartite Orientations
+#### **Tripartite Orientations**
 
 Each gunas is associated with different sets of dispositions and overall 'Sradhanas' (meaning: "what's placed in heart" - a system of values and beliefs). The predominance of a guna manifests in particular ways in varies contexts (eg. actions, motivations ). Since Sattvic people are considered to be more virtuous than Rajasic people, who are considered to be more virtuous than Tamasic people -- their corresponding orientations can also serve as moral guidance (signifying how to be closer to being a Sattvic person)
 

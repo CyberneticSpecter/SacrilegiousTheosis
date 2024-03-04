@@ -9,7 +9,7 @@ I am using the website as a ["digital garden"](https://github.com/MaggieAppleton
 1. Study Notes
 2. My Books
 
-&#x20;**Study Notes**
+### **Study Notes**
 
 In this section, I organize notes about things I am studying (as an autodidact). Topics can include philosophy, science (cognitive science, neuroscience, biology, physics, computer science, etc.), maths,  self-help, religion, mysticism, etc. Currently, the contents are sparse, but I plan to grow them slowly.&#x20;
 
@@ -30,7 +30,7 @@ But a few points about my Gitbook notes:
 3. I don't necessarily "endorse" anything  I write about in the study notes. I may even precisely jot down things that I disagree with and later write some critique on.&#x20;
 4. While I said I would post "cleaned" versions of my Obsidian notes, it will keep it relatively low-effort and terse. It may not be always understandable. Still, I will strive to keep them somewhat digestible and potentially useful for the public. &#x20;
 
-**My Books**
+### **My Books**
 
 In this section, I am planning to work on books. These will be long-term projects (nothing much has been done yet) - you will probably not see much in this section in the near term.&#x20;
 
@@ -59,9 +59,9 @@ In a way, writing the book is primarily meant to serve as a means to achieve a h
 
 After sufficient research, I may write books on other, more specific topics.&#x20;
 
-### Version Control and Feedback
+### What's New
 
-I am synching the Gitbook with this public [GitHub repository](https://github.com/CyberneticSpecter/SacrilegiousTheosis). All changes can be publicly viewed through the repository's commit history. If you have some feedback/comments, you can open an [issue](https://github.com/CyberneticSpecter/SacrilegiousTheosis/issues) in the repository. You can also email [me](https://github.com/CyberneticSpecter).
+I am synching the Gitbook with this public [GitHub repository](https://github.com/CyberneticSpecter/SacrilegiousTheosis). All changes can be publicly viewed through the repository's commit history.
 
 I also plan to record substantial updates with corresponding dates on the page below:
 
@@ -70,3 +70,7 @@ I also plan to record substantial updates with corresponding dates on the page b
 {% endcontent-ref %}
 
 This can be a quick way to check "what's new." Although, I may not record every edit there (for that, see the GitHub repository).
+
+### Feedback
+
+&#x20;If you have some feedback/comments, you can open an [issue](https://github.com/CyberneticSpecter/SacrilegiousTheosis/issues) in the repository. You can also email [me](https://github.com/CyberneticSpecter).

@@ -50,7 +50,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
    3. Say "no" to the unessential (renunciate; simplify, adopt ruthless minimalism).
    4. Create unity of action and focus.
 3. Practice deliberately.
-   1. See [expert-performance.md](../../../../../skills/learning/deliberate-practice/expert-performance.md "mention")
+   1. See [expert-performance.md](../../../../skills/learning/deliberate-practice/expert-performance.md "mention")
    2. Train attention.&#x20;
    3. Mastery brings pleasure.
 

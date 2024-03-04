@@ -23,7 +23,7 @@ https://slowself.co/self-integrity-tips/
 
 Ideas from: [https://slowself.co/self-integrity-tips/](https://slowself.co/self-integrity-tips/)
 
-Also see: [integrity-of-emptiness.md](../../philosophy/non-western/indian/buddhism/early-buddhism/thanissaro-bhikkhu/integrity-of-emptiness.md "mention")
+Also see: [integrity-of-emptiness.md](../../philosophy/indian/buddhism/early-buddhism/various-authors/thanissaro-bhikkhu/integrity-of-emptiness.md "mention")
 
 ### Self Integrity - Feedback Loop
 

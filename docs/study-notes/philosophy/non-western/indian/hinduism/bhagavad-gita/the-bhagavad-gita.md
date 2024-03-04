@@ -165,7 +165,7 @@ Gita also says that the path of action and knowledge is ultimately the same (5:4
 
 Meditation can be helpful to build discipline, stillness, inwardness, devotion etc. if they are lacking.
 
-Gita ranks different Yogas differently in different chapter taking the perspective of different Yogi. Probably better to just do all the yoga in an integrated fashion.
+Gita ranks different Yogas differently in different chapter taking the perspective of different Yogi. Probably better to just do all the yoga in an integrated fashion (like Buddhist eightfold paths) although doing only one is probably better than nothing or just engaging in mechanical ritual practices.&#x20;
 
 #### Meditation Guide
 

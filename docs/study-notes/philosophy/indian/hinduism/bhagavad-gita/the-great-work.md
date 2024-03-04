@@ -2,10 +2,6 @@
 
 Source: [The Great Work of Your Life - Stephen Cope](https://www.goodreads.com/en/book/show/13573312)
 
-{% hint style="warning" %}
-I don't necessarily personally endorse (or disapprove) anything said here.
-{% endhint %}
-
 ### Introduction
 
 A book about finding and executing one's "dharma" - sacred vocation or duty (one's "calling")- similar to Crowley's True Will. Meeting the challenge of dharma brings true satisfaction.
@@ -76,12 +72,20 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
     * Aspiration is used for dhamma
     * Teasing apart aspiration from clinging/craving is slippery - it's a lifetime goal.
 
+
+
     > Aspiration, as it turns out, is full of energy. Full of resolve. Full of a deep ardency for the realization of the Self. It is this very aspiration that leads us to search for truth. For beauty. For our full humanity. He \[Endymon] enters what Keats called “the Cave of Quietude,” a retreat into the depths of consciousness. In quiet retreat and contemplation, Endymion realizes that success and failure are not the measure of life. He sees the way in which both light and shade, success and failure, and praise and blame, are all parts of life. He sees, even, the ways in which beauty can be revealed through sorrow, and through life’s losses. **He decides to choose complete surrender to the endless richness of the moment, whatever the moment brings. He decides to embrace both sides of life—the light and the shadow.** This was a pivotal moment in the development of Keats’s creative consciousness.
+
+
 
     * Consider the working out of dharma as soul-making.
     * Surrender to the greater impersonal
 
+
+
     > “That which is creative must create itself.” He discovered, as all great artists do, that there was something impersonal at work. Something at work that was not him. And to surrender to this larger force gave him a new kind of freedom and a new sense of faith in the process itself.
+
+
 
     * Achieve Immortality through the soul's outpour
     * Develop negative capability - Ability to be with uncertainties. mysteries, doubt - requires surrender
@@ -98,7 +102,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
 
 > She wrote in her journal: “When \[God] is moving you toward a new consciousness, you need to recognize the winds of change at once, move with them instead of clinging to what is already gone.”
 
-Integrate with your shadow:
+* Integrate with your shadow:
 
 > Marion discovered an underlying theme in her clients’ dreams. She discovered that her addicted clients lived divided lives—lives split between body and soul, between perfection and imperfection, between light and dark. Healing came about through integrating these “pairs of opposites.” She came into an understanding of the way in which longing for our idealized images of life separates us from our true selves and from our true callings.
 
@@ -135,6 +139,8 @@ Surrender:
       8. “Let go of the outcome.” Let go of any clinging to how this all comes out. You cannot measure your actions at this point by the conventional wisdom about success and failure.
     * Non-doership:
 
+
+
     > Says Krishna: “Those who follow the path of service, who have completely purified themselves and conquered their senses and self-will, see the Self in all creatures and are untouched by any action they perform. Those who know this truth, whose consciousness is unified, think always, I am not the Doer.
 *   Turn yourself to Zero
 
@@ -152,9 +158,13 @@ Surrender:
     * See the world as self. Love the world as self.
     * Zeroing out
 
+
+
     > Gandhi came to believe that any power he might have to affect the world only emerged when he got himself out of the way, and let God do the work. He came to call this “reducing yourself to zero.” “There comes a time,” he wrote in the peak of his maturity, “when an individual becomes irresistible and his action becomes all- pervasive in its effects. This comes when he reduces himself to zero.”
 
     * Spirit of ahimsa
+
+
 
     > Because he wants nothing for himself, the true satyagrahi is not afraid of entering any conflict for the sake of those around him—and he enters it without hostility, without resentment, without resorting even to violent words. In the face of the fiercest provocation, he never lets himself forget that he and his attacker are one. This is the true spirit of ahimsa, or “nonviolence.” But ahimsa is more than just the absence of violence: It is the presence of justice and of love. Gandhi always made it perfectly clear that “the satyagrahi’s object is to convert, not to coerce, the wrongdoer.”
     >

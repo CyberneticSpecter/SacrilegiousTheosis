@@ -6,6 +6,8 @@ Source: [The Great Work of Your Life - Stephen Cope](https://www.goodreads.com/e
 I don't necessarily personally endorse (or disapprove) anything said here.
 {% endhint %}
 
+### Introduction
+
 A book about finding and executing one's "dharma" - sacred vocation or duty (one's "calling")- similar to Crowley's True Will. Meeting the challenge of dharma brings true satisfaction.
 
 **Definition:**
@@ -21,7 +23,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
 3. Let go of the fruits.
 4. Turn it over to God (or 'The world' if you are an atheist)
 
-#### Look to Your Dharma
+### Look to Your Dharma
 
 1. Trust in the gift.&#x20;
    1. Your gift is not necessarily your dhamma but likely related to it.
@@ -33,14 +35,16 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
    3. > &#x20;"See yourself as a grain of sand,” suggests Chögyam Trungpa, the Tibetan crazy-wisdom guru, “see yourself as the smallest of the small. Then you can make room for the whole world.&#x20;
    4. You can't be anyone but yourself. Your fundamental idiosyncratic qualities that define your dharma are not as easily manipulated as we think. Dharma is to be discovered rather than created.&#x20;
    5. A superficially simple life lived wisely can still turn out to be effective. &#x20;
-3. Listen for the call of the times.&#x20;
-   1. Dharma can be fluid and dynamic.&#x20;
-   2. Listen to the need of the moment.&#x20;
-   3. Be prepared to change your vocation based on the call of the moment.&#x20;
-   4. Perform selfless actions&#x20;
-   5. > Dharma is born mysteriously out of the intersection between The Gift and The Times. Dharma is a response to the urgent—though often hidden—need of the moment. Each of us feels some aspect of the world’s suffering acutely. It tears at our hearts. Others don’t see it or don’t care. But we feel it. And we must pay attention. We must act. This little corner of the world is ours to transform. This little corner of the world is ours to save.
+3.  Listen for the call of the times.&#x20;
 
-#### Do it Full Out!
+    1. Dharma can be fluid and dynamic.&#x20;
+    2. Listen to the need of the moment.&#x20;
+    3. Be prepared to change your vocation based on the call of the moment.&#x20;
+    4. Perform selfless actions&#x20;
+
+    > Dharma is born mysteriously out of the intersection between The Gift and The Times. Dharma is a response to the urgent—though often hidden—need of the moment. Each of us feels some aspect of the world’s suffering acutely. It tears at our hearts. Others don’t see it or don’t care. But we feel it. And we must pay attention. We must act. This little corner of the world is ours to transform. This little corner of the world is ours to save.
+
+### Do it Full Out!
 
 1. Find out who you are and do it on purpose.
    1. Bringing forth what is within you is mostly about creating the right conditions.
@@ -54,7 +58,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
    2. Train attention.&#x20;
    3. Mastery brings pleasure.
 
-#### Let go of the fruits.
+### Let go of the fruits.
 
 1. Work without expectation of reward.
 2. Be alike (equanimous) in both success and failure.
@@ -88,7 +92,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
 
 8. > “Blessed is the man who, having subdued all his passions, performeth with his active faculties all the functions of life, unconcerned about the event … Be not one whose motive for action is the hope of reward. Perform thy duty, abandon all thought of the consequence, and make the event equal, whether it terminate in good or evil; for such an equality is called yoga.
 
-#### Turn it over to God
+### Turn it over to God (or the World)
 
 1. Thou art that -&#x20;
 
@@ -120,25 +124,22 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
     4. Non-doership -&#x20;
 
     > Says Krishna: “Those who follow the path of service, who have completely purified themselves and conquered their senses and self-will, see the Self in all creatures and are untouched by any action they perform. Those who know this truth, whose consciousness is unified, think always, I am not the Doer.
-5.  Turn yourself to Zero
+5. Turn yourself to Zero
+   1.  Four Pillars of Gandhi's transformation from being a coward - by deliberate practice of Gita - turning oneself to zero:
 
-    1.  Four Pillars of Gandhi's transformation from being a coward - by deliberate practice of Gita - turning oneself to zero:
+       1. Mantra Meditation (name of Rama)
+       2. Gita - as a reference book
+       3. Systematic cultivation of energy
+          1. Control of diet - abandon recreational diet - focus on effect. Mainly vegetables and milk. Eating as a spiritual practice.
+          2. Vigorous walking as daily exercise.
+          3. Freeing energy by renunciation - progressive simplification and minimalism.
+       4. Selfless service
 
-        1. Mantra Meditation (name of Rama)
-        2. Gita - as a reference book
-        3. Systematic cultivation of energy
-           1. Control of diet - abandon recreational diet - focus on effect. Mainly vegetables and milk. Eating as a spiritual practice.
-           2. Vigorous walking as daily exercise.
-           3. Freeing energy by renunciation - progressive simplification and minimalism.
-        4. Selfless service
-
-        > Gandhi grasped the paradox: The more he gave away, the more he had. “He who devotes himself to service with a clear conscience, will day by day grasp the necessity for it in greater measure, and will continually grow richer in faith … If we cultivate the habit of doing this service deliberately, our desire for service will steadily grow stronger, and will make not only for our own happiness but that of the world at large.”
-    2. See the world as self. Love the world as self.
-    3. Zeroing out
-
-    > Gandhi came to believe that any power he might have to affect the world only emerged when he got himself out of the way, and let God do the work. He came to call this “reducing yourself to zero.” “There comes a time,” he wrote in the peak of his maturity, “when an individual becomes irresistible and his action becomes all- pervasive in its effects. This comes when he reduces himself to zero.”
-
-&#x20;       4\. Spirit of ahimsa
+       > Gandhi grasped the paradox: The more he gave away, the more he had. “He who devotes himself to service with a clear conscience, will day by day grasp the necessity for it in greater measure, and will continually grow richer in faith … If we cultivate the habit of doing this service deliberately, our desire for service will steadily grow stronger, and will make not only for our own happiness but that of the world at large.”
+   2. See the world as self. Love the world as self.
+   3. Zeroing out&#x20;
+   4. > Gandhi came to believe that any power he might have to affect the world only emerged when he got himself out of the way, and let God do the work. He came to call this “reducing yourself to zero.” “There comes a time,” he wrote in the peak of his maturity, “when an individual becomes irresistible and his action becomes all- pervasive in its effects. This comes when he reduces himself to zero.”
+   5. Spirit of ahimsa
 
 > Because he wants nothing for himself, the true satyagrahi is not afraid of entering any conflict for the sake of those around him—and he enters it without hostility, without resentment, without resorting even to violent words. In the face of the fiercest provocation, he never lets himself forget that he and his attacker are one. This is the true spirit of ahimsa, or “nonviolence.” But ahimsa is more than just the absence of violence: It is the presence of justice and of love. Gandhi always made it perfectly clear that “the satyagrahi’s object is to convert, not to coerce, the wrongdoer.”
 >
@@ -150,7 +151,7 @@ Parting words:
 
 > We work first because we have to work. Then because we want to work. Then because we love to work. Then the work simply does us. Difficult at the beginning. Inevitable at the end.
 
-#### Epilogue
+### Epilogue
 
 Don't be bogged down by the will to be great or the will to do everything
 
@@ -160,7 +161,7 @@ Craftsmanlike view of life
 
 > These great exemplars of dharma each took a craftsmanlike view toward life: Do your daily duty, and let the rest go. Poke away systematically at your little calling. Tend the garden a little bit every day. You do not have to exhaust yourself with great acts. Show up for your duty, for your dharma. Then let it go.
 
-#### Critique
+### Critique
 
 * How is doubt both an affliction to abandon and also something we ought to be comfortable with by having "negative capability"?
 * Dharma seems to be sometimes framed as related to natural dispositions, sometimes related to the will of "God" - with a supernatural element in how to find "guidance" -- and then somehow it's also present when everything goes wrong - in which case we just face and endure difficulties or (forcibly?) try to find "meaning"? It feels like trying to do everything and effectively being nothing. For example - even if every decision turns out terrible in some irreversible way, the author could just say, "Yeah, you can make facing those difficulties your dharma". At that point, it feels like "anything goes as dharma" -- it then seems more like a psychological framing to deal with life.

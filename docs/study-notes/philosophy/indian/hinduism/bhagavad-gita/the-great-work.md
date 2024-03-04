@@ -36,7 +36,6 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
    3. You can't be anyone but yourself. Your fundamental idiosyncratic qualities that define your dharma are not as easily manipulated as we think. Dharma is to be discovered rather than created.&#x20;
    4. A superficially simple life lived wisely can still be effective. &#x20;
 3.  Listen for the call of the times.&#x20;
-
     1. Dharma can be fluid and dynamic.&#x20;
     2. Listen to the need of the moment.&#x20;
     3. Be prepared to change your vocation based on the call of the moment.&#x20;
@@ -63,34 +62,37 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
 1. Work without expectation of reward.
 2. Be alike (equanimous) in both success and failure.
 3. Grasping for rewards disturbs and obscures the mind; it hinders one's work and dhamma.
-4. > “When you keep thinking about sense objects,” he says, “attachment comes. Attachment breeds desire, the lust of possession that burns to anger. Anger clouds the judgment; you can no longer learn from past mistakes. Lost is the power to choose between what is wise and what is unwise, and your life is utter waste.”
-5. Grasping exacerbates the sense of duality and separation.
-6. How can one follow dharma without any desire/grasping?:
+> “When you keep thinking about sense objects,” he says, “attachment comes. Attachment breeds desire, the lust of possession that burns to anger. Anger clouds the judgment; you can no longer learn from past mistakes. Lost is the power to choose between what is wise and what is unwise, and your life is utter waste.”
+4. Grasping exacerbates the sense of duality and separation.
+5. How can one follow dharma without any desire/grasping?:
    1. Initially, yogi tried to eliminate all desires via asceticism, but that ended all the good stuff as well (does it really?)
    2. Next, the yogi discovered that desires are compound, and there can be a good "salutary" part as well - "aspiration" for Self-realization - this can be teased apart from craving/clinging.
    3. Aspiration is used for dhamma
    4. Teasing apart aspiration from clinging/craving is slippery - it's a lifetime goal.
-   5. > Aspiration, as it turns out, is full of energy. Full of resolve. Full of a deep ardency for the realization of the Self. It is this very aspiration that leads us to search for truth. For beauty. For our full humanity.
-   6. > He \[Endymon] enters what Keats called “the Cave of Quietude,” a retreat into the depths of consciousness. In quiet retreat and contemplation, Endymion realizes that success and failure are not the measure of life. He sees the way in which both light and shade, success and failure, and praise and blame, are all parts of life. He sees, even, the ways in which beauty can be revealed through sorrow, and through life’s losses. **He decides to choose complete surrender to the endless richness of the moment, whatever the moment brings. He decides to embrace both sides of life—the light and the shadow.** This was a pivotal moment in the development of Keats’s creative consciousness.
-   7. Consider the working out of dharma as soul-making.
-   8. Surrender to the greater impersonal
-   9. > “That which is creative must create itself.” He discovered, as all great artists do, that there was something impersonal at work. Something at work that was not him. And to surrender to this larger force gave him a new kind of freedom and a new sense of faith in the process itself.
-   10. Achieve Immortality through the soul's outpour
-   11. Develop negative capability - Ability to be with uncertainties. mysteries, doubt - requires surrender
-   12. Develop disinterestedness - “not for Fame and Laurel, but from the mere yearning and fondness I have for the beautiful even if my night’s labours should be burnt every morning and no eye ever shine upon them.” - Keats
+   > Aspiration, as it turns out, is full of energy. Full of resolve. Full of a deep ardency for the realization of the Self. It is this very aspiration that leads us to search for truth. For beauty. For our full humanity.
+   > He \[Endymon] enters what Keats called “the Cave of Quietude,” a retreat into the depths of consciousness. In quiet retreat and contemplation, Endymion realizes that success and failure are not the measure of life. He sees the way in which both light and shade, success and failure, and praise and blame, are all parts of life. He sees, even, the ways in which beauty can be revealed through sorrow, and through life’s losses. **He decides to choose complete surrender to the endless richness of the moment, whatever the moment brings. He decides to embrace both sides of life—the light and the shadow.** This was a pivotal moment in the development of Keats’s creative consciousness.
+   5. Consider the working out of dharma as soul-making.
+   6. Surrender to the greater impersonal
+   > “That which is creative must create itself.” He discovered, as all great artists do, that there was something impersonal at work. Something at work that was not him. And to surrender to this larger force gave him a new kind of freedom and a new sense of faith in the process itself.
+   7. Achieve Immortality through the soul's outpour
+   8. Develop negative capability - Ability to be with uncertainties. mysteries, doubt - requires surrender
+   9. Develop disinterestedness - “not for Fame and Laurel, but from the mere yearning and fondness I have for the beautiful even if my night’s labours should be burnt every morning and no eye ever shine upon them.” - Keats
 7.  Find dhamma in difficulties:
-
-    1. > The great Buddhist teacher Chögyam Trungpa Rinpoche called this experience of aversion to the aversion “the pain of pain.” Pain is inevitable, of course. And aversion is a natural response to it. But aversion to the aversion? This is not inevitable, as it turns out. This part is optional. And the kicker: The aversion to the aversion is where the real suffering lies
-    2. > And what do you find at the heart of fear, dread, loathing, anger, hatred? You find a surprise. You find a gift.
-    3. > Marion did the unusual. She decided to take cancer as her new dharma. She walked the razor’s edge: She did not declare war on it. She invited it in to see what she could make of it, and to see what it would make of her. She opened to the possibility that this experience could transform her in salutary ways.
-    4. > Stand at the center and embrace death with your whole heart. Then you will endure forever.
-    5. > She wrote in her journal: “When \[God] is moving you toward a new consciousness, you need to recognize the winds of change at once, move with them instead of clinging to what is already gone.”
-    6. Integration of shadow:&#x20;
+   > The great Buddhist teacher Chögyam Trungpa Rinpoche called this experience of aversion to the aversion “the pain of pain.” Pain is inevitable, of course. And aversion is a natural response to it. But aversion to the aversion? This is not inevitable, as it turns out. This part is optional. And the kicker: The aversion to the aversion is where the real suffering lies
+   
+   > And what do you find at the heart of fear, dread, loathing, anger, hatred? You find a surprise. You find a gift.
+   
+   > Marion did the unusual. She decided to take cancer as her new dharma. She walked the razor’s edge: She did not declare war on it. She invited it in to see what she could make of it, and to see what it would make of her. She opened to the possibility that this experience could transform her in salutary ways.
+   
+   > Stand at the center and embrace death with your whole heart. Then you will endure forever.
+   
+   > She wrote in her journal: “When \[God] is moving you toward a new consciousness, you need to recognize the winds of change at once, move with them instead of clinging to what is already gone.”
+   
+   Integration of shadow:&#x20;
 
     > Marion discovered an underlying theme in her clients’ dreams. She discovered that her addicted clients lived divided lives—lives split between body and soul, between perfection and imperfection, between light and dark. Healing came about through integrating these “pairs of opposites.” She came into an understanding of the way in which longing for our idealized images of life separates us from our true selves and from our true callings.
 
-
-8. > “Blessed is the man who, having subdued all his passions, performeth with his active faculties all the functions of life, unconcerned about the event … Be not one whose motive for action is the hope of reward. Perform thy duty, abandon all thought of the consequence, and make the event equal, whether it terminate in good or evil; for such an equality is called yoga.
+> “Blessed is the man who, having subdued all his passions, performeth with his active faculties all the functions of life, unconcerned about the event … Be not one whose motive for action is the hope of reward. Perform thy duty, abandon all thought of the consequence, and make the event equal, whether it terminate in good or evil; for such an equality is called yoga.
 
 ### Turn it over to God (or the World)
 

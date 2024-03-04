@@ -2,9 +2,7 @@
 
 From [Purity of Heart - Thanissaro Bhikkhu](https://www.dhammatalks.org/Archive/Writings/Ebooks/PurityOfHeart200728.pdf)
 
-{% hint style="warning" %}
-I don't necessarily personally endorse (or disapprove) anything said here.
-{% endhint %}
+_<mark style="color:red;">I don't necessarily personally endorse anything said here.</mark>_&#x20;
 
 * Seek Purity of Heart - Happiness without harm
 * Take faith in awakening - as a "working hypothesis" to test out (not purely a blind faith)

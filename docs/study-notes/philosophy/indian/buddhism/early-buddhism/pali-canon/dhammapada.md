@@ -2,9 +2,7 @@
 
 Source: [Dhammapada](https://www.buddhanet.net/pdf\_file/scrndhamma.pdf) - Siddharta Gautama
 
-{% hint style="warning" %}
-I don't necessarily personally endorse (or disapprove) anything said here.
-{% endhint %}
+_<mark style="color:red;">I don't necessarily personally endorse anything said here.</mark>_&#x20;
 
 #### Summary
 

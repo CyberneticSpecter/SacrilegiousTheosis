@@ -27,8 +27,8 @@ Avoid aversion to aversion ([the second arrow](https://suttacentral.net/sn36.6/e
 
 <mark style="color:purple;">Example of Gandhi's strategy</mark>
 
-1. Mantra Meditation (name of Rama)
-2. Gita - as a reference book
+1. Mantra Meditation.
+2. Bhagavad Gita - as a reference book
 3. Systematic cultivation of energy
    1. Control of diet - abandon recreational diet - focus on effect. Mainly vegetables and milk. Eating as a spiritual practice.
    2. Vigorous walking as daily exercise.

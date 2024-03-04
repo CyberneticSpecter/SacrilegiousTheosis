@@ -4,26 +4,26 @@ Notes from: [The Great Work of Your Life - Stephen Cope](https://www.goodreads.c
 
 ### Extra-Lite Summary
 
-Dhamma - the vocational role most suited for you based on your nature and environmental circumstances at the moment.&#x20;
+Dhamma - the vocational role most suited for you based on your nature and environmental circumstances at the moment.
 
 <mark style="color:purple;">Finding your dhamma</mark>
 
-1. Consider your talents/gifts. Your dhamma is probably in the ballpark.&#x20;
-2. The dhamma does not need to be anything grandiose.&#x20;
-3. Be sensitive to the call of time. Your dhamma may change. One dhamma may get completed - and one can be on the lookout for another.&#x20;
+1. Consider your talents/gifts. Your dhamma is probably in the ballpark related to your gift.
+2. The dhamma does not need to be anything grandiose.
+3. Be sensitive to the call of time. Your dhamma may change. One dhamma may get completed, and another dhamma may arise.&#x20;
 
 <mark style="color:purple;">Executing dhamma</mark>
 
-1. Put complete focus on it. Achieve singleness of purpose. Remove unessentials.&#x20;
+1. Put complete focus on it. Achieve singleness of purpose. Remove unessentials.
 2. Perform [expert-performance.md](../../../../skills/learning/deliberate-practice/expert-performance.md "mention")
-3. Selflessly carry out your dhamma as a service to the world.&#x20;
-4. Let go of attachments to possible outcomes of your action. Do your best for the best; after that, whatever happens, happens. Be equanimous to however things turn out.&#x20;
+3. Selflessly carry out your dhamma as a service to the world.
+4. Let go of attachments to possible outcomes of your action. Do your best for the best; after that, whatever happens, happens. Be equanimous to however things turn out.
 5. Have faith in "divine guidance".
-6. Turn yourself to zero. See the world as your Self. Love the world as your Self. Surrender to selfless service in love of the world.&#x20;
+6. Turn yourself to zero. See the world as your Self. Love the world as your Self. Surrender to selfless service in love of the world.
 
 <mark style="color:purple;">Facing difficulties</mark>
 
-Avoid aversion to aversion ([the second arrow](https://suttacentral.net/sn36.6/en/sujato?lang=en\&layout=plain\&reference=\&notes=asterisk\&highlight=false\&script=latin)) during difficulties. Perhaps make a dhamma centering around your difficulties, if possible.&#x20;
+Avoid aversion to aversion ([the second arrow](https://suttacentral.net/sn36.6/en/sujato?lang=en\&layout=plain\&reference=\&notes=asterisk\&highlight=false\&script=latin)) during difficulties.  Face aversion head-on. Perhaps make a dhamma centering around your difficulties, if possible.
 
 <mark style="color:purple;">Example of Gandhi's strategy</mark>
 
@@ -105,20 +105,12 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
     * Initially, yogi tried to eliminate all desires via asceticism, but that ended all the good stuff as well (does it really?)
     * Next, the yogi discovered that desires are compound, and there can be a good "salutary" part as well - "aspiration" for Self-realization - this can be teased apart from craving/clinging. Aspiration is used for dhamma. Teasing apart aspiration from clinging/craving is slippery - it's a lifetime goal.
 
-
-
     > Aspiration, as it turns out, is full of energy. Full of resolve. Full of a deep ardency for the realization of the Self. It is this very aspiration that leads us to search for truth. For beauty. For our full humanity. He \[Endymon] enters what Keats called “the Cave of Quietude,” a retreat into the depths of consciousness. In quiet retreat and contemplation, Endymion realizes that success and failure are not the measure of life. He sees the way in which both light and shade, success and failure, and praise and blame, are all parts of life. He sees, even, the ways in which beauty can be revealed through sorrow, and through life’s losses. **He decides to choose complete surrender to the endless richness of the moment, whatever the moment brings. He decides to embrace both sides of life—the light and the shadow.** This was a pivotal moment in the development of Keats’s creative consciousness.
-
-
 
     * Consider the working out of dharma as soul-making.
     * Surrender to the greater impersonal.
 
-
-
     > “That which is creative must create itself.” He discovered, as all great artists do, that there was something impersonal at work. Something at work that was not him. And to surrender to this larger force gave him a new kind of freedom and a new sense of faith in the process itself.
-
-
 
     * Develop negative capability - Ability to be with uncertainties. mysteries, doubt - requires surrender
     * Develop disinterestedness - “not for Fame and Laurel, but from the mere yearning and fondness I have for the beautiful even if my night’s labours should be burnt every morning and no eye ever shine upon them.” - Keats
@@ -172,8 +164,6 @@ Surrender:
     * Non-doership:
 
     > Says Krishna: “Those who follow the path of service, who have completely purified themselves and conquered their senses and self-will, see the Self in all creatures and are untouched by any action they perform. Those who know this truth, whose consciousness is unified, think always, I am not the Doer.
-
-
 *   Turn yourself to Zero
 
     *   Four Pillars of Gandhi's transformation from being a coward - by deliberate practice of Gita - turning oneself to zero:

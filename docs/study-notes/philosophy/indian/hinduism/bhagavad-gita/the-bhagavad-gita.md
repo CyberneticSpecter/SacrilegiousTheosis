@@ -2,6 +2,14 @@
 
 Notes from: [The Bhagavad Gita - Eknath Easwaran](https://www.amazon.com/Bhagavad-Gita-2nd-Eknath-Easwaran/dp/1586380192)
 
+### Extra-Lite Summary
+
+Formula for peace, "self-realization", and freedom from the hamster wheel of samsara according to Gita:
+
+1. Act without selfish desires. Engage in selfless service.
+2. Renunciate fruits of actions. Act for whatever goals, but don't attach to any particular range of possible outcomes. Whatever happens in the end happens. If nothing turns out as you prefer, then so it would be.&#x20;
+3. Develop one-pointed concentration in meditation. FConsider the area between the eyebrows as a meditation object to focus on one-pointedly.&#x20;
+
 ### Narrative Context
 
 * Arjuna was going to wage war (for reasons). Finds out he have to fight against his own relatives, masters, and uncles. This paralyzes him and confuses him. Unable to act and decide what to do - he asks Krishna -- his charioteer -- for advice. Krishna gives him spiritual lessons and in-between reveals himself as God.

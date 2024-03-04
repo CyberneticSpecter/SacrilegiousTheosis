@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Start Here](README.md)
 
 ## My Books
 

@@ -4,7 +4,7 @@
 
 [https://sacrilegious-theosis.gitbook.io](https://sacrilegious-theosis.gitbook.io/sacrilegious-theosis/)
 
-I am using the website as a ["digital garden"](https://github.com/MaggieAppleton/digital-gardeners) and a [personal knowledge base](https://towardsdatascience.com/personal-knowledge-graphs-9a23a0b099af)/[second brain](https://towardsdatascience.com/personal-knowledge-graphs-9a23a0b099af) of mine. It includes two main sections:
+I am using the website as a ["digital garden"](https://github.com/MaggieAppleton/digital-gardeners) and a [personal knowledge base](https://towardsdatascience.com/personal-knowledge-graphs-9a23a0b099af) of mine. It includes two main sections:
 
 1. Study Notes
 2. My Books
@@ -44,8 +44,8 @@ Broadly, I am looking to build a personal (which need not turn out to be anythin
 
 My current plan for the book is:
 
-1. Initially, write a "bad" book with little research/study on science and philosophy. Given my current knowledge and understanding, I want to "think for myself" and muster the best I can write on this topic in the initial draft. Currently, my mind is internally disorganized, with many vague ideas - here and there. I want to organize them, meditate on them, push them against each other, aiming towards a reflective equilibrium, and write down my struggles on "digital paper" (in [Broken link](broken-reference "mention")).  This should also help me better contextualize new information in my further studies.
-2. Following that, I would potentially update the initial "bad" book as my research and study progress or as my writing skill/taste changes. Even if I don't change my mind, I may still update the contents to better contextualize them against the existing literature (discussing who agrees with me, engaging with those who disagree, etc.). I also wish to train and investigate the phenomenology of meditative states such as [jnanas](https://www.amazon.com/Jhana-Consciousness-Buddhist-Meditation-Neuroscience/dp/1645470806) and the implementation of practical policies besides just "book knowledge."
+1. Initially, write a "bad" book with little research/study on science and philosophy. Given my current knowledge and understanding, I want to "think for myself" and muster the best I can write on this topic in the initial draft. Currently, my mind is internally disorganized, with many vague ideas - here and there. I want to organize them, meditate on them, push them against each other, aiming towards a reflective equilibrium, and write down my struggles on "digital paper".  This should also help me better contextualize new information in my further studies.
+2. Following that, I would potentially update the initial "bad" book as my research and study progress or as my writing skill/taste changes. Even if I don't change my mind, I may update the contents to better contextualize them against the existing literature (discussing who agrees with me, engaging with those who disagree, etc.).&#x20;
 3. Ideally, this will be a "living book" updated throughout my lifetime. &#x20;
 4. Unlike the study notes, I plan to be more articulate in the books and talk more transparently about my own personal stance and thoughts.&#x20;
 

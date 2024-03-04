@@ -1,8 +1,6 @@
 # Dhammapada
 
-Source: [Dhammapada](https://www.buddhanet.net/pdf\_file/scrndhamma.pdf) - Siddharta Gautama
-
-_<mark style="color:red;">I don't necessarily personally endorse anything said here.</mark>_&#x20;
+Notes from: [Dhammapada](https://www.buddhanet.net/pdf\_file/scrndhamma.pdf) - Siddharta Gautama
 
 #### Summary
 

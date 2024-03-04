@@ -1,9 +1,5 @@
 # Thoughts on Self-Integrity
 
-{% hint style="warning" %}
-I don't necessarily personally endorse (or disapprove) anything said here.
-{% endhint %}
-
 ### Self-Integrity is Self-Honesty
 
 Honesty about values, honesty in actions (alignment with values and belief), honesty in keeping promises (commitments), honesty in thought and investigation (Truth as a regulative ideal)

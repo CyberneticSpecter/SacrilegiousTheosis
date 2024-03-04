@@ -2,10 +2,6 @@
 
 From: [Philosophical Devices Proofs, Probabilities, Possibilities, and Sets David Papineau](https://global.oup.com/academic/product/philosophical-devices-9780199651733)
 
-{% hint style="warning" %}
-I don't necessarily personally endorse (or disapprove) anything said here.
-{% endhint %}
-
 ### Constraints
 
 Constraint 1: Basic logical constraints, 0-1 range, Kolmogorov Axioms (Dutch Book Argument)

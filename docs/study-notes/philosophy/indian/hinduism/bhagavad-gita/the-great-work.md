@@ -1,8 +1,6 @@
 # The Great Work
 
-Source: [The Great Work of Your Life - Stephen Cope](https://www.goodreads.com/en/book/show/13573312)
-
-_<mark style="color:red;">I don't necessarily personally endorse anything said here.</mark>_&#x20;
+Notes from: [The Great Work of Your Life - Stephen Cope](https://www.goodreads.com/en/book/show/13573312)
 
 ### Introduction
 

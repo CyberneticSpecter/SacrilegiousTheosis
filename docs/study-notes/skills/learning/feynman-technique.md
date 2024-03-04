@@ -1,9 +1,5 @@
 # Feynman Technique
 
-{% hint style="warning" %}
-I don't necessarily personally endorse (or disapprove) anything said here.
-{% endhint %}
-
 1. **Select & Study:** Select a topic/concept to study and study it.
 2. **ELI5**: Teach what you learned to a child - or simulate the process - e.g. use a mental model of a child as a target audience for writing notes. Use plain (jargon-free) words, and be concise.&#x20;
 3. **Fill-in-the-Gaps:** Identify your gaps when doing 2 (e.g. where you cannot quite go behind jargon) ; study more to fill in those gaps; revise the notes as necessary.

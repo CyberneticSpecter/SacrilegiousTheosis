@@ -1,8 +1,6 @@
 # Integrity of Emptiness
 
-From [The Integrity of Emptiness](https://www.accesstoinsight.org/lib/authors/thanissaro/integrityofemptiness.html) - Thanissaro Bhikkhu
-
-_<mark style="color:red;">I don't necessarily personally endorse anything said here.</mark>_&#x20;
+Notes from [The Integrity of Emptiness](https://www.accesstoinsight.org/lib/authors/thanissaro/integrityofemptiness.html) - Thanissaro Bhikkhu
 
 ### Summary
 

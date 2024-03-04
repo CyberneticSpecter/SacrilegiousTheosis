@@ -66,7 +66,7 @@
   * [Integrity](study-notes/skills/integrity/README.md)
     * [Thoughts on Self-Integrity](study-notes/skills/integrity/thoughts-on-self-integrity.md)
     * [Links](study-notes/skills/integrity/links.md)
-  * [Miscellaneous Quick Hacks](study-notes/skills/miscellaneous-quick-hacks.md)
+  * [Miscellaneous Hacks](study-notes/skills/miscellaneous-quick-hacks.md)
 
 ## Miscellaneous
 

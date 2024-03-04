@@ -2,10 +2,6 @@
 
 From: [Philosophical Devices Proofs, Probabilities, Possibilities, and Sets David Papineau](https://global.oup.com/academic/product/philosophical-devices-9780199651733)
 
-{% hint style="warning" %}
-I don't necessarily personally endorse (or disapprove) anything said here.
-{% endhint %}
-
 **Correlation and Causation**
 
 &#x20;Popular meme: "Correlation is not causation"

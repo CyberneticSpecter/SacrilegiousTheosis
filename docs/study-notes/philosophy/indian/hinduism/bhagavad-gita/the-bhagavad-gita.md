@@ -1,8 +1,6 @@
 # The Bhagavad Gita
 
-From: [The Bhagavad Gita - Eknath Easwaran](https://www.amazon.com/Bhagavad-Gita-2nd-Eknath-Easwaran/dp/1586380192)
-
-_<mark style="color:red;">I don't necessarily personally endorse anything said here.</mark>_&#x20;
+Notes from: [The Bhagavad Gita - Eknath Easwaran](https://www.amazon.com/Bhagavad-Gita-2nd-Eknath-Easwaran/dp/1586380192)
 
 ### Narrative Context
 

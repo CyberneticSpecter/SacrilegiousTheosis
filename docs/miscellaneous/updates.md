@@ -20,5 +20,5 @@ Beginning - 2/10/2024:&#x20;
 
 [expert-performance.md](../study-notes/skills/learning/deliberate-practice/expert-performance.md "mention")[miscellaneous-quick-hacks.md](../study-notes/skills/miscellaneous-quick-hacks.md "mention")
 
-[..](../ "mention") [status.md](../my-books/on-what-to-be/status.md "mention")&#x20;
+[..](../ "mention") [status.md](../my-books/on-what-to-be/status.md "mention") [philosophical-devices.md](../study-notes/philosophy/general/epistemology/formal-philosophy/probability/philosophical-devices.md "mention") [philosophical-devices.md](../study-notes/philosophy/general/metaphysics/causation/philosophical-devices.md "mention")
 

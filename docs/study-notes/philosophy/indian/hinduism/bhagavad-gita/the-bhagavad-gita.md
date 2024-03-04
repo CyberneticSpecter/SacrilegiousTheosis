@@ -22,13 +22,13 @@ There is, however, a third aspect, besides Purusha/Self/Spirit and Prakriti, tha
 
 * (O3.) The Supreme Self - The Godhead
 
-#### O1 (Purusha)
+#### **O1 (Purusha)**
 
 The true Self (Purusha) is said to a detached changeless witness - the enjoyer of the show of prakriti (the changing phenomenal world). It (Purusha) is said to perform no action and neither be touched by any act. Agency and everything happen within Prakriti (13:19-22, 13:29-32, 13:5).
 
 The Self is "unmanifest" (2:23)- the manifest are the objects witnessed by the Self - not the Self itself.&#x20;
 
-#### O2 (Prakriti)
+#### **O2 (Prakriti)**
 
 Eknath suggests Prakriti isn't necessarily "things-in-themselves" but the contents of the phenomenal world.
 
@@ -52,13 +52,13 @@ While Eknath seems to take Prakriti as constitutive of phenomenal objects, not t
 
 The exact status of the Prakriti-Purusha dynamic is not super clear, given these contrasts.
 
-#### O3 (Godhead - the supreme Self)
+#### **O3 (Godhead - the supreme Self)**
 
 The Godhead transcends both The Self and The Prakriti - but at the same time it is immanent - it is also The Self of all creatures (10:20) and Prakriti is its "womb" where it plants the seeds for creation and change (14:3-4). Thus, both the Self, and The Prakriti seems to be part of one whole monistic reality of the Supreme Self. The Godhead supports everything (7:6-11). The Godhead is also is time - devourer of all (10:32) and preserver (13:12-15). Brahman (Godhead?) is neither being nor non-being (13:12-15). The Purusha-Prakriti dynamics are parts of the Godhead as a whole. Ultimately, the Godhead is beyond both the changeless (Self) and changing (Prakriti) (15:16-19).
 
 Godhead has an unmanifested essential nature - it's the unmoved mover - unmoved and undisturbed by the movements of Prakriti - unattached from the movements of Prakriti is like the movement of wind in space (9:4-9).
 
-#### Interplay among Purusha, Prakriti, and the Supreme Self
+#### **Interplay among Purusha, Prakriti, and the Supreme Self**
 
 Both Purusha and Prakriti are beginningless (13:19-22). Purusha is changeless, and Prakriti is constantly changing. The Supreme is beyond the changing and unchanging (15:16-19).
 
@@ -84,7 +84,7 @@ Overall, it seems like it can be interpreted as a panentheistic theology (or eve
 
 Ordinary persons are then Selves bound in Prakriti (Chapter 14). The goal is unbinding from Prakriti and finding union with the unmanifest transcendental nature of God.
 
-#### Other aspects:
+#### **Other aspects:**
 
 * Elements of actions (17:13-15):
   1. Divine Will

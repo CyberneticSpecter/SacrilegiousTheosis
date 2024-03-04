@@ -6,10 +6,11 @@
 
 * [On What To Be](my-books/on-what-to-be/README.md)
   * [Status](my-books/on-what-to-be/status.md)
-  * [Chapters](my-books/on-what-to-be/chapters/README.md)
-    * [Chapter 1: Introduction](my-books/on-what-to-be/chapters/chapter-1-introduction.md)
-    * [Chapter 2: Seemings](my-books/on-what-to-be/chapters/chapter-2-seemings.md)
-  * [Appendix](my-books/on-what-to-be/appendix.md)
+  * [Draft 1](my-books/on-what-to-be/draft-1/README.md)
+    * [Chapters](my-books/on-what-to-be/draft-1/chapters/README.md)
+      * [Chapter 1: Introduction](my-books/on-what-to-be/draft-1/chapters/chapter-1-introduction.md)
+      * [Chapter 2: Seemings](my-books/on-what-to-be/draft-1/chapters/chapter-2-seemings.md)
+    * [Appendix](my-books/on-what-to-be/draft-1/appendix.md)
 
 ## Study Notes
 

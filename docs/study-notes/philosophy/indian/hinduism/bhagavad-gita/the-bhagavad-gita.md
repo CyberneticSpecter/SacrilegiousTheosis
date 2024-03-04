@@ -18,13 +18,13 @@ There is, however, a third aspect, besides Purusha/Self/Spirit and Prakriti, tha
 
 * (O3.) The Supreme Self - The Godhead
 
-#### **O1 (Purusha)**
+#### **Purusha**
 
 The true Self (Purusha) is said to a detached changeless witness - the enjoyer of the show of prakriti (the changing phenomenal world). It (Purusha) is said to perform no action and neither be touched by any act. Agency and everything happen within Prakriti (13:19-22, 13:29-32, 13:5).
 
 The Self is "unmanifest" (2:23)- the manifest are the objects witnessed by the Self - not the Self itself.&#x20;
 
-#### **O2 (Prakriti)**
+#### **Prakriti**
 
 Eknath suggests Prakriti isn't necessarily "things-in-themselves" but the contents of the phenomenal world.
 
@@ -46,9 +46,7 @@ Prakriti is the whole of mind-matter ("name-and-form") stuff. Here, mind refers 
 
 While Eknath seems to take Prakriti as constitutive of phenomenal objects, not things-in-itself, some passages seem to suggest that Prakriti cannot manifest - without the light of the Self/Purusha - suggesting that Prakriti exists in itself (independent of the Self) whereas the phenomenal objects are the union of Self and Prakriti (13:26, 13:33-34).
 
-The exact status of the Prakriti-Purusha dynamic is not super clear, given these contrasts.
-
-#### **O3 (Godhead - the supreme Self)**
+#### **Godhead - the supreme Self**
 
 The Godhead transcends both The Self and The Prakriti - but at the same time it is immanent - it is also The Self of all creatures (10:20) and Prakriti is its "womb" where it plants the seeds for creation and change (14:3-4). Thus, both the Self, and The Prakriti seems to be part of one whole monistic reality of the Supreme Self. The Godhead supports everything (7:6-11). The Godhead is also is time - devourer of all (10:32) and preserver (13:12-15). Brahman (Godhead?) is neither being nor non-being (13:12-15). The Purusha-Prakriti dynamics are parts of the Godhead as a whole. Ultimately, the Godhead is beyond both the changeless (Self) and changing (Prakriti) (15:16-19).
 
@@ -64,7 +62,7 @@ Manifest things are a product of the union of the knower (Purusha) and the Field
 
 The commentator Eknath seems to suggest the Purusha is singular behind all creatures taking support from (10:20). But if there is just one Self behind it all, it seems a bit weird to have another Supreme Self behind it. However, quick googling reveals that in Sankhya philosophy (from which Gita largely borrows), the Purusha is plural (different for different individuals) - distinguished from Advaita Vedanta:
 
-[https://iep.utm.edu/sankhya/](https://iep.utm.edu/sankhya/)
+From [Sankhya entry of IEP](https://iep.utm.edu/sankhya/):
 
 > As _puruṣa_ is essentially private for every sentient being, being their true self, there are many irreducibly distinct _puruṣa_-s.
 >
@@ -72,7 +70,7 @@ The commentator Eknath seems to suggest the Purusha is singular behind all creat
 >
 > An important difference between schools of Indian philosophy that recognize _mokṣa_(liberation) as an end is the accepted number of souls. In Buddhism there is no separate soul to be liberated. In Advaita Vedānta, there is one common world-soul, and individuality is a function of the material world only. Sāṅkhya adduces three arguments to prove that there is a separate _puruṣa_ for each individual
 
-This also solves the decombination problem of cosmopsychism ([https://philarchive.org/rec/MILTDP-5](https://philarchive.org/rec/MILTDP-5)).
+This also solves the [decombination problem](https://philarchive.org/rec/MILTDP-5) of cosmopsychism.
 
 However, although at a level the Purusha are distinct and so is Prakriti distinct from Purusha - it seems ultimately all of is the Godhead itself (sometimes framed as a transcendental entity, sometimes as immanent) - which also serves as the unitary ground of all of Purusha and all of Prakriti. That can be one way to understand (10:20) - that the Godhead is the Self in all individuations. At the end of the day, this seems to get us closer to Advaita again.
 
@@ -82,21 +80,25 @@ Ordinary persons are then Selves bound in Prakriti (Chapter 14). The goal is unb
 
 #### **Other aspects:**
 
-* Elements of actions (17:13-15):
-  1. Divine Will
-  2. Means
-  3. Performance of act
-  4. Ego
-  5. Body
-* Karma: web of cause and effect
+_Elements of actions (17:13-15):_
+
+1. Divine Will
+2. Means
+3. Performance of act
+4. Ego
+5. Body
+
+_Karma: web of cause and effect_
 
 > Literally, the Sanskrit karma means something that is done. Often it can be translated as deed or action. The law of karma states simply that every event is both a cause and an effect. Every act has consequences of a similar kind, which in turn have further consequences and so on; and every act, every karma, is also the consequence of some previous karma. (From Introduction)
 
-* Lila - the world as Krishna's play for the desire for companion (doesn't seem explicit in Gita - a latter theology)
+_Lila_ - the world as Krishna's play for the desire for companion&#x20;
+
+(doesn't seem explicit in Gita - a latter theology)
 
 > Though the word is not used in the Gita, the idea of the world as Krishna’s lila, his play, became a cherished theme of later Hinduism. Krishna, it is said, created the world in play: just as a child might desire to have companions to play with, Krishna desired companions, and made the world. Krishna participates in the game of life; his divine qualities shine through in the world wherever there is excellence of any kind. He is, he tells Arjuna, the essence of every created thing: the sapidity of water, the brightness of fire, the effort of the spiritual aspirant. This may be what is meant by the vijnana of our title – the mystic’s vision of the divine as present here and now is perhaps the real meaning of the term.
 
-* Cosmology:
+_Cosmology_
 
 Cyclical Cosmology
 
@@ -135,13 +137,19 @@ Renunciation is the essence of Gita.
 
 Renunciation from all actions - is impossible while living (18:11-12). Even a Sannyasin (ascetic) still has to act. Gita promises a way to Moksha even while living an active life.
 
+***
+
 #### **Main Yogic paths**
+
+**(Heart of the book)**
 
 1. **Karma yoga:** Renunciate self-centered action. Engage in selfless service (2:47).
 2. **Karma yoga:** Renunciate attachment to the fruits (rewards/punishment) of actions (2:47).
 3. **Bhakti Yoga:** Surrender every action and possession in Love (and devotion) to God (11:52-55, 12:2, 18:59-60, 18:65-66).
 4. **Raja Yoga:** Meditate (6:10-15)
 5. **Jnana Yoga:** Seek spiritual knowledge and wisdom (4:36-38)
+
+***
 
 Point (1) is not just outwards altruism out of some selfish motivation (even if to indulge in one's own sense of self-importance of being a generous giver) but purely out of a sense of obligation and goodwill.
 
@@ -213,9 +221,9 @@ It also serves as a supplement to the previous sections - showing the ideal virt
 
 Anything in prakriti, according to GIta (following Sankhya), is a mixture of three "Gunas" (forces) with one guna always predominant:
 
-1. Tamas is frozen energy, the resistance of inertia.
-2. Rajas is active energy; it is like a swollen river, full of uncontrolled power.
-3. Sattva is harmony; it can be compared with steam when its power is harnessed.
+1. **Tamas** is frozen energy, the resistance of inertia.
+2. **Rajas** is active energy; it is like a swollen river, full of uncontrolled power.
+3. **Sattva** is harmony; it can be compared with steam when its power is harnessed.
 
 > Guna means strand, and in the Gita the gunas are described as the very fabric of existence, the veil that hides unity in a covering of diversity.
 >
@@ -226,19 +234,19 @@ Anything in prakriti, according to GIta (following Sankhya), is a mixture of thr
 
 Gunas as levels of consciousness:
 
-1. Tamas - collective unconscious - a chaotic dumping ground of mental residues, constitutive of basic animal drives and appetites - similar to storehouse consciousness in Yogicara.
-2. Rajas - ordinary mind - incessant stream of thoughts; desiring, worrying, resenting, scheming, competing, frustrating, and getting frustrated. Rajas is power released but uncontrolled and egocentric.
-3. Sattva - higher mind - controlled - equanimous - not a state of repressive regulation, but the natural harmony that comes with unity of purpose, character, and desire
+1. **Tamas** - collective unconscious - a chaotic dumping ground of mental residues, constitutive of basic animal drives and appetites - similar to storehouse consciousness in Yogicara.
+2. **Rajas** - ordinary mind - incessant stream of thoughts; desiring, worrying, resenting, scheming, competing, frustrating, and getting frustrated. Rajas is power released but uncontrolled and egocentric.
+3. **Sattva** - higher mind - controlled - equanimous - not a state of repressive regulation, but the natural harmony that comes with unity of purpose, character, and desire
 
 (The above texts are adapted from the introduction)
 
-May have some similarities to Plato's Tripartite division of soul. Also see: [https://blisscredo.com/plato-ethics-bhagavad-gita-morals-3-amazing-similarities/](https://blisscredo.com/plato-ethics-bhagavad-gita-morals-3-amazing-similarities/)
+May have some similarities to Plato's Tripartite division of soul. Also see [here](https://blisscredo.com/plato-ethics-bhagavad-gita-morals-3-amazing-similarities/).&#x20;
 
 Gunas as personality factors:
 
-1. Tamasic person - ignorant, drowsy, confused, infatuated, intoxicated, indifferent, sluggish etc.
-2. Rajasic person - passionate, selfish, engaged in desiring, worrying, anxiety, anger, competitiveness, frustration, etc. (can still have a clear perspective, deliberative and calculative actions compared to Tamasic people)
-3. Sattvic person - controlled, equanimous, harmonious, self-regulated, disciplined, selfless
+1. **Tamasic person** - ignorant, drowsy, confused, infatuated, intoxicated, indifferent, sluggish etc.
+2. **Rajasic person** - passionate, selfish, engaged in desiring, worrying, anxiety, anger, competitiveness, frustration, etc. (can still have a clear perspective, deliberative and calculative actions compared to Tamasic people)
+3. **Sattvic person** - controlled, equanimous, harmonious, self-regulated, disciplined, selfless
 
 Persons (by person, I mean the self-prakriti bound entity as a whole rather than Purusha) too are mixtures of the three gunas. Different persons can have different gunas as predominant. Gunas can be thought of as different types of personality dispositions.
 
@@ -276,41 +284,43 @@ Ultimately, all the gunas has to be transcended - the true Self transcends the g
 
 Each gunas is associated with different sets of dispositions and overall 'Sradhanas' (meaning: "what's placed in heart" - a system of values and beliefs). The predominance of a guna manifests in particular ways in varies contexts (eg. actions, motivations ). Since Sattvic people are considered to be more virtuous than Rajasic people, who are considered to be more virtuous than Tamasic people -- their corresponding orientations can also serve as moral guidance (signifying how to be closer to being a Sattvic person)
 
-Food preferences:
+<mark style="color:purple;">Food preferences:</mark>
 
 > 8 Sattvic people enjoy food that is mild, tasty, substantial, agreeable, and nourishing, food that promotes health, strength, cheerfulness, and longevity. 9 Rajasic people like food that is salty or bitter, hot, sour, or spicy – food that promotes pain, discomfort, and disease. 10 Tamasic people like overcooked, stale, leftover, and impure food, food that has lost its taste and nutritional value. (17:8-10)
 
-Others:
+<mark style="color:purple;">Others:</mark>
 
 Sattvic people do selfless deeds in good faith out of obligation and goodwill. Rajasic people outwardly may appear to do selfless deed but upon selfish motivations - eg. for reputation, praise, respect, or feeding into one's sense of grandiosity. Tamasic people are confused and lack perspective. And so on. (see Chapter 17)
 
-Gunas and knowledge
+<mark style="color:purple;">Gunas and knowledge</mark>
 
 > 20 Sattvic knowledge sees the one indestructible Being in all beings, the unity underlying the multiplicity of creation. 21 Rajasic knowledge sees all things and creatures as separate and distinct. 22 Tamasic knowledge, lacking any sense of perspective, sees one small part and mistakes it for the whole. (18:20-22)
 
-Gunas and nature of happiness - only sattvic people can have long-term happiness (although may seem like poisonous in the beginning). Rajasic activities may provide some initial happiness but ends up being poisonous in the long-term. Happiness of tamasic people is delusion.
+<mark style="color:purple;">Gunas and the nature of happiness</mark>&#x20;
+
+Only sattvic people can have long-term happiness (although may seem like poisonous in the beginning). Rajasic activities may provide some initial happiness but ends up being poisonous in the long-term. Happiness of tamasic people is delusion.
 
 > 36 Now listen, Arjuna: there are also three kinds of happiness. By sustained effort, one comes to the end of sorrow. 37 That which seems like poison at first, but tastes like nectar in the end – this is the joy of sattva, born of a mind at peace with itself. 38 Pleasure from the senses seems like nectar at first, but it is bitter as poison in the end. This is the kind of happiness that comes to the rajasic. 39 Those who are tamasic draw their pleasures from sleep, indolence, and intoxication. Both in the beginning and in the end, this happiness is a delusion. (18:36-39)
 
 ### Death and Rebirth
 
-1. The master can remain calm during death. Progressively getting into subtler and subtler states, withdrawing their consciousness from the senses - they can meditate out from the head into the union (and thus moksha) (8:12-16)
+The master can remain calm during death. Progressively getting into subtler and subtler states, withdrawing their consciousness from the senses - they can meditate out from the head into the union (and thus moksha) (8:12-16)
 
 > Such a person, the Upanishads stress, can actually shed the body voluntarily when the hour of death arrives, by withdrawing consciousness step by step in full awareness. Some of the Gita’s most fascinating verses, for those who can interpret them, are Krishna’s instructions on how to die (8:12–13). (from Introduction)
 
 > At this stage of the death process an ordinary person has no access to the will; but it is just here that prana, with conscious awareness, must be made to move upwards to the head. If prana leaves the body through the brahmarandhra, there will be no rebirth: that is, the dying person will enter samadhi at the time of death. In samadhi, prana is withdrawn from lower levels of awareness to rush upwards to the seventh center at the crown of the head. This is possible only for the yogi who has thoroughly mastered meditation and the control of prana. (from commentary)
 
-Guna and rebirth:
+#### Guna and rebirth
 
 > 14 Those dying in the state of sattva attain the pure worlds of the wise. 15 Those dying in rajas are reborn among people driven by work. But those who die in tamas are conceived in the wombs of the ignorant. 16 The fruit of good deeds is pure and sattvic. The fruit of rajas is suffering. The fruit of tamas is ignorance and insensitivity. (14:14-16)
 
-2. Sattvic people may incarnate in the worlds of the wise ones (see above).
-3. "demonic" and selfish people - who do things out of self-importance and lack belief in morality, God or anything - gets into downward spirals. Lust, greed, and anger are three gateways to hell (16:16-20).
+* Sattvic people may incarnate in the worlds of the wise ones (see above).
+* "Demonic" and selfish people - who do things out of self-importance and lack belief in morality, God or anything - gets into downward spirals. Lust, greed, and anger are three gateways to hell (16:16-20).
 
 ### Sacred Duty
 
 1. Gita also presents a sort of caste system. Each caste is associated with certain duties and dispositions (18:40-44).
-2. Anyone from any caste can achieve \`perfection' (Gita doesn't seem to explicitly discriminate among the castes as superior vs inferior) (18:45-46).
+2. Anyone from any caste can achieve \`perfection'  (Gita doesn't seem to explicitly discriminate among the castes as superior vs inferior) (18:45-46).
 3. Gita doesn't seem to espouse any sort of social caste inheritance from family explicitly.
 4. It suggests that one should do the duty one is born with (which could refer to some form of natural dispositions rather than social or cultural inheritance) (18:47-48). One's dispositions would compel or lean towards completing the relevant duties (18:59-60).
 5. It's better to do one's own duties than others' (3:35, 18:47-48).
@@ -330,9 +340,9 @@ Moreover, I suspect that the hard distinction of Purusha-Prakriti separation is 
 
 Also see:
 
-[https://www.simplytheseen.com/8-the-experience-of-no-i-am.html](https://www.simplytheseen.com/8-the-experience-of-no-i-am.html)
+{% embed url="https://www.simplytheseen.com/8-the-experience-of-no-i-am.html" %}
 
-[https://www.simplytheseen.com/2-nisargadatta-and-i-am.html](https://www.simplytheseen.com/2-nisargadatta-and-i-am.html)
+{% embed url="https://www.simplytheseen.com/2-nisargadatta-and-i-am.html" %}
 
 ### Referred Quotes
 

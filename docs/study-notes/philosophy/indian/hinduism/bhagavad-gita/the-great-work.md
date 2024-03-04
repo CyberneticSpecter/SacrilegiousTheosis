@@ -68,9 +68,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
 *   How can one follow dharma without any desire/grasping?:
 
     * Initially, yogi tried to eliminate all desires via asceticism, but that ended all the good stuff as well (does it really?)
-    * Next, the yogi discovered that desires are compound, and there can be a good "salutary" part as well - "aspiration" for Self-realization - this can be teased apart from craving/clinging.
-    * Aspiration is used for dhamma
-    * Teasing apart aspiration from clinging/craving is slippery - it's a lifetime goal.
+    * Next, the yogi discovered that desires are compound, and there can be a good "salutary" part as well - "aspiration" for Self-realization - this can be teased apart from craving/clinging. Aspiration is used for dhamma. Teasing apart aspiration from clinging/craving is slippery - it's a lifetime goal.
 
 
 
@@ -79,7 +77,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
 
 
     * Consider the working out of dharma as soul-making.
-    * Surrender to the greater impersonal
+    * Surrender to the greater impersonal.
 
 
 
@@ -87,7 +85,6 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
 
 
 
-    * Achieve Immortality through the soul's outpour
     * Develop negative capability - Ability to be with uncertainties. mysteries, doubt - requires surrender
     * Develop disinterestedness - “not for Fame and Laurel, but from the mere yearning and fondness I have for the beautiful even if my night’s labours should be burnt every morning and no eye ever shine upon them.” - Keats
 * Find dhamma in difficulties:
@@ -139,9 +136,9 @@ Surrender:
       8. “Let go of the outcome.” Let go of any clinging to how this all comes out. You cannot measure your actions at this point by the conventional wisdom about success and failure.
     * Non-doership:
 
-
-
     > Says Krishna: “Those who follow the path of service, who have completely purified themselves and conquered their senses and self-will, see the Self in all creatures and are untouched by any action they perform. Those who know this truth, whose consciousness is unified, think always, I am not the Doer.
+
+
 *   Turn yourself to Zero
 
     *   Four Pillars of Gandhi's transformation from being a coward - by deliberate practice of Gita - turning oneself to zero:
@@ -158,19 +155,15 @@ Surrender:
     * See the world as self. Love the world as self.
     * Zeroing out
 
-
-
     > Gandhi came to believe that any power he might have to affect the world only emerged when he got himself out of the way, and let God do the work. He came to call this “reducing yourself to zero.” “There comes a time,” he wrote in the peak of his maturity, “when an individual becomes irresistible and his action becomes all- pervasive in its effects. This comes when he reduces himself to zero.”
 
-    * Spirit of ahimsa
+Spirit of ahimsa (non-violence)
 
-
-
-    > Because he wants nothing for himself, the true satyagrahi is not afraid of entering any conflict for the sake of those around him—and he enters it without hostility, without resentment, without resorting even to violent words. In the face of the fiercest provocation, he never lets himself forget that he and his attacker are one. This is the true spirit of ahimsa, or “nonviolence.” But ahimsa is more than just the absence of violence: It is the presence of justice and of love. Gandhi always made it perfectly clear that “the satyagrahi’s object is to convert, not to coerce, the wrongdoer.”
-    >
-    > ***
-    >
-    > Greater courage is required of the satyagrahi,” he often said, “than the run- of-the mill soldier with a gun in his hand. Any coward can be brave when holding a rifle.
+> Because he wants nothing for himself, the true satyagrahi is not afraid of entering any conflict for the sake of those around him—and he enters it without hostility, without resentment, without resorting even to violent words. In the face of the fiercest provocation, he never lets himself forget that he and his attacker are one. This is the true spirit of ahimsa, or “nonviolence.” But ahimsa is more than just the absence of violence: It is the presence of justice and of love. Gandhi always made it perfectly clear that “the satyagrahi’s object is to convert, not to coerce, the wrongdoer.”
+>
+> ***
+>
+> "Greater courage is required of the satyagrahi,” he \[Gandhi] often said, “than the run- of-the mill soldier with a gun in his hand. Any coward can be brave when holding a rifle.
 
 Parting words:
 

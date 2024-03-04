@@ -10,8 +10,8 @@
 [the-great-work.md](../../../indian/hinduism/bhagavad-gita/the-great-work.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../indian/buddhism/early-buddhism/pali-canon/dhammapada.md" %}
-[dhammapada.md](../../../indian/buddhism/early-buddhism/pali-canon/dhammapada.md)
+{% content-ref url="../../../indian/buddhism/early-buddhism/dhammapada.md" %}
+[dhammapada.md](../../../indian/buddhism/early-buddhism/dhammapada.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../../indian/buddhism/early-buddhism/various-authors/thanissaro-bhikkhu/integrity-of-emptiness.md" %}

@@ -88,7 +88,7 @@ A book about finding and executing one's "dharma" - sacred vocation or duty (one
    
    > She wrote in her journal: “When \[God] is moving you toward a new consciousness, you need to recognize the winds of change at once, move with them instead of clinging to what is already gone.”
    
-   Integration of shadow:&#x20;
+   Integrate with your shadow:
 
     > Marion discovered an underlying theme in her clients’ dreams. She discovered that her addicted clients lived divided lives—lives split between body and soul, between perfection and imperfection, between light and dark. Healing came about through integrating these “pairs of opposites.” She came into an understanding of the way in which longing for our idealized images of life separates us from our true selves and from our true callings.
 

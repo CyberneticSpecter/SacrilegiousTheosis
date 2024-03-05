@@ -94,7 +94,7 @@ Ordinary persons are then Selves bound in Prakriti (Chapter 14). The goal is unb
 
 #### **Other aspects**
 
-<mark style="color:purple;">Elements of actions</mark> _(17:13-15):_
+<mark style="color:purple;">Elements of actions</mark> (17:13-15)
 
 1. Divine Will
 2. Means
@@ -191,7 +191,7 @@ Gita ranks different Yogas differently in different chapter taking the perspecti
 
 #### **Meditation Guide**
 
-1. Sit in a straight posture to prevent drowsiness
+1. Sit in a straight posture to prevent drowsiness.
 2. Concentrate one-pointedly on a single object (perhaps the position between the eyebrows) free from expectations and attachment to material possessions (6:10-15,8:9-10)
 3. Set God/Self as the only goal (6:10-15).
 

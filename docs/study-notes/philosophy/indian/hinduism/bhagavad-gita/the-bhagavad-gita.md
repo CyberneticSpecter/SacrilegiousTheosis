@@ -16,6 +16,8 @@ The formula for peace, "self-realization", and freedom from the hamster wheel of
 
 The manifest world is made of the interaction of changeless Purusha (observer) and changing Prakriti (Nature).  Ordinarily Purusha is bound up in the streams of activities of Prakriti but Purusha's essence is independent of Prakriti. God accommodates both Prakriti and all Purushas (He lies in the heart of all individuals) but also transcends them both (potentially Panentheistic). The goal is for the Purusha to unbind from the play of Prakriti and rest in union with the deeper essence of God.&#x20;
 
+***
+
 ### Narrative Context
 
 * Arjuna was going to wage war (for reasons). Finds out he have to fight against his own relatives, masters, and uncles. This paralyzes him and confuses him. Unable to act and decide what to do - he asks Krishna -- his charioteer -- for advice. Krishna gives him spiritual lessons and in-between reveals himself as God.

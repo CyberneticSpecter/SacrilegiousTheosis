@@ -252,15 +252,15 @@ Gunas as levels of consciousness:
 2. **Rajas** - ordinary mind - incessant stream of thoughts; desiring, worrying, resenting, scheming, competing, frustrating, and getting frustrated. Rajas is power released but uncontrolled and egocentric.
 3. **Sattva** - higher mind - controlled - equanimous - not a state of repressive regulation, but the natural harmony that comes with unity of purpose, character, and desire
 
-(The above texts are adapted from the introduction)
-
-May have some similarities to Plato's Tripartite division of soul. Also see [here](https://blisscredo.com/plato-ethics-bhagavad-gita-morals-3-amazing-similarities/).&#x20;
-
 Gunas as personality factors:
 
-1. **Tamasic person** - ignorant, drowsy, confused, infatuated, intoxicated, indifferent, sluggish etc.
+1. **Tamasic person** - ignorant, drowsy, confused, infatuated, intoxicated, indifferent, sluggish, etc.
 2. **Rajasic person** - passionate, selfish, engaged in desiring, worrying, anxiety, anger, competitiveness, frustration, etc. (can still have a clear perspective, deliberative and calculative actions compared to Tamasic people)
 3. **Sattvic person** - controlled, equanimous, harmonious, self-regulated, disciplined, selfless
+
+(The above texts are adapted from the introduction)
+
+May have some similarities to Plato's Tripartite division of soul. Also, see [here](https://blisscredo.com/plato-ethics-bhagavad-gita-morals-3-amazing-similarities/).&#x20;
 
 Persons (by person, I mean the self-prakriti bound entity as a whole rather than Purusha) too are mixtures of the three gunas. Different persons can have different gunas as predominant. Gunas can be thought of as different types of personality dispositions.
 

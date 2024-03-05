@@ -25,12 +25,12 @@ The manifest world is made of the interaction of changeless Purusha (observer) a
 
 The metaphysics and theology borrows elements from Upanishads and Sankhya philosophy. Gita maintains a Sankhya dualism where there are two distinct ontic things:
 
-* (O1.) The Self (Purusha) - The Atman - The witness - the Knower of the "field"; Pure Consciousness.
-* (O2.) The Prakriti - the mind-and-matter "field"
+* The Self (Purusha) - The Atman - The witness - the Knower of the "field"; Pure Consciousness.
+* The Prakriti - the mind-and-matter "field"
 
 There is, however, a third aspect, besides Purusha/Self/Spirit and Prakriti, that is also mentioned (15:16-19):
 
-* (O3.) The Supreme Self - The Godhead
+* The Supreme Self - The Godhead
 
 #### **Purusha**
 

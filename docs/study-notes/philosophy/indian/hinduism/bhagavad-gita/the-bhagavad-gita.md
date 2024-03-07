@@ -10,7 +10,7 @@ The formula for peace, "self-realization", and freedom from the hamster wheel of
 
 1. Act without selfish desires. Engage in selfless service. All under the singleness of purpose - of self-realization.
 2. Renunciate fruits of actions. Act for whatever goals, but don't attach to any particular range of possible outcomes. Whatever happens in the end happens. If nothing turns out as you prefer, then so it would be.&#x20;
-3. Develop one-pointed concentration in meditation. FConsider the area between the eyebrows as a meditation object to focus on one-pointedly.&#x20;
+3. Develop one-pointed concentration in meditation. Consider the area between the eyebrows as a meditation object to focus on one-pointedly.&#x20;
 
 <mark style="color:purple;">Metaphysics:</mark>
 

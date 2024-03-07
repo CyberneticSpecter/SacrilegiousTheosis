@@ -14,18 +14,18 @@ The formula for peace, "self-realization", and freedom from the hamster wheel of
 
 <mark style="color:purple;">Metaphysics:</mark>
 
-The manifest world is made of the interaction of changeless Purusha (observer) and changing Prakriti (Nature).  Ordinarily Purusha is bound up in the streams of activities of Prakriti but Purusha's essence is independent of Prakriti. God accommodates both Prakriti and all Purushas (He lies in the heart of all individuals) but also transcends them both (potentially Panentheistic). The goal is for the Purusha to unbind from the play of Prakriti and rest in union with the deeper essence of God.&#x20;
+The manifest world is made of the interaction of changeless Purusha (observer) and changing Prakriti (Nature).  Ordinarily, Purusha is bound up in the streams of Prakriti's activities, but Purusha's essence is independent of Prakriti. God accommodates both Prakriti and all Purushas (He lies in the heart of all individuals) but also transcends them both (potentially Panentheistic). The goal is for the Purusha to unbind from the play of Prakriti and rest in union with the deeper essence of God.&#x20;
 
 ***
 
 ### Narrative Context
 
-* Arjuna was going to wage war (for reasons). Finds out he have to fight against his own relatives, masters, and uncles. This paralyzes him and confuses him. Unable to act and decide what to do - he asks Krishna -- his charioteer -- for advice. Krishna gives him spiritual lessons and in-between reveals himself as God.
-* Eknath (in his commentary) interprets Bhagavad Gita to be inserted into Mahabharata after the fact. He doesn't think that Gita supports "just war"; indeed, there are plenty of recommendations (12:13, 13:27–28, 16:4) for ahimsa (non-violence). Instead the dialogue, in his interpretation, represents an internal struggle - a dialogue between a ordinary person with his deepest (divine) Self (represented as Krishna) within himself (10:20).
+* Arjuna was going to wage war (for reasons). He finds out he has to fight against his own relatives, masters, and uncles. This paralyzes him and confuses him. Unable to act and decide what to do - he asks Krishna -- his charioteer -- for advice. Krishna gives him spiritual lessons and, in between, reveals himself as God.
+* Eknath (in his commentary) interprets Bhagavad Gita to be inserted into Mahabharata after the fact. He doesn't think that Gita supports "just war"; indeed, there are plenty of recommendations (12:13, 13:27–28, 16:4) for ahimsa (non-violence). Instead, the dialogue, in his interpretation, represents an internal struggle - a dialogue between an ordinary person with his deepest (divine) Self (represented as Krishna) within himself (10:20).
 
 ### Metaphysics and Theology
 
-The metaphysics and theology borrows elements from Upanishads and Sankhya philosophy. Gita maintains a Sankhya dualism where there are two distinct ontic things:
+Metaphysics and theology borrow elements from the Upanishads and Sankhya philosophy. Gita maintains a Sankhya dualism where there are two distinct ontic things:
 
 * The Self (Purusha) - The Atman - The witness - the Knower of the "field"; Pure Consciousness.
 * The Prakriti - the mind-and-matter "field"
@@ -58,13 +58,13 @@ Prakriti (mind-matter field) constituents:
 
 Desire, aversion, pleasure, pain, etc., happen in Prakriti/Field (13:5). All agency is said to happen in Prakriti (13:19-22).
 
-Prakriti is the whole of mind-matter ("name-and-form") stuff. Here, mind refers not to the more inclusive notion of mind in Western philosophy (which may include the subject of experience - the Purusha as part of it) but refers to the sum total of mental objects and capacities - e.g. conceptualization, thoughts, discrimination, etc. (also broadly categorized as "name"); whereas matter possibly refers to corporeality. So although we see a dualism between Prakriti and Purusha - it's not straightforwardly a mind-matter dualism as we find in Western philosophy -- although if the matter is merely understood as phenomenal objects then even Western philosophers don't maintain a strict dualism.
+Prakriti is the whole of mind-matter ("name-and-form") stuff. Here, mind refers not to the more inclusive notion of mind in Western philosophy (which may include the subject of experience - the Purusha as part of it) but refers to the sum total of mental objects and capacities - e.g. conceptualization, thoughts, discrimination, etc. (also broadly categorized as "name"); whereas matter possibly refers to corporeality. So, although we see a dualism between Prakriti and Purusha - it's not straightforwardly a mind-matter dualism as we find in Western philosophy -- although if the matter is merely understood as phenomenal objects, then even Western philosophers don't maintain a strict dualism.
 
 While Eknath seems to take Prakriti as constitutive of phenomenal objects, not things-in-itself, some passages seem to suggest that Prakriti cannot manifest - without the light of the Self/Purusha - suggesting that Prakriti exists in itself (independent of the Self) whereas the phenomenal objects are the union of Self and Prakriti (13:26, 13:33-34).
 
 #### **Godhead - the supreme Self**
 
-The Godhead transcends both The Self and The Prakriti - but at the same time it is immanent - it is also The Self of all creatures (10:20) and Prakriti is its "womb" where it plants the seeds for creation and change (14:3-4). Thus, both the Self, and The Prakriti seems to be part of one whole monistic reality of the Supreme Self. The Godhead supports everything (7:6-11). The Godhead is also is time - devourer of all (10:32) and preserver (13:12-15). Brahman (Godhead?) is neither being nor non-being (13:12-15). The Purusha-Prakriti dynamics are parts of the Godhead as a whole. Ultimately, the Godhead is beyond both the changeless (Self) and changing (Prakriti) (15:16-19).
+The Godhead transcends both The Self and The Prakriti - but at the same time, it is immanent - it is also The Self of all creatures (10:20), and Prakriti is its "womb" where it plants the seeds for creation and change (14:3-4). Thus, both the Self and Prakriti seem to be part of one whole monistic reality of the Supreme Self. The Godhead supports everything (7:6-11). The Godhead is also time - devourer of all (10:32) and preserver (13:12-15). Brahman (Godhead?) is neither being nor non-being (13:12-15). The Purusha-Prakriti dynamics are parts of the Godhead as a whole. Ultimately, the Godhead is beyond both the changeless (Self) and changing (Prakriti) (15:16-19).
 
 Godhead has an unmanifested essential nature - it's the unmoved mover - unmoved and undisturbed by the movements of Prakriti - unattached from the movements of Prakriti is like the movement of wind in space (9:4-9).
 
@@ -169,7 +169,7 @@ Renunciation from all actions - is impossible while living (18:11-12). Even a Sa
 
 Point (1) is not just outwards altruism out of some selfish motivation (even if to indulge in one's own sense of self-importance of being a generous giver) but purely out of a sense of obligation and goodwill.
 
-Point (2) doesn't mean you don't keep a goal in mind - but it is being unmoved with however the outcome turns out (whether in or against your favor) i.e. serving diligently towards some goal (ideally selfless and altruistic) but not clinging to this goal. This is close to Stoic Wisdom of doing what you can do to the best of your ability but not worrying about the result - because beyond what you have done, how the exact outcome turns out is not up to you - so no point worrying over it.
+Point (2) doesn't mean you don't keep a goal in mind - but it is being unmoved with however the outcome turns out (whether in or against your favor), i.e., serving diligently towards some goal (ideally selfless and altruistic) but not clinging to this goal. This is close to the Stoic Wisdom of doing what you can do to the best of your ability but not worrying about the result - because beyond what you have done, how the exact outcome turns out is not up to you - so there is no point worrying over it.
 
 From Gandhi (taken from the introduction of the book):
 
@@ -177,7 +177,7 @@ From Gandhi (taken from the introduction of the book):
 >
 > “But renunciation of fruit,” Gandhi warns, in no way means indifference to the result. In regard to every action one must know the result that is expected to follow, the means thereto, and the capacity for it. He who, being thus equipped, is without desire for the result and is yet wholly engrossed in the due fulfillment of the task before him, is said to have renounced the fruits of his action.
 
-Doing (2) removes anxiety and instantly provides peace and in face may help us being better at doing what we do. Metaphysically it's also purported to take one beyond affects of Karma (4:19-23).
+Doing (2) removes anxiety and instantly provides peace and, in fact, may help us be better at doing what we do. Metaphysically, it's also purported to take one beyond the effects of Karma (4:19-23).
 
 > This attitude frees us completely. Whatever comes – success or failure, praise or blame, victory or defeat – we can give our best with a clear, unruffled mind. Nothing can shake our courage or break our will; no setback can depress us or make us feel “burned out.” Clearly, as the Gita says, “Yoga is skill in action” (2:50). (from introduction)
 
@@ -187,9 +187,9 @@ Point (3) could be effectively the same as point (1). Acting in service of God c
 
 Gita also says that the path of action and knowledge is ultimately the same (5:4-5).
 
-Meditation can be helpful to build discipline, stillness, inwardness, devotion etc. if they are lacking.
+Meditation can be helpful in building discipline, stillness, inwardness, devotion, etc., if they are lacking.
 
-Gita ranks different Yogas differently in different chapter taking the perspective of different Yogi. Probably better to just do all the yoga in an integrated fashion (like Buddhist eightfold paths) although doing only one is probably better than nothing or just engaging in mechanical ritual practices.&#x20;
+Gita ranks different Yogas differently in different chapters, taking the perspective of different Yogi. It is probably better to just do all the yoga in an integrated fashion (like Buddhist eightfold paths), although doing only one is probably better than doing nothing or just engaging in mechanical ritual practices.&#x20;
 
 #### **Meditation Guide**
 

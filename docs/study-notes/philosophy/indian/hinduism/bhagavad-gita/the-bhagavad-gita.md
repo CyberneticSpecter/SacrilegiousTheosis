@@ -12,7 +12,7 @@ The formula for peace, "self-realization", and freedom from the hamster wheel of
 2. Renunciate fruits of actions. Act for whatever goals, but don't attach to any particular range of possible outcomes. Whatever happens in the end happens. If nothing turns out as you prefer, then so it would be.&#x20;
 3. Develop one-pointed concentration in meditation. Consider the area between the eyebrows as a meditation object to focus on one-pointedly.&#x20;
 
-<mark style="color:purple;">Metaphysics:</mark>
+<mark style="color:purple;">Metaphysics</mark>
 
 The manifest world is made of the interaction of changeless Purusha (observer) and changing Prakriti (Nature).  Ordinarily, Purusha is bound up in the streams of Prakriti's activities, but Purusha's essence is independent of Prakriti. God accommodates both Prakriti and all Purushas (He lies in the heart of all individuals) but also transcends them both (potentially Panentheistic). The goal is for the Purusha to unbind from the play of Prakriti and rest in union with the deeper essence of God.&#x20;
 
@@ -337,7 +337,7 @@ The master can remain calm during death. Progressively getting into subtler and 
 
 1. Gita also presents a sort of caste system. Each caste is associated with certain duties and dispositions (18:40-44).
 2. Anyone from any caste can achieve \`perfection'  (Gita doesn't seem to explicitly discriminate among the castes as superior vs inferior) (18:45-46).
-3. Gita doesn't seem to espouse any sort of social caste inheritance from family explicitly.
+3. Gita doesn't seem to explicitly espouse any sort of social caste inheritance from family.
 4. It suggests that one should do the duty one is born with (which could refer to some form of natural dispositions rather than social or cultural inheritance) (18:47-48). One's dispositions would compel or lean towards completing the relevant duties (18:59-60).
 5. It's better to do one's own duties than others' (3:35, 18:47-48).
 6. This possibly leans toward a ["true will/Great work"](https://en.wikipedia.org/wiki/Great\_Work\_\(Thelema\)) style philosophy.

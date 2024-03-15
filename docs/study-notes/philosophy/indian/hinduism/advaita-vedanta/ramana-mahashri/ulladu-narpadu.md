@@ -1,6 +1,6 @@
 # Ulladu Narpadu
 
-Notes from: [Ulladu Narpadu - Ramana Mahashri](https://ropeandsnake.files.wordpress.com/2020/10/ulladu-narpadu-with-supplement.pdf)
+Notes from: [Ulladu Narpadu - Ramana Maha](https://ropeandsnake.files.wordpress.com/2020/10/ulladu-narpadu-with-supplement.pdf)[rshi](https://ropeandsnake.files.wordpress.com/2020/10/ulladu-narpadu-with-supplement.pdf)
 
 > Unless Reality exists, can thought of it arise? Since, devoid of thought, Reality exists within as Heart, how to know the Reality we term the Heart? To know That is merely to be That in the Heart.
 

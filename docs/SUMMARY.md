@@ -40,7 +40,7 @@
         * [The Bhagavad Gita](study-notes/philosophy/indian/hinduism/bhagavad-gita/the-bhagavad-gita.md)
         * [The Great Work](study-notes/philosophy/indian/hinduism/bhagavad-gita/the-great-work.md)
       * [Advaita Vedanta](study-notes/philosophy/indian/hinduism/advaita-vedanta/README.md)
-        * [Ramana Mahashri](study-notes/philosophy/indian/hinduism/advaita-vedanta/ramana-mahashri/README.md)
+        * [Ramana Maharshi](study-notes/philosophy/indian/hinduism/advaita-vedanta/ramana-mahashri/README.md)
           * [Upadesa Saram](study-notes/philosophy/indian/hinduism/advaita-vedanta/ramana-mahashri/upadesa-saram.md)
           * [Ulladu Narpadu](study-notes/philosophy/indian/hinduism/advaita-vedanta/ramana-mahashri/ulladu-narpadu.md)
     * [Buddhism](study-notes/philosophy/indian/buddhism/README.md)

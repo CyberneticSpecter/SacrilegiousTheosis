@@ -62,6 +62,7 @@
       * [Deliberate Practice](study-notes/skills/learning/deliberate-practice/expert-performance.md)
     * [On Reading Books Fast and Retaining](study-notes/skills/learning/on-reading-books-fast-and-retaining.md)
     * [Feynman Technique](study-notes/skills/learning/feynman-technique.md)
+    * [Teaching the Science of Learning](study-notes/skills/learning/teaching-the-science-of-learning.md)
   * [Memory](study-notes/skills/memory/README.md)
     * [Victorious Mind](study-notes/skills/memory/victorious-mind.md)
   * [Meditation](study-notes/skills/meditation.md)

@@ -1,5 +1,7 @@
 # Updates
 
+4/3/2024: [teaching-the-science-of-learning.md](../study-notes/skills/learning/teaching-the-science-of-learning.md "mention")
+
 3/3/2024: [the-bhagavad-gita.md](../study-notes/philosophy/indian/hinduism/bhagavad-gita/the-bhagavad-gita.md "mention")
 
 3/2/2024: [dhammapada.md](../study-notes/philosophy/indian/buddhism/early-buddhism/dhammapada.md "mention")

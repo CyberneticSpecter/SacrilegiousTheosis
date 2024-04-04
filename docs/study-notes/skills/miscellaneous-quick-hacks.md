@@ -10,4 +10,5 @@
 8. Remove friction for stuff you want to do; increase friction for stuff you don't want to do. Manipulate the environment to control friction.
 9. Jot down any thoughts about actions/tasks to do. Put it in some prioritized list format - eg. [Eisenhower Matrix](https://asana.com/resources/eisenhower-matrix) or some personal variation. Free your subconscious from looping over all the things to do.&#x20;
 10. Relapse is natural. Don't take it personally - don't make a big deal about it. Remove bad habit cues. Maintain sustained attention/intention. Don't get complacent.
+11. Filter ruthlessly (frame and re-frame the present) based on the future (ideal future vision).
 

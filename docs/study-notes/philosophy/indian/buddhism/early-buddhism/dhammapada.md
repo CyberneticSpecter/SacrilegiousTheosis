@@ -7,14 +7,15 @@ Notes from: [Dhammapada](https://www.buddhanet.net/pdf\_file/scrndhamma.pdf) - S
 1. Abandon ill will and anger; Doing evil is ultimately self-harm. Harming others&#x20;
 2. Restrain everywhere - particularly from sensual inducements of any kind
 3. Don't mistake unessential for essential or vice-versa
-4. The peaceful lives happily abandoning both victory and defeat
-5. Find Fault in Yourself, Not Others
-6. 1 day of meditation is better than 100 years of immorality
-7. Fear heedlessness - Don't give in to Sensuality; Delight in heedfulness!!
-8. The Wise maintains Equanimity
-9. Cultivate universal love
-10. Sustain Vigor!
-11. Hasten to do good. Restrain from Evil! Urgent!
+4. Ones living in peace happily abandon both victory and defeat
+5. Laughter and (excessive?) jubilation are not necessarily appropriate in the face of widespread suffering (even if they are not occurring at your immediate face literally)
+6. Find Fault in Yourself, Not Others
+7. 1 day of meditation is better than 100 years of immorality
+8. Fear heedlessness - Don't give in to Sensuality; Delight in heedfulness!!
+9. The Wise maintains Equanimity.
+10. Cultivate universal love
+11. Sustain Vigor!
+12. Hasten to do good. Restrain from Evil! Urgent!
 
 #### Selected Quotes:
 

@@ -1,5 +1,7 @@
 # Updates
 
+4/13/2024: [dr.-k-dopamine-management.md](../study-notes/dr.-k-dopamine-management.md "mention")
+
 4/3/2024: [teaching-the-science-of-learning.md](../study-notes/skills/learning/teaching-the-science-of-learning.md "mention")
 
 3/3/2024: [the-bhagavad-gita.md](../study-notes/philosophy/indian/hinduism/bhagavad-gita/the-bhagavad-gita.md "mention")

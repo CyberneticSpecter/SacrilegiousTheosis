@@ -1,6 +1,6 @@
 # Updates
 
-4/13/2024: [dr.-k-dopamine-management.md](../study-notes/dr.-k-dopamine-management.md "mention")
+4/13/2024: [dr.-k-dopamine-management.md](../study-notes/skills/productivity-and-discipline/dr.-k-dopamine-management.md "mention")
 
 4/3/2024: [teaching-the-science-of-learning.md](../study-notes/skills/learning/teaching-the-science-of-learning.md "mention")
 

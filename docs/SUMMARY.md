@@ -69,9 +69,9 @@
   * [Integrity](study-notes/skills/integrity/README.md)
     * [Thoughts on Self-Integrity](study-notes/skills/integrity/thoughts-on-self-integrity.md)
     * [Links](study-notes/skills/integrity/links.md)
+  * [Productivity & Discipline](study-notes/skills/productivity-and-discipline/README.md)
+    * [Dr. K Dopamine Management](study-notes/skills/productivity-and-discipline/dr.-k-dopamine-management.md)
   * [Miscellaneous Hacks](study-notes/skills/miscellaneous-quick-hacks.md)
-* [Productivity & Discipline](study-notes/productivity-and-discipline.md)
-* [Dr. K Dopamine Management](study-notes/dr.-k-dopamine-management.md)
 
 ## Miscellaneous
 

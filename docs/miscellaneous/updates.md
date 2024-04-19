@@ -1,6 +1,6 @@
 # Updates
 
-4/19/2024: [non-zero-days.md](../study-notes/skills/productivity-and-discipline/non-zero-days.md "mention")
+4/19/2024: [non-zero-days.md](../study-notes/skills/productivity-and-discipline/non-zero-days.md "mention"), [stop-learning-start-thinking.md](../study-notes/skills/learning/stop-learning-start-thinking.md "mention")
 
 4/13/2024: [dr.-k-dopamine-management.md](../study-notes/skills/productivity-and-discipline/dr.-k-dopamine-management.md "mention")
 

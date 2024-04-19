@@ -72,7 +72,7 @@
   * [Productivity & Discipline](study-notes/skills/productivity-and-discipline/README.md)
     * [Dr. K Dopamine Management](study-notes/skills/productivity-and-discipline/dr.-k-dopamine-management.md)
     * [Non-Zero Days](study-notes/skills/productivity-and-discipline/non-zero-days.md)
-  * [Miscellaneous Hacks](study-notes/skills/miscellaneous-quick-hacks.md)
+    * [Miscellaneous Hacks](study-notes/skills/productivity-and-discipline/miscellaneous-quick-hacks.md)
 
 ## Miscellaneous
 

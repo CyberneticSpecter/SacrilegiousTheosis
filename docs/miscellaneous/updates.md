@@ -24,7 +24,7 @@ Beginning - 2/10/2024:&#x20;
 
 &#x20;[thoughts-on-self-integrity.md](../study-notes/skills/integrity/thoughts-on-self-integrity.md "mention"), [integrity-of-emptiness.md](../study-notes/philosophy/indian/buddhism/early-buddhism/various-authors/thanissaro-bhikkhu/integrity-of-emptiness.md "mention") &#x20;
 
-[expert-performance.md](../study-notes/skills/learning/deliberate-practice/expert-performance.md "mention"), [miscellaneous-quick-hacks.md](../study-notes/skills/miscellaneous-quick-hacks.md "mention")
+[expert-performance.md](../study-notes/skills/learning/deliberate-practice/expert-performance.md "mention"), [miscellaneous-quick-hacks.md](../study-notes/skills/productivity-and-discipline/miscellaneous-quick-hacks.md "mention")
 
 [..](../ "mention"), [status.md](../my-books/on-what-to-be/status.md "mention"), [philosophical-devices.md](../study-notes/philosophy/general/epistemology/formal-philosophy/probability/philosophical-devices.md "mention"), [philosophical-devices.md](../study-notes/philosophy/general/metaphysics/causation/philosophical-devices.md "mention")
 

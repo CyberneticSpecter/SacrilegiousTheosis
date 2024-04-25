@@ -1,4 +1,4 @@
-# Introduction
+# Start Here
 
 ### About the Website
 
@@ -34,7 +34,7 @@ But a few points about my Gitbook notes:
 
 In this section, I am planning to work on books. These will be long-term projects (nothing much has been done yet) - you will probably not see much in this section in the near term.&#x20;
 
-Currently, I am working on a book titled "On What to Be." I explain the topic below:
+Currently, I am working on a book titled "The Philosophical Gamble." I explain the topic below:
 
 {% content-ref url="my-books/on-what-to-be/draft-1/chapters/chapter-1-introduction.md" %}
 [chapter-1-introduction.md](my-books/on-what-to-be/draft-1/chapters/chapter-1-introduction.md)

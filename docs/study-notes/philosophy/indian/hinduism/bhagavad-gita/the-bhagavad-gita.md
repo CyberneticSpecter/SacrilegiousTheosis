@@ -36,7 +36,7 @@ There is, however, a third aspect, besides Purusha/Self/Spirit and Prakriti, tha
 
 #### **Purusha**
 
-The true Self (Purusha) is said to a detached changeless witness - the enjoyer of the show of prakriti (the changing phenomenal world). It (Purusha) is said to perform no action and neither be touched by any act. Agency and everything happen within Prakriti (13:19-22, 13:29-32, 13:5).
+The true Self (Purusha) is said to be a detached changeless witness - the enjoyer of the show of Prakriti (the changing phenomenal world). It (Purusha) is said to perform no action and neither be touched by any act. Agency and everything happen within Prakriti (13:19-22, 13:29-32, 13:5).
 
 The Self is "unmanifest" (2:23)- the manifest are the objects witnessed by the Self - not the Self itself.&#x20;
 

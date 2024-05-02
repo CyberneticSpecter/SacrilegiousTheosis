@@ -4,7 +4,7 @@
 
 ## My Books
 
-* [The Philosophical Gamble: Gambling with Life and Death](my-books/on-what-to-be/README.md)
+* [The Philosophical Gamble](my-books/on-what-to-be/README.md)
   * [Status](my-books/on-what-to-be/status.md)
   * [Draft 1](my-books/on-what-to-be/draft-1/README.md)
     * [Chapters](my-books/on-what-to-be/draft-1/chapters/README.md)

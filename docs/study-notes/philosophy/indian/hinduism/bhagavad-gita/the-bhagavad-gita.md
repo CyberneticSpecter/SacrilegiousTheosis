@@ -114,7 +114,7 @@ Ordinary persons are then Selves bound in Prakriti (Chapter 14). The goal is unb
 
 > Though the word is not used in the Gita, the idea of the world as Krishna’s lila, his play, became a cherished theme of later Hinduism. Krishna, it is said, created the world in play: just as a child might desire to have companions to play with, Krishna desired companions, and made the world. Krishna participates in the game of life; his divine qualities shine through in the world wherever there is excellence of any kind. He is, he tells Arjuna, the essence of every created thing: the sapidity of water, the brightness of fire, the effort of the spiritual aspirant. This may be what is meant by the vijnana of our title – the mystic’s vision of the divine as present here and now is perhaps the real meaning of the term.
 
-<mark style="color:yellow;">**Cosmology**</mark>
+<mark style="color:blue;">**Cosmology**</mark>
 
 Cyclical Cosmology
 

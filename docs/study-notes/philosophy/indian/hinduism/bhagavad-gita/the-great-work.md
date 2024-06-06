@@ -6,13 +6,13 @@ Notes from: [The Great Work of Your Life - Stephen Cope](https://www.goodreads.c
 
 Dhamma - the vocational role most suited for you based on your nature and environmental circumstances at the moment.
 
-<mark style="color:purple;">Finding your dhamma</mark>
+<mark style="color:blue;">**Finding your dhamma**</mark>
 
 1. Consider your talents/gifts. Your dhamma is probably in the ballpark related to your gift.
 2. The dhamma does not need to be anything grandiose.
 3. Be sensitive to the call of time. Your dhamma may change. One dhamma may get completed, and another dhamma may arise.&#x20;
 
-<mark style="color:purple;">Executing dhamma</mark>
+<mark style="color:blue;">**Executing dhamma**</mark>
 
 1. Put complete focus on it. Achieve singleness of purpose. Remove unessentials.
 2. Perform [expert-performance.md](../../../../skills/learning/deliberate-practice/expert-performance.md "mention")
@@ -21,11 +21,11 @@ Dhamma - the vocational role most suited for you based on your nature and enviro
 5. Have faith in "divine guidance".
 6. Turn yourself to zero. See the world as your Self. Love the world as your Self. Surrender to selfless service in love of the world.
 
-<mark style="color:purple;">Facing difficulties</mark>
+<mark style="color:blue;">**Facing difficulties**</mark>
 
 Avoid aversion to aversion ([the second arrow](https://suttacentral.net/sn36.6/en/sujato?lang=en\&layout=plain\&reference=\&notes=asterisk\&highlight=false\&script=latin)) during difficulties.  Face aversion head-on. Perhaps make a dhamma centering around your difficulties, if possible.
 
-<mark style="color:purple;">Example of Gandhi's strategy</mark>
+<mark style="color:blue;">**Example of Gandhi's strategy**</mark>
 
 1. Mantra Meditation.
 2. Bhagavad Gita - as a reference book
@@ -207,8 +207,8 @@ Craftsmanlike view of life
 ### Critique
 
 * How is doubt an affliction to abandon and also something we ought to be comfortable with by having "negative capability"?
-* Dharma seems to be sometimes framed as related to natural dispositions, sometimes related to the will of "God" - with a supernatural element in how to find "guidance" -- and then somehow it's also present when everything goes wrong - in which case we just face and endure difficulties or (forcibly?) try to find "meaning"? It feels like trying to do everything and effectively being nothing. For example - even if every decision turns out terrible in some irreversible way, the author could just say, "Yeah, you can make facing those difficulties your dharma". At that point, it feels like "anything goes as dharma" -- it then seems more like a psychological framing to deal with life.
-* The author seems to suggest that the "divine guidance" needs to be talked out -- suggesting consensus/approval of others (friends/mentor) is a sign of it being really "divine" - yet in other anecdotes, people carried out their "dharma" by doing things that others were not very keen on (e.g., Frost's painting journey). Also doesn't seem to have grounding in Gita.
+* Dharma seems to be sometimes framed as related to natural dispositions, sometimes related to the will of "God" - with a supernatural element in how to find "guidance" -- and then somehow it's also present when everything goes wrong - in which case we just face and endure difficulties or (forcibly?) try to find "meaning"? It feels like trying to do everything and effectively being nothing. For example - even if every decision turns out terrible in some irreversible way, the author could just say, "Yeah, you can make facing those difficulties your dharma." At that point, it feels like "anything goes as dharma" -- it then seems more like a psychological framing to deal with life.
+* The author seems to suggest that the "divine guidance" needs to be talked out -- suggesting consensus/approval of others (friends/mentor) is a sign of it being really "divine" - yet in other anecdotes, people carried out their "dharma" by doing things that others were not very keen on (e.g., Frost's painting journey). Also, it doesn't seem to have a grounding in Gita.
 * I wonder what the author's source is on separating "aspiration" from desire.
 * The problem with anecdotes is [survivorship bias](https://thedecisionlab.com/biases/survivorship-bias). There could be plenty of stories where people tried out what is recommended but didn't turn out well.
 * I'm not sure about the relevance of shadow work to Gita.

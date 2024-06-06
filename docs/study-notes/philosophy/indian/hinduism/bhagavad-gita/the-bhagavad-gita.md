@@ -6,15 +6,15 @@ Notes from: [The Bhagavad Gita - Eknath Easwaran](https://www.amazon.com/Bhagava
 
 <mark style="color:blue;">**Ethics**</mark>
 
-The formula for peace, "self-realization", and freedom from the hamster wheel of samsara according to Gita:
+The formula for peace, "self-realization," and freedom from the hamster wheel of samsara according to Gita:
 
-1. Act without selfish desires. Engage in selfless service. All under the singleness of purpose - of self-realization.
+1. Act without selfish desires. Engage in selfless service. Do it all under the singleness of purpose - of self-realization.
 2. Renunciate fruits of actions. Act for whatever goals, but don't attach to any particular range of possible outcomes. Whatever happens in the end happens. If nothing turns out as you prefer, then so it would be.&#x20;
 3. Develop one-pointed concentration in meditation. Consider the area between the eyebrows as a meditation object to focus on one-pointedly.&#x20;
 
-<mark style="color:yellow;">**Metaphysics**</mark>
+<mark style="color:blue;">**Metaphysics**</mark>
 
-The manifest world is made of the interaction of changeless Purusha (observer) and changing Prakriti (Nature).  Ordinarily, Purusha is bound up in the streams of Prakriti's activities, but Purusha's essence is independent of Prakriti. God accommodates both Prakriti and all Purushas (He lies in the heart of all individuals) but also transcends them both (potentially Panentheistic). The goal is for the Purusha to unbind from the play of Prakriti and rest in union with the deeper essence of God.&#x20;
+The manifest world comprises the interaction of changeless Purusha (observer) and changing Prakriti (Nature).  Ordinarily, Purusha is bound up in the streams of Prakriti's activities, but Purusha's essence is independent of Prakriti. God accommodates both Prakriti and all Purushas (He lies in the heart of all individuals) but also transcends them both (potentially Panentheistic). The goal is for the Purusha to unbind from the play of Prakriti and rest in union with the deeper essence of God.&#x20;
 
 ***
 
@@ -104,11 +104,11 @@ Ordinary persons are then Selves bound in Prakriti (Chapter 14). The goal is unb
 4. Ego
 5. Body
 
-<mark style="color:yellow;">**Karma: web of cause and effect**</mark>
+<mark style="color:blue;">**Karma: web of cause and effect**</mark>
 
 > Literally, the Sanskrit karma means something that is done. Often it can be translated as deed or action. The law of karma states simply that every event is both a cause and an effect. Every act has consequences of a similar kind, which in turn have further consequences and so on; and every act, every karma, is also the consequence of some previous karma. (From Introduction)
 
-<mark style="color:yellow;">**Lila - the world as Krishna's play for the desire for companion**</mark>&#x20;
+<mark style="color:blue;">**Lila - the world as Krishna's play for the desire for companion**</mark>&#x20;
 
 (doesn't seem explicit in Gita - a latter theology)
 
@@ -262,7 +262,7 @@ Gunas as personality factors:
 
 (The above texts are adapted from the introduction)
 
-May have some similarities to Plato's Tripartite division of soul. Also, see [here](https://blisscredo.com/plato-ethics-bhagavad-gita-morals-3-amazing-similarities/).&#x20;
+It may have some similarities to Plato's Tripartite division of the soul. Also, see [here](https://blisscredo.com/plato-ethics-bhagavad-gita-morals-3-amazing-similarities/).&#x20;
 
 Persons (by person, I mean the self-prakriti bound entity as a whole rather than Purusha) too are mixtures of the three gunas. Different persons can have different gunas as predominant. Gunas can be thought of as different types of personality dispositions.
 
@@ -286,7 +286,7 @@ Sattva is better than Rajas, which is better than Tamas. It is recommended to fi
 
 Sattva > Rajas > Tamas
 
-Ultimately, all the gunas has to be transcended - the true Self transcends the gunas (13:12-15)- since gunas are only part of the prakriti (and the Self is ultimately beyond it).
+Ultimately, all the gunas have to be transcended - the true Self transcends the gunas (13:12-15)- since gunas are only part of the Prakriti (and the Self is ultimately beyond it).
 
 > First tamas must be transformed into rajas – apathy and insensitiveness into energetic, enthusiastic activity.
 >
@@ -300,21 +300,21 @@ Ultimately, all the gunas has to be transcended - the true Self transcends the g
 
 Each gunas is associated with different sets of dispositions and overall 'Sradhanas' (meaning: "what's placed in heart" - a system of values and beliefs). The predominance of a guna manifests in particular ways in varies contexts (eg. actions, motivations ). Since Sattvic people are considered to be more virtuous than Rajasic people, who are considered to be more virtuous than Tamasic people -- their corresponding orientations can also serve as moral guidance (signifying how to be closer to being a Sattvic person)
 
-<mark style="color:yellow;">**Food preferences**</mark>
+<mark style="color:blue;">**Food preferences**</mark>
 
 > 8 Sattvic people enjoy food that is mild, tasty, substantial, agreeable, and nourishing, food that promotes health, strength, cheerfulness, and longevity. 9 Rajasic people like food that is salty or bitter, hot, sour, or spicy – food that promotes pain, discomfort, and disease. 10 Tamasic people like overcooked, stale, leftover, and impure food, food that has lost its taste and nutritional value. (17:8-10)
 
-<mark style="color:yellow;">**Gunas and motivations during actions**</mark>
+<mark style="color:blue;">**Gunas and motivations during actions**</mark>
 
-Sattvic people do selfless deeds in good faith out of obligation and goodwill. Rajasic people outwardly may appear to do selfless deed but upon selfish motivations - eg. for reputation, praise, respect, or feeding into one's sense of grandiosity. Tamasic people are confused and lack perspective. And so on. (see Chapter 17)
+Sattvic people do selfless deeds in good faith out of obligation and goodwill. Rajasic people outwardly may appear to do selfless deeds but upon selfish motivations - e.g., for reputation, praise, respect, or feeding into one's sense of grandiosity. Tamasic people are confused and lack perspective. And so on. (see Chapter 17)
 
 <mark style="color:blue;">**Gunas and knowledge**</mark>
 
 > 20 Sattvic knowledge sees the one indestructible Being in all beings, the unity underlying the multiplicity of creation. 21 Rajasic knowledge sees all things and creatures as separate and distinct. 22 Tamasic knowledge, lacking any sense of perspective, sees one small part and mistakes it for the whole. (18:20-22)
 
-<mark style="color:yellow;">**Gunas and the nature of happiness**</mark>&#x20;
+<mark style="color:blue;">**Gunas and the nature of happiness**</mark>&#x20;
 
-Only sattvic people can have long-term happiness (although may seem like poisonous in the beginning). Rajasic activities may provide some initial happiness but ends up being poisonous in the long-term. Happiness of tamasic people is delusion.
+Only sattvic people can have long-term happiness (although it may seem poisonous in the beginning). Rajasic activities may provide some initial happiness but end up being poisonous in the long term. The happiness of tamasic people is a delusion.
 
 > 36 Now listen, Arjuna: there are also three kinds of happiness. By sustained effort, one comes to the end of sorrow. 37 That which seems like poison at first, but tastes like nectar in the end – this is the joy of sattva, born of a mind at peace with itself. 38 Pleasure from the senses seems like nectar at first, but it is bitter as poison in the end. This is the kind of happiness that comes to the rajasic. 39 Those who are tamasic draw their pleasures from sleep, indolence, and intoxication. Both in the beginning and in the end, this happiness is a delusion. (18:36-39)
 
@@ -331,30 +331,32 @@ The master can remain calm during death. Progressively getting into subtler and 
 > 14 Those dying in the state of sattva attain the pure worlds of the wise. 15 Those dying in rajas are reborn among people driven by work. But those who die in tamas are conceived in the wombs of the ignorant. 16 The fruit of good deeds is pure and sattvic. The fruit of rajas is suffering. The fruit of tamas is ignorance and insensitivity. (14:14-16)
 
 * Sattvic people may incarnate in the worlds of the wise ones (see above).
-* "Demonic" and selfish people - who do things out of self-importance and lack belief in morality, God or anything - gets into downward spirals. Lust, greed, and anger are three gateways to hell (16:16-20).
+* "Demonic" and selfish people - who do things out of self-importance and lack belief in morality, God, or anything - get into downward spirals. Lust, greed, and anger are three gateways to hell (16:16-20).
 
 ### Sacred Duty
 
 1. Gita also presents a sort of caste system. Each caste is associated with certain duties and dispositions (18:40-44).
 2. Anyone from any caste can achieve \`perfection'  (Gita doesn't seem to explicitly discriminate among the castes as superior vs inferior) (18:45-46).
-3. Gita doesn't seem to explicitly espouse any sort of social caste inheritance from family.
+3. Gita doesn't seem to explicitly espouse any sort of social caste inheritance from the family.
 4. It suggests that one should do the duty one is born with (which could refer to some form of natural dispositions rather than social or cultural inheritance) (18:47-48). One's dispositions would compel or lean towards completing the relevant duties (18:59-60).
 5. It's better to do one's own duties than others' (3:35, 18:47-48).
 6. This possibly leans toward a ["true will/Great work"](https://en.wikipedia.org/wiki/Great\_Work\_\(Thelema\)) style philosophy.
 
 ### Critiques
 
-The idea of an inactive Self untouched by action doesn't make much sense. That would make the Self - causally transcendent. Then how can the "Self" be even bound? Such a Self can't be bonded or free - the spiritual path would be meaningless. Moreover, if the Self is action-less - in other words, causally impotent, how can we even speak about it? This is just the traditional [issue](https://people.duke.edu/\~fd13/2014/De\_Brigard\_2014\_JoCS.pdf) of [epiphenomenalism](https://plato.stanford.edu/entries/epiphenomenalism/). For any discriminating mind to be sensitive to the presence of Self, the Self have to have some causal effect to be sensitive about. Of course, we can always have God play the role of a deus ex machina or set up pre-established harmony, but why should we buy those conspiratorial models of the world? Mystical experiences? I am skeptical (see later paragraphs).&#x20;
+The idea of an inactive Self untouched by action doesn't make much sense. That would make the Self - causally transcendent.&#x20;
 
-Moreover, if the Self can't do anything - what do all these instructions mean? The Self cannot execute it. It seems it's only upto prakriti (and God?) whether it wants to free the "helpless" Self from it's Maya or not. But it seems like Gita is addressing the Self to do what the Prakriti can - which seems weird.&#x20;
+* Then how can the "Self" be even bound? Such a Self can't be bonded or free - the supposed spiritual path would be meaningless.&#x20;
+* Moreover, if the Self is action-less - in other words, causally impotent, how can we even speak about it? It has to be a conspiratorial coincidence where we are speaking about the Self without our speech mechanisms being causally sensitive (however, indirectly) to the presence of the Self. This is just the traditional [issue](https://people.duke.edu/\~fd13/2014/De\_Brigard\_2014\_JoCS.pdf) of [epiphenomenalism](https://plato.stanford.edu/entries/epiphenomenalism/). For any discriminating mind to be sensitive to the presence of the Self, the Self has to have some causal effect that other things can be sensitive to. Of course, we can always have God play the role of a deus ex machina or set up pre-established harmony, but why should we buy those conspiratorial models of the world? Mystical experiences? I am skeptical (see later paragraphs).&#x20;
+* Moreover, if the Self can't do anything - what do all these instructions mean? The Self cannot execute it if it is action-less. It seems it's only up to prakriti (and God?) whether it wants to free the "helpless" Self from its Maya or not. But it seems like Gita is addressing the Self to do what only the Prakriti can - which seems weird.&#x20;
 
-I had a mystical experience where it did phenomenologically seemed like I was a passive Witness - unmanifest - standing behind the phenomena of mind and matter - wherein everything happens on its own (even thinking appears just like external objects arising and passing away) - me - "The Witness" not doing anything other than witnessing.
+I had a quasi-mystical experience where it did phenomenologically seemed like I was a passive Witness - unmanifest - standing behind the phenomena of mind and matter - wherein everything happens on its own (even thought appears  just like external objects - arising and passing away without volitional control) - me - "The Witness" not doing anything other than witnessing.
 
-But now, I think it was partly illusory. Causation itself is a rather elusive concept and phenomenologically too - it's hard to pin down (just see [Hume](https://www.gutenberg.org/files/9662/9662-h/9662-h.htm)). It seems to me ordinary the mind tries to frame the world in terms of a causal model - projecting events in terms of causal rules (elements of these ideas are present in [Hume](https://www.gutenberg.org/files/9662/9662-h/9662-h.htm), [Kant](https://www.amazon.com/Critique-Reason-Cambridge-Works-Immanuel/dp/0521657296/)). This causal model is ordinarily also associated with a self-model ([Metzinger](https://en.wikipedia.org/wiki/Self\_model)) that is associated with a self as a controller and source of causal enaction. But this is only a form of cognitive projection - an appearance - which can be altered in certain "mystical" states - resulting in another form of appearance. But neither appearance is necessarily the "truth". The truth is probably somewhat in between.
+But, now, I think it was partly illusory. Causation itself is a rather elusive concept and phenomenologically too - it's hard to pin down (just see [Hume](https://www.gutenberg.org/files/9662/9662-h/9662-h.htm)). It seems to me that, ordinarily, the mind tries to frame the world in terms of a causal model - projecting events in terms of causal rules (elements of these ideas are present in both [Hume](https://www.gutenberg.org/files/9662/9662-h/9662-h.htm) and [Kant](https://www.amazon.com/Critique-Reason-Cambridge-Works-Immanuel/dp/0521657296/)). This causal model is ordinarily also associated with a self-model ([Metzinger](https://en.wikipedia.org/wiki/Self\_model)) that is associated with a self as a controller and source of causal enaction. But this is only a form of cognitive projection - an appearance - which can be altered in certain "mystical" states - resulting in another form of appearance. But neither appearance is necessarily the complete "truth". The truth is probably somewhat in between. We should be cautious about uncritically accepting (or rejecting) appearances at first glance - be it in a "mystical experience" induced after years of spiritual cultivation or not.
 
-So if it seems like X stands without causing anything, it doesn't mean it is not causing anything - seeming is not reality. This is why it's also unclear how much we can rely on mystical experiences for knowledge - without critical thought - especially given that there seems to be possible to different mystical experiences with mutually contradicting seemingness.
+So even if it seems like X stands without causing anything, it doesn't mean it is not actually causing anything. What seems to be is not always what is actually the case. This is why it's also unclear how much we can rely on mystical experiences for knowledge - without critical thought - especially given that it seems possible to have different mystical experiences with mutually contradicting seemingness.
 
-Moreover, I suspect that the hard distinction of Purusha-Prakriti separation is itself somewhat suspicious and artificial (and generally seems to be rejected in Advaita Vedanta, too). I had another "mystical experience" closer to Buddhism - where Purusha as a transcendent witnessing ground appeared superfluous - the phenomenal experience appeared just as objective events unfoloding with the quality of manifestedness - do we really require a "Self"? Can't there be "just the seen in the seen"?
+Moreover, I suspect that the hard distinction of Purusha-Prakriti separation is itself somewhat suspicious and artificial (and generally seems to be rejected in Advaita Vedanta, too). I had another "mystical experience" closer to Buddhism - where Purusha as a transcendent witnessing ground appeared superfluous - the phenomenal experience appeared just as objective events unfolding with the quality of manifestedness - do we really require a "Self"? Can't there be "just the seen in the seen"?
 
 Also see:
 

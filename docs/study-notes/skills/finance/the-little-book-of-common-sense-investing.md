@@ -24,7 +24,7 @@ Notes from [The Little Book of Common Sense Investing - John C. Bogle](https://w
 
 ***
 
-Bonds: Fixed-income securities.
+**Bonds:** Fixed-income securities.
 
 * Some principal (Face Value/Par Value) debted to corporation/government/municipalities etc.
 * The debtor pays some amount regularly (at the "coupon date") based on an agreed interest rate (coupon rate) for some X years.
@@ -38,12 +38,13 @@ Bonds: Fixed-income securities.
 
 ***
 
-Index funds can be ETFs or index mutual funds. ETFs tend to be passive but some are actively managed. ETF offer more flexibility in trading - intraday trading, margin trading etc. ETFs could be more tax efficient. Source: https://www.fidelity.com/learning-center/smart-money/etf-vs-index-fund
+**Index Funds vs ETFs:** Index funds can be ETFs (Exchange-Traded Funds) or index mutual funds. ETFs tend to be passive but some are actively managed. ETF offer more flexibility in trading - intraday trading, margin trading etc. ETFs could be more tax efficient. Source: [https://www.fidelity.com/learning-center/smart-money/etf-vs-index-fund](https://www.fidelity.com/learning-center/smart-money/etf-vs-index-fund)
 
 ***
 
 * Research for value investing may not be as viable in modern times.
 * Index funds - diverse, low cost, tax-efficient
 * Hold index bonds too -- learn about bond
-* Hold bond percentage according to age e.g. 20 percent when you are 20 years old. Bond more secure less risk. Better for older age.
+
+**Bogle's Strategy:** Hold bond percentage according to age e.g. 20 percent when you are 20 years old. Bond more secure less risk. Better for older age.
 

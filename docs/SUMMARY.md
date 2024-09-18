@@ -57,6 +57,8 @@
 * [Religion](study-notes/religion/README.md)
   * [Links](study-notes/religion/links.md)
 * [Skills](study-notes/skills/README.md)
+  * [Finance](study-notes/skills/finance/README.md)
+    * [The Little Book of Common Sense Investing](study-notes/skills/finance/the-little-book-of-common-sense-investing.md)
   * [Learning](study-notes/skills/learning/README.md)
     * [Expert Performance](study-notes/skills/learning/deliberate-practice/README.md)
       * [Deliberate Practice](study-notes/skills/learning/deliberate-practice/expert-performance.md)

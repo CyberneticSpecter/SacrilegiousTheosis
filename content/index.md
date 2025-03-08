@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Sacrilegious Theosis
 ---
-hello
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Digital Garden of Cybernetic Specter.

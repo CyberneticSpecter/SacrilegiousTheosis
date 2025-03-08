@@ -1,18 +1,23 @@
+---
+title: "Chapter 2: Appearance"
+draft: false
+tags:
+  - philosophy
+  - epistemology
+---
 ## Epistemology
 
-To answer "what to do?", presumably, we need to know something about ourselves, the world, and our place in the world. This raises the question - "how do we know stuff?" 
+To answer "what to do?", we need knowledge about the world and our place in it. This raises the question - "how do we know stuff?" 
 
 This leads us to "epistemology".
 
 Roughly speaking, epistemology is a subject that deals with topics related to knowledge, justification, warrant, evidence, and such. 
 
-For the uninitiated, we introduce the term "epistemic" as an adjective that would roughly mean "related to knowledge, appearance, cognition, and such." in most contexts of our usages. 
-
 ## Appearances
 
 Now, in attempting to investigate our candidate means of knowledge, it seems to me that our primary means of conscious contact with the world (and by extension, knowledge of it) is through "appearances."
 
-The world "appears" to us in a certain way. We, by and large, rely on these appearances to navigate the world. 
+The world "appears" to us in a certain way. We, by and large, rely on these appearances to navigate the world and infer its nature. 
 
 Although appearances can be deceiving (as the adage goes), even the clues of such deceit themselves are generally still found in appearances. 
 
@@ -51,68 +56,5 @@ Under the sense in which I am using the notion of "appearance", note that:
 
 Let us expand on them.
 
-### Curse of Language and Philosophy
-
-
-## Appearance, Phenomenal Appearance, and Epistemic Appearance
-
-
-
-
-### Pristine given (appearance) vs judgment
-
-
-
-## Structure of Appearance
-
-**  
-
-Distinction
-
-Similarity and difference
-
-Proportionality 
-
-Object and relations
-
-Categorization
-
-Temporal and spatial ordering
-
-Causal influence
-
-Subsistence
-
-Sign-to-sign intentional relationality (must be more than a mark to avoid infinite regression) -- co-ordination
-
-  
-  
-
-- Unity/Plurality - quantity
-    
-- Motion/Stability - dynamics
-    
-- Identity/Difference - 
-    
-
-mark (distinguised character) + sign stance = sign, signified P(signified|sign) high
-
-  
-
-Cognition of agents as distinguised from mere causation -- personification
-
-  
-
-sign artifact and misleadingness
-
-  
-
-Framing effect
-
-**
-## Appearance and Reality
-
-
-----
-
-[1] Note this notion of "intuition" is not the same as gut feeling or such 
+---
+[[Chapter 1 Introduction|Previous]]

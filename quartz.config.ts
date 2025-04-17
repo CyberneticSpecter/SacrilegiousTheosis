@@ -26,7 +26,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Schibsted Grotesk",
         body: {name: "Oswald",
-		size: 20,},
+		size: 50,},
         code: "IBM Plex Mono",
       },
       colors: {
@@ -44,10 +44,10 @@ const config: QuartzConfig = {
         darkMode: {
           light: "#000000",
           lightgray: "#485763",
-          gray: "#A78BFA",
-          darkgray: "#646464",
-          dark: "#d4d4d4",
-          secondary: "#ED2E70",
+          gray: "#646464", 
+          darkgray: "#d4d4d4",
+          dark: "#A78BFA",
+          secondary: "#C3413C",
           tertiary: "#ED5384",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",

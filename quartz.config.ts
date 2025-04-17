@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Lora",
+        header: "Roboto Mono",
+        body: "Roboto Mono",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -46,8 +46,8 @@ const config: QuartzConfig = {
           gray: "#646464", 
           darkgray: "#EAE5ED",
           dark: "#F27082",
-          secondary: "#E7DCF2",
-          tertiary: "#F0EDF2",
+          secondary: "#F27082",
+          tertiary: "#F2929D",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },

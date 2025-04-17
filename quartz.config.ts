@@ -26,7 +26,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Schibsted Grotesk",
         body: {name: "Oswald",
-		size: 110%},
+		size: 20,},
         code: "IBM Plex Mono",
       },
       colors: {

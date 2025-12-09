@@ -1,4 +1,6 @@
 ---
 title: Welcome to Sacrilegious Theosis
 ---
-Explore sidebar.
+Welcome. Explore sidebar.
+
+![Monk](monk3.png)
